@@ -2,6 +2,7 @@
 layout: default
 title: ГЛ. ЭКРАН
 parent: Основное меню
+has_children: true
 nav_order: 1
 ---
 
