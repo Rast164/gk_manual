@@ -19,5 +19,5 @@ nav_order: 1
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
-</details>
 ```
+</details>
