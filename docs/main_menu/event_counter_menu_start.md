@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Меню-счетчик ПУСК
+title: ПУСК
 parent: ГЛ. ЭКРАН
 grand_parent: Основное меню
 nav_order: 1
