@@ -6,3 +6,6 @@ nav_order: 2
 ---
 
 # Общий вид
+
+![](../../assets/images/general_view.png)
+
