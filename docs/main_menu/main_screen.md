@@ -6,4 +6,4 @@ nav_order: 1
 ---
 
 # ГЛ. ЭКРАН
-<img src="../../assets/images/icons/main_screen.png" width="20" height="20">
+<img src="../../assets/icons/main_screen.png" width="20" height="20">
