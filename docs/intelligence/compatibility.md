@@ -11,9 +11,9 @@ nav_order: 1
   <summary>
     Извещатели пожарные
   </summary>
-| head1        | head two          | three |
+| Наименование | Полное обозначение | Краткое обозначение |
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
+| Извещатель пожарный дымовой оптико-электронный адресно-аналоговый | ИП 212-149 | ИПД  |
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
