@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal
 title: Общий вид
 parent: Основные сведения
 nav_order: 2
