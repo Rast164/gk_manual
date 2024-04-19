@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal
 title: Совместимость
 parent: Основные сведения
 nav_order: 1
