@@ -2,7 +2,7 @@
 layout: default
 title: Общий вид
 parent: Основные сведения
-nav_order: 2
+nav_order: 1
 ---
 
 # Общий вид
