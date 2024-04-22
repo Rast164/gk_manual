@@ -2,7 +2,7 @@
 layout: default
 title: Совместимость
 parent: Основные сведения
-nav_order: 2
+nav_order: 3
 ---
 
 # Список совместимых адресных устройств
