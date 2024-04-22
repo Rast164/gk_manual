@@ -19,6 +19,7 @@ permalink: /docs/intelligence
 Количество модулей зависит от конкретного исполнения, указанного в сопроводительной документации и на этикетке ГК.
 
 <p align="center">
+<img src="../assets/images/designation.png">
 ![1](../assets/images/designation.png)
 </p>
 
