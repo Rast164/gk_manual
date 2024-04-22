@@ -20,11 +20,10 @@ permalink: /docs/intelligence
 
 <p align="center">
 <img src="../assets/images/designation.png">
-![1](../assets/images/designation.png)
 </p>
 
 При необходимости увеличения количества [адресных устройств]({% link docs/intelligence/compatibility.md %}#Список-совместимых-адресных-устройств) к ГК по цифровой линии связи подключают контроллер адресных устройств КАУ, к которому по адресной линии связи подключают дополнительные [адресные устройства]({% link docs/intelligence/compatibility.md %}#Список-совместимых-адресных-устройств). Управление такими [адресными устройствами]({% link docs/intelligence/compatibility.md %}#Список-совместимых-адресных-устройств) осуществляется с КАУ. ГК принимает, отображает и обрабатывает информацию со всех подключенных к нему КАУ и контролирует целостность цифровой линии связ.
 
 <p align="center">
-![2](../assets/images/intelligence.png)
+<img src="../assets/images/intelligence.png">
 </p>
