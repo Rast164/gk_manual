@@ -1,15 +1,1 @@
-<button class="btn js-toggle-dark-mode">Темный режим</button>
 
-<script>
-const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
-
-jtd.addEvent(toggleDarkMode, 'click', function(){
-  if (jtd.getTheme() === 'dark') {
-    jtd.setTheme('light');
-    toggleDarkMode.textContent = 'Темный режим';
-  } else {
-    jtd.setTheme('dark');
-    toggleDarkMode.textContent = 'Светлый режим';
-  }
-});
-</script>
