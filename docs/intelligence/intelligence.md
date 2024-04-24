@@ -28,4 +28,4 @@ permalink: /docs/intelligence
 <p align="center">
 <img src="../assets/images/intelligence.png">
 </p>
-Подробнее про КАУ смотрите в [руководстве на КАУ]({% link fff/fff %}).
+Подробнее про КАУ смотрите в руководстве на КАУ.
