@@ -31,7 +31,5 @@ permalink: /docs/intelligence
 
 ## КАУ
 При необходимости увеличения количества [адресных устройств]({% link docs/intelligence/compatibility.md %}#Список-совместимых-адресных-устройств) к ГК по [PFM]({% link docs/intelligence/communications_lines.md %}#цифровая-линия-связи) подключают контроллер адресных устройств КАУ, к которому по [АЛС]({% link docs/intelligence/communications_lines.md %}#адресная-линия-связи) подключают дополнительные [адресные устройства]({% link docs/intelligence/compatibility.md %}#Список-совместимых-адресных-устройств). Управление такими [адресными устройствами]({% link docs/intelligence/compatibility.md %}#Список-совместимых-адресных-устройств) осуществляется с КАУ. ГК принимает, отображает и обрабатывает информацию со всех подключенных к нему КАУ и контролирует целостность [PFM]({% link docs/intelligence/communications_lines.md %}#цифровая-линия-связи). 
-<p align="center">
-<img src="../assets/images/intelligence.png">
-</p>
+
 Подробнее про КАУ смотрите в руководстве на КАУ.
