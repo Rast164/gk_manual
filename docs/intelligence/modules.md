@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Модули
+title: Составные модули
 parent: Основные сведения
-nav_order: 2
+nav_order: 1
 ---
 
 # Составные модули
