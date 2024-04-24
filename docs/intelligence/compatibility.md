@@ -2,10 +2,12 @@
 layout: default
 title: Совместимость
 parent: Основные сведения
-nav_order: 3
+nav_order: 2
 ---
 
-# Список совместимых адресных устройств
+# Совместимость ГК
+
+## Список совместимых адресных устройств
 
 <details open markdown="block">
   <summary>
