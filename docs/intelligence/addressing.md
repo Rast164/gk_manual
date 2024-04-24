@@ -2,10 +2,13 @@
 layout: default
 title: Адресация
 parent: Основные сведения
-nav_order: 4
+nav_order: 3
 ---
 
 # Адресация
+
+
+## Адресный номер
 Каждое устройство (ГК, [КАУ]({% link docs/intelligence/intelligence.md %}#кау), [составной модуль]({% link docs/intelligence/modules.md %}#составные-модули), [АЛС]({% link docs/intelligence/communications_lines.md %}#адресная-линия-связи) и [адресное устройство]({% link docs/intelligence/compatibility.md %}#Список-совместимых-адресных-устройств)) имеют свой уникальный идентификатор в системе - адресный номер.
 Адресный номер имеет вид **x1**.**x2**.**x3**.**x4**, где:
 - **x1** - порядковый номер ГК или [КАУ]({% link docs/intelligence/intelligence.md %}#кау). Максимальное значение соответствует суммарному количеству заложенных в проект ГК и [КАУ]({% link docs/intelligence/intelligence.md %}#кау), но не более 65;
