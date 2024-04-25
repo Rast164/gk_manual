@@ -38,7 +38,7 @@ nav_order: 4
 {: .note-title }
 > ПРИМЕЧАНИЕ
 >
-> Сегментом АЛС считается участок кабеля ГК - [АУ]({% link docs/intelligence/compatibility.md %}#Список-совместимых-адресных-устройств) и [АУ]({% link docs/intelligence/compatibility.md %}#Список-совместимых-адресных-устройств) - [АУ]({% link docs/intelligence/compatibility.md %}#Список-совместимых-адресных-устройств)
+> Сегментом АЛС считается участок кабеля ГК — [АУ]({% link docs/intelligence/compatibility.md %}#Список-совместимых-адресных-устройств) и [АУ]({% link docs/intelligence/compatibility.md %}#Список-совместимых-адресных-устройств) — [АУ]({% link docs/intelligence/compatibility.md %}#Список-совместимых-адресных-устройств)
 
 </details>
 
@@ -69,7 +69,7 @@ PFM выполнены в топологии **кольцо**, что позво
 {: .note-title }
 > ПРИМЕЧАНИЕ
 >
-> Сегментом PFM считается участок кабеля ГК — [КАУ]({% link docs/intelligence/intelligence.md %}#кау) и [КАУ]({% link docs/intelligence/intelligence.md %}#кау) - [КАУ]({% link docs/intelligence/intelligence.md %}#кау)
+> Сегментом PFM считается участок кабеля ГК — [КАУ]({% link docs/intelligence/intelligence.md %}#кау) и [КАУ]({% link docs/intelligence/intelligence.md %}#кау) — [КАУ]({% link docs/intelligence/intelligence.md %}#кау)
 
 </details>
 
