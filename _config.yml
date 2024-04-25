@@ -12,12 +12,15 @@ back_to_top_text: "В начало страницы"
 
 callouts_level: quiet # or loud
 callouts:
-  recommended:
-    title: РЕКОМЕНДУЕТСЯ
+  recommendation:
+    title: РЕКОМЕНДАЦИЯ
     color: blue
+  example:
+    title: ПРИМЕР
+    color: green      
   note:
     title: ПРИМЕЧАНИЕ
-    color: purple
+    color: yellow
   warning:
     title: ВНИМАНИЕ
     color: red
