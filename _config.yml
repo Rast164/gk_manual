@@ -9,3 +9,15 @@ aux_links:
 
 back_to_top: true
 back_to_top_text: "В начало страницы"
+
+callouts_level: quiet # or loud
+callouts:
+  recommended:
+    title: РЕКОМЕНДУЕТСЯ
+    color: blue
+  note:
+    title: ПРИМЕЧАНИЕ
+    color: purple
+  warning:
+    title: ВНИМАНИЕ
+    color: red
