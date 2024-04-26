@@ -8,7 +8,7 @@ nav_order: 2
 # Совместимость ГК
 
 ## Список совместимых адресных устройств
-<details markdown="block">
+## <details markdown="block">
   <summary>
   Извещатели пожарные
   </summary>
