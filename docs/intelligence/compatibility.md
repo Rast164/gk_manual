@@ -234,7 +234,7 @@ nav_order: 2
 {: .no_toc }
 
 <p align="center">
-<img src="../../assets/images/devices/rm1m.png">
+<img src="../../assets/images/devices/rm4.png">
 </p>
 
 |Наименование|Полное обозначение|Краткое обозначение|
@@ -247,7 +247,7 @@ nav_order: 2
 {: .no_toc }
 
 <p align="center">
-<img src="../../assets/images/devices/rm2.png">
+<img src="../../assets/images/devices/rm4.png">
 </p>
 
 |Наименование|Полное обозначение|Краткое обозначение|
