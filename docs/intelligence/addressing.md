@@ -17,26 +17,26 @@ nav_order: 3
 
 ## Адресный номер составных модулей
 Адресный номер [составных модулей]({% link docs/intelligence/modules.md %}#составные-модули) имеет вид **x1**.**x2**, где:
-- **x1** - порядковый номер ГК или [КАУ]({% link docs/intelligence/intelligence.md %}#кау), к которому физически подключен [составной модуль]({% link docs/intelligence/modules.md %}#составные-модули);
-- **x2** - порядковый номер [составного модуля]({% link docs/intelligence/modules.md %}#составные-модули);
+- **x1** - порядковый номер ГК или [КАУ]({% link docs/intelligence/intelligence.md %}#кау);
+- **x2** - порядковый номер [составного модуля]({% link docs/intelligence/modules.md %}#составные-модули).
 
 ## Адресный номер входов МДИ и выходов МДО
 Адресный номер входов [МДИ]({% link docs/intelligence/modules.md %}#модуль-дискретных-входных-сигналов-с-контролем-цепи) и выходов [МДО]({% link docs/intelligence/modules.md %}#модуль-дискретных-выходных-сигналов-с-контролем-цепи) имеет вид **x1**.**x2**.**x3**, где:
-- **x1** - порядковый номер ГК или [КАУ]({% link docs/intelligence/intelligence.md %}#кау), к которому физически подключен [МДИ]({% link docs/intelligence/modules.md %}#модуль-дискретных-входных-сигналов-с-контролем-цепи) или [МДО]({% link docs/intelligence/modules.md %}#модуль-дискретных-выходных-сигналов-с-контролем-цепи);
+- **x1** - порядковый номер ГК или [КАУ]({% link docs/intelligence/intelligence.md %}#кау);
 - **x2** - порядковый номер [МДИ]({% link docs/intelligence/modules.md %}#модуль-дискретных-входных-сигналов-с-контролем-цепи) или [МДО]({% link docs/intelligence/modules.md %}#модуль-дискретных-выходных-сигналов-с-контролем-цепи);
 - **x3** - порядковый номер входа [МДИ]({% link docs/intelligence/modules.md %}#модуль-дискретных-входных-сигналов-с-контролем-цепи) или выхода [МДО]({% link docs/intelligence/modules.md %}#модуль-дискретных-выходных-сигналов-с-контролем-цепи).
 
 ## Адресный номер АЛС
 Адресный номер [АЛС]({% link docs/intelligence/communications_lines.md %}#адресная-линия-связи) имеет вид **x1**.**x2**.**x3**, где:
-- **x1** - порядковый номер ГК или [КАУ]({% link docs/intelligence/intelligence.md %}#кау), к которому физически подключена [АЛС]({% link docs/intelligence/communications_lines.md %}#адресная-линия-связи);
-- **x2** - порядковый номер [МЦП]({% link docs/intelligence/modules.md %}#модуль-центрального-процессора) или [МКА]({% link docs/intelligence/modules.md %}#модуль-кольцевых-адресных-линий-связи), к которому физически подключена [АЛС]({% link docs/intelligence/communications_lines.md %}#адресная-линия-связи);
+- **x1** - порядковый номер ГК или [КАУ]({% link docs/intelligence/intelligence.md %}#кау);
+- **x2** - порядковый номер [МЦП]({% link docs/intelligence/modules.md %}#модуль-центрального-процессора) или [МКА]({% link docs/intelligence/modules.md %}#модуль-кольцевых-адресных-линий-связи);
 - **x3** - порядковый номер [АЛС]({% link docs/intelligence/communications_lines.md %}#адресная-линия-связи).
 
 ## Адресный номер АУ
 Адресный номер [АУ]({% link docs/intelligence/compatibility.md %}#Список-совместимых-адресных-устройств) имеет вид **x1**.**x2**.**x3**.**x4**, где:
 - **x1** - порядковый номер ГК или [КАУ]({% link docs/intelligence/intelligence.md %}#кау);
-- **x2** - порядковый номер [МЦП]({% link docs/intelligence/modules.md %}#модуль-центрального-процессора) или [МКА]({% link docs/intelligence/modules.md %}#модуль-кольцевых-адресных-линий-связи), к которому физически подключена [АЛС]({% link docs/intelligence/communications_lines.md %}#адресная-линия-связи), к которой физически подключено [АУ]({% link docs/intelligence/compatibility.md %}#Список-совместимых-адресных-устройств);
-- **x3** - порядковый номер [АЛС]({% link docs/intelligence/communications_lines.md %}#адресная-линия-связи), к которой физически подключено [АУ]({% link docs/intelligence/compatibility.md %}#Список-совместимых-адресных-устройств);
+- **x2** - порядковый номер [МЦП]({% link docs/intelligence/modules.md %}#модуль-центрального-процессора) или [МКА]({% link docs/intelligence/modules.md %}#модуль-кольцевых-адресных-линий-связи);
+- **x3** - порядковый номер [АЛС]({% link docs/intelligence/communications_lines.md %}#адресная-линия-связи);
 - **x4** - порядковый номер [АУ]({% link docs/intelligence/compatibility.md %}#Список-совместимых-адресных-устройств).
 
 {: .note }
