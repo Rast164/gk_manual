@@ -8,7 +8,7 @@ permalink: /docs/control_panel
 
 # Панель управления и индикации
 <p align="center">
-<img src="../../assets/images/control_panel.png">
+<img src="../assets/images/control_panel.png">
 </p>
 
 ## Считыватель карт доступа
