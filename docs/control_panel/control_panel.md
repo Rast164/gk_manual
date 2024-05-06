@@ -37,9 +37,9 @@ permalink: /docs/control_panel
 |Клавиша|Режим работы|
 |:---|:---|
 |<img src="../assets/icons/keys/k_otmenit.png">||
-|<img src="../assets/icons/keys/k_dobavit">||
+|<img src="../assets/icons/keys/k_dobavit.png">||
 |<img src="../assets/icons/keys/k_vyykluchit.png">||
 |<img src="../assets/icons/keys/k_sbros_pozhara.png">|Непрерывно светится желтым при ручной приостановке пуска одного или более сценария или устройства системы противопожарной защиты|
 |<img src="../assets/icons/keys/k_vkluchit.png">||
 |<img src="../assets/icons/keys/k_vyykluchit_zvuk.png">|Отключает звуковую сигнализацию ГК до получения нового сигнала о неисправности, пожаре или пуске|
-|<img src="../assets/icons/keys/k_vkluchit_zvuk">|Включает ранее отключенную звуковую сигнализацию|
+|<img src="../assets/icons/keys/k_vkluchit_zvuk.png">|Включает ранее отключенную звуковую сигнализацию|
