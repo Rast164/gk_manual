@@ -19,7 +19,7 @@ permalink: /docs/control_panel
 
 |Иконка|Название|Режим работы|
 |:---:|:---|:---|
-|<img src="../assets/icons/light_indicators/li_pusk.png" width="40" height="40">|ПУСК|Непрерывно светится красным при переходе ГК в [состояние ПУСК]({% link docs/getting_started/getting_started.md %}#основные-состояния-гк)|
+|<img src="../assets/icons/light_indicators/li_pusk.png" width="50" height="50">|ПУСК|Непрерывно светится красным при переходе ГК в [состояние ПУСК]({% link docs/getting_started/getting_started.md %}#основные-состояния-гк)|
 |<img src="../assets/icons/light_indicators/li_pozhar.png" width="40" height="40">|ПОЖАР|Непрерывно светится красным при переходе ГК в состояние [состояние ПОЖАР]({% link docs/getting_started/getting_started.md %}#основные-состояния-гк)|
 |<img src="../assets/icons/light_indicators/li_vnimanie.png" width="40" height="40">|ВНИМАНИЕ|Непрерывно светится красным при переходе ГК в [состояние ВНИМАНИЕ]({% link docs/getting_started/getting_started.md %}#основные-состояния-гк)|
 |<img src="../assets/icons/light_indicators/li_ostanov_puska.png" width="40" height="40">|ОСТАНОВ ПУСКА|Непрерывно светится желтым при ручной приостановке пуска одного или более сценария или устройства системы противопожарной защиты|
