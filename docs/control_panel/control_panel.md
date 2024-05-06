@@ -19,7 +19,9 @@ permalink: /docs/control_panel
 
 |Индикатор|Режим работы|
 |:---|:---|
-|<img src="../assets/icons/light_indicators/li_pusk.png" width="40" height="40"> ПУСК|Непрерывно светится красным при переходе ГК в [состояние ПУСК]({% link docs/getting_started/getting_started.md %}#основные-состояния-гк)|
+|<img src="../assets/icons/light_indicators/li_pusk.png" height="40">|Непрерывно светится красным при переходе ГК в [состояние ПУСК]({% link docs/getting_started/getting_started.md %}#основные-состояния-гк)|
+|<img src="../assets/icons/light_indicators/li_pozhar.png" width="40" height="40">|Непрерывно светится красным при переходе ГК в состояние [состояние ПОЖАР]({% link docs/getting_started/getting_started.md %}#основные-состояния-гк)|
+|<img src="../assets/icons/light_indicators/li_vnimanie.png" width="40" height="40">|Непрерывно светится красным при переходе ГК в [состояние ВНИМАНИЕ]({% link docs/getting_started/getting_started.md %}#основные-состояния-гк)|
 
 ## Клавиши управления
 Доступ к клавишам управления ограничен профилями доступа пользователей. Работа с клавишами осуществляется однократным нажатием. Некоторые клавиши являются контекстными – функционируют только в меню-счетчика событий «ПУСК» при выборе определенного события.
