@@ -110,7 +110,7 @@ permalink: /docs/control_panel
       <td style="text-align: left"></td>
     </tr>
     <tr>
-      <td style="text-align: center"><img src="../assets/icons/k_sbros_pozhara.png" width="50" height="50"></td>
+      <td style="text-align: center"><img src="../assets/icons/keys/k_sbros_pozhara.png" width="50" height="50"></td>
       <td style="text-align: left">СБРОС ПОЖАРА</td>
       <td style="text-align: left">Переводит ГК в состояние, которое было до прихода сигнала «Пожар» или «Внимание». Если сигнал продолжает поступать, то состояние «Пожар» или «Внимание» не сбрасывается</td>
     </tr>
