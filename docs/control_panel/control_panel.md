@@ -42,4 +42,4 @@ permalink: /docs/control_panel
 |<img src="../assets/icons/keys/k_sbros_pozhara.png">|Непрерывно светится желтым при ручной приостановке пуска одного или более сценария или устройства системы противопожарной защиты|
 |<img src="../assets/icons/keys/k_vkluchit.png">||
 |<img src="../assets/icons/keys/k_vyykluchit_zvuk.png">|Отключает звуковую сигнализацию ГК до получения нового сигнала о неисправности, пожаре или пуске|
-|<img src="../assets/icons/keys/k_vkluchit_zvuk.png" height="80">|Включает ранее отключенную звуковую сигнализацию|
+|<img src="../assets/icons/keys/k_vkluchit_zvuk.png" width="94" height="80">|Включает ранее отключенную звуковую сигнализацию|
