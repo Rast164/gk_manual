@@ -36,10 +36,10 @@ permalink: /docs/control_panel
 
 |Иконка|Название|Режим работы|
 |:---:|:---|:---|
-|<img src="../assets/icons/keys/k_otmenit.png" width="50" height="50">|ОТМЕНИТЬ (задержка пуска)||
-|<img src="../assets/icons/keys/k_dobavit.png" width="50" height="50">|ДОБАВИТЬ (задержка пуска)||
+|<img src="../assets/icons/keys/k_otmenit.png" width="50" height="50">|ОТМЕНИТЬ <br>(задержка пуска)||
+|<img src="../assets/icons/keys/k_dobavit.png" width="50" height="50">|ДОБАВИТЬ <br>(задержка пуска)||
 |<img src="../assets/icons/keys/k_vyykluchit.png" width="50" height="50">|ВЫКЛЮЧИТЬ||
 |<img src="../assets/icons/keys/k_sbros_pozhara.png" width="50" height="50">|СБРОС ПОЖАРА|Непрерывно светится желтым при ручной приостановке пуска одного или более сценария или устройства системы противопожарной защиты|
 |<img src="../assets/icons/keys/k_vkluchit.png" width="50" height="50">|ВКЛЮЧИТЬ||
-|<img src="../assets/icons/keys/k_vyykluchit_zvuk.png" width="50" height="50">|ВЫКЛЮЧИТЬ (звук)|Отключает звуковую сигнализацию до получения ГК нового сообщения о неисправности, пожаре или пуске|
-|<img src="../assets/icons/keys/k_vkluchit_zvuk.png" width="50" height="50">|ВКЛЮЧИТЬ (звук)|Включает отключенную звуковую сигнализацию|
+|<img src="../assets/icons/keys/k_vyykluchit_zvuk.png" width="50" height="50">|ВЫКЛЮЧИТЬ <br>(звук)|Отключает звуковую сигнализацию до получения ГК нового сообщения о неисправности, пожаре или пуске|
+|<img src="../assets/icons/keys/k_vkluchit_zvuk.png" width="50" height="50">|ВКЛЮЧИТЬ <br>(звук)|Включает отключенную звуковую сигнализацию|
