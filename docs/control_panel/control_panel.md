@@ -21,7 +21,7 @@ permalink: /docs/control_panel
   <thead> 
     <tr> 
       <th style="text-align: center" colspan="2">Индикатор</th>
-      <th style="text-align: center">Режим работы</th>
+      <th style="text-align: left">Режим работы</th>
     </tr>
   </thead> 
   <tbody>
@@ -90,7 +90,7 @@ permalink: /docs/control_panel
   <thead> 
     <tr> 
       <th style="text-align: center" colspan="2">Клавиша</th>
-      <th style="text-align: center">Режим работы</th>
+      <th style="text-align: left">Режим работы</th>
     </tr>
   </thead> 
   <tbody>
