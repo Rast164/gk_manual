@@ -19,8 +19,8 @@ permalink: /docs/control_panel
 
 |Индикатор|Режим работы|
 |:---|:---|
-|<img src="../assets/icons/light_indicators/li_pusk.png" height="40">|Непрерывно светится красным при переходе ГК в [состояние ПУСК]({% link docs/getting_started/getting_started.md %}#основные-состояния-гк)|
-|<img src="../assets/icons/light_indicators/li_pozhar.png" width="230" height="45">|Непрерывно светится красным при переходе ГК в состояние [состояние ПОЖАР]({% link docs/getting_started/getting_started.md %}#основные-состояния-гк)|
+|<img src="../assets/icons/light_indicators/li_pusk.png" width="204">|Непрерывно светится красным при переходе ГК в [состояние ПУСК]({% link docs/getting_started/getting_started.md %}#основные-состояния-гк)|
+|<img src="../assets/icons/light_indicators/li_pozhar.png" width="204">|Непрерывно светится красным при переходе ГК в состояние [состояние ПОЖАР]({% link docs/getting_started/getting_started.md %}#основные-состояния-гк)|
 |<img src="../assets/icons/light_indicators/li_vnimanie.png" width="204">|Непрерывно светится красным при переходе ГК в [состояние ВНИМАНИЕ]({% link docs/getting_started/getting_started.md %}#основные-состояния-гк)|
 
 ## Клавиши управления
