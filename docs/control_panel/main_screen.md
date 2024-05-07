@@ -2,6 +2,7 @@
 layout: default
 title: ГЛ. ЭКРАН
 parent: Основное меню
+grand_parent: Панель управления
 nav_order: 1
 ---
 
