@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Основное меню
-nav_order: 5
+parent: Панель управления
+nav_order: 2
 has_children: true
-permalink: /docs/main_menu
+permalink: /docs/control_panel/main_menu
 ---
 
 # Основное меню
