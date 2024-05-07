@@ -28,7 +28,7 @@ permalink: /docs/control_panel
     <tr>
       <td style="text-align: center"><img src="../assets/icons/light_indicators/li_pusk.png" width="50" height="50"></td>
       <td style="text-align: left">ПУСК</td>
-      <td style="text-align: left">Непрерывно светится красным при переходе ГК в [состояние ПУСК]({% link docs/getting_started/getting_started.md %}#при-запуске-одного-или-более-сценария)</td>
+      <td style="text-align: left">Непрерывно светится красным при переходе ГК в [состояние ПУСК]({% link docs/getting_started/getting_started.md %}#основные-состояния-гк)</td>
     </tr>
     <tr>
       <td style="text-align: center"><img src="../assets/icons/light_indicators/li_pozhar.png" width="50" height="50"></td>
