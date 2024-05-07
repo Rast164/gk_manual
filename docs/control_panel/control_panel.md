@@ -28,12 +28,12 @@ permalink: /docs/control_panel
     <tr>
       <td style="text-align: center"><img src="../assets/icons/light_indicators/li_pusk.png" width="50" height="50"></td>
       <td style="text-align: left">ПУСК</td>
-      <td style="text-align: left">Непрерывно светится красным при переходе ГК в <a href="/gk_manual/docs/getting_started#основные-состояния-гк">состояние ПУСК</a></td>
+      <td style="text-align: left">Непрерывно светится красным при переходе ГК в [состояние ПУСК]({% link docs/getting_started/getting_started.md %}#при-запуске-одного-или-более-сценария)</td>
     </tr>
     <tr>
       <td style="text-align: center"><img src="../assets/icons/light_indicators/li_pozhar.png" width="50" height="50"></td>
       <td style="text-align: left">ПОЖАР</td>
-      <td style="text-align: left">Непрерывно светится красным при переходе ГК в состояние <a href="/gk_manual/docs/getting_started#основные-состояния-гк">состояние ПОЖАР</a></td>
+      <td style="text-align: left">Непрерывно светится красным при переходе ГК в состояние <a href="/gk_manual/docs/getting_started#при-запуске-одного-или-более-сценария">состояние ПОЖАР</a></td>
     </tr>
     <tr>
       <td style="text-align: center"><img src="../assets/icons/light_indicators/li_vnimanie.png" width="50" height="50"></td>
