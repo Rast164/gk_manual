@@ -36,14 +36,14 @@ permalink: /docs/getting_started
   <tbody>
     <tr>
       <td id="состояние_пуск" style="text-align: center">ПУСК</td>
-      <td style="text-align: left">При запуске одного или более сценария или [АУ]({% link docs/intelligence/compatibility.md %}#список-совместимых-адресных-устройств) системы противопожарной защиты</td>
+      <td style="text-align: left">При запуске одного или более сценария или <a href="/gk_manual/docs/intelligence/compatibility.html#Список-совместимых-адресных-устройств">АУ</a> системы противопожарной защиты</td>
     </tr>
     <tr>
       <td id="состояние_пожар" style="text-align: center">ПОЖАР</td>
       <td style="text-align: left">При получении данных от [извещателей пожарных]({% link docs/intelligence/compatibility.md %}#извещатели), которые при обработке идентифицируются, как сигнал о пожаре</td>
     </tr>
     <tr>
-      <td id="состояние_внимание" style="text-align: center">ВНИМАНИЕ>/td>
+      <td id="состояние_внимание" style="text-align: center">ВНИМАНИЕ</td>
       <td style="text-align: left">При получении данных от [извещателей пожарных]({% link docs/intelligence/compatibility.md %}#извещатели), которые при обработке идентифицируются, как сигнал о предварительной пожарной тревоге</td>
     </tr>
     <tr>
@@ -68,3 +68,5 @@ permalink: /docs/getting_started
     </tr>
   </tbody>
 </table>
+
+[извещателей пожарных]({% link docs/intelligence/compatibility.md %}#извещатели)
