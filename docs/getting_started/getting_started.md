@@ -40,11 +40,11 @@ permalink: /docs/getting_started
     </tr>
     <tr>
       <td id="состояние_пожар" style="text-align: center">ПОЖАР</td>
-      <td style="text-align: left">При получении данных от [извещателей пожарных]({% link docs/intelligence/compatibility.md %}#извещатели), которые при обработке идентифицируются, как сигнал о пожаре</td>
+      <td style="text-align: left">При получении данных от <a href="/gk_manual/docs/intelligence/compatibility.html#извещатели">извещателей пожарных</a>, которые при обработке идентифицируются, как сигнал о пожаре</td>
     </tr>
     <tr>
       <td id="состояние_внимание" style="text-align: center">ВНИМАНИЕ</td>
-      <td style="text-align: left">При получении данных от [извещателей пожарных]({% link docs/intelligence/compatibility.md %}#извещатели), которые при обработке идентифицируются, как сигнал о предварительной пожарной тревоге</td>
+      <td style="text-align: left">При получении данных от <a href="/gk_manual/docs/intelligence/compatibility.html#извещатели">извещателей пожарных</a>, которые при обработке идентифицируются, как сигнал о предварительной пожарной тревоге</td>
     </tr>
     <tr>
       <td id="состояние_неисправность" style="text-align: center">НЕИСПРАВНОСТЬ</td>
@@ -68,5 +68,3 @@ permalink: /docs/getting_started
     </tr>
   </tbody>
 </table>
-
-[извещателей пожарных]({% link docs/intelligence/compatibility.md %}#извещатели)
