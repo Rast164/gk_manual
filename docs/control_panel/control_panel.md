@@ -15,13 +15,13 @@ permalink: /docs/control_panel
 Считыватель карт доступа является средством ограничения доступа посторонних лиц к прибору. Для работы с прибором сначала необходимо приложить карту доступа к считывателю.
 
 ## Световые индикаторы
-Обобщенные световые индикаторы показывают текущее состояние ГК. Расшифровка направления отображается на сенсорном экране.
+Световые индикаторы показывают текущие [состояния ГК]({% link docs/getting_started/getting_started.md %}#лсновные-состояния-гк)). Индикаторы показывают общее состояние ГК, расшифровка направления отображается на [сенсорном экране]({% link docs/control_panel/touch_screen.md %}#сенсорный-экран)).
 
 <table> 
   <thead> 
     <tr> 
       <th style="text-align: center" colspan="2">Индикатор</th>
-      <th style="text-align: left">Режим работы</th>
+      <th style="text-align: center">Режим работы</th>
     </tr>
   </thead> 
   <tbody>
@@ -90,7 +90,7 @@ permalink: /docs/control_panel
   <thead> 
     <tr> 
       <th style="text-align: center" colspan="2">Клавиша</th>
-      <th style="text-align: left">Режим работы</th>
+      <th style="text-align: center">Режим работы</th>
     </tr>
   </thead> 
   <tbody>
