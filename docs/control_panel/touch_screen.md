@@ -9,7 +9,7 @@ nav_order: 1
 Сенсорный экран является средством вывода текстовой и символьной информации и основным органом управления ГК. Доступ к сенсорному экрану ограничен [профилями доступа пользователей]({% link docs/getting_started/getting_started.md %}#профили-доступа-пользователей).
 
 <p align="center">
-<img src="../assets/images/touch_screen.png">
+<img src="../../assets/images/touch_screen.png">
 </p>
 
 ### Индикатор состояния
