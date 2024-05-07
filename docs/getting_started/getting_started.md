@@ -52,11 +52,11 @@ permalink: /docs/getting_started
     </tr>
     <tr>
       <td id="состояние_отключение" style="text-align: center">ОТКЛЮЧЕНИЕ</td>
-      <td style="text-align: left">При отключении сценария, пожарной зоны, [составного модуля]({% link docs/intelligence/modules.md %}#составные-модули) или [АУ]({% link docs/intelligence/compatibility.md %}#Список-совместимых-адресных-устройств)</td>
+      <td style="text-align: left">При отключении сценария, пожарной зоны, <a href="/gk_manual/docs/intelligence/modules.html#составные-модули">составного модуля</a> или <a href="/gk_manual/docs/intelligence/compatibility.html#Список-совместимых-адресных-устройств">АУ</a></td>
     </tr>
     <tr>
       <td id="состояние_автоматика_отключена" style="text-align: center">АВТОМАТИКА ОТКЛЮЧЕНА</td>
-      <td style="text-align: left">При отключении автоматики (переводе в ручной режим работы) сценария или [АУ]({% link docs/intelligence/compatibility.md %}#Список-совместимых-адресных-устройств)</td>
+      <td style="text-align: left">При отключении автоматики (переводе в ручной режим работы) сценария или <a href="/gk_manual/docs/intelligence/compatibility.html#Список-совместимых-адресных-устройств">АУ</a></td>
     </tr>
     <tr>
       <td id="состояние_тест" style="text-align: center">ТЕСТ</td>
