@@ -24,35 +24,35 @@ nav_order: 1
   </thead> 
   <tbody>
     <tr>
-      <td style="text-align: center"><img src="../../assets/icons/screen_indicator/si_pusk.png" width="280" height="40"></td>
+      <td style="text-align: center"><img src="../../assets/icons/screen_indicator/si_pusk.png" width="210" height="30"></td>
       <td style="text-align: left">Включается при переходе ГК в <a href="/gk_manual/docs/getting_started#состояние_пуск">состояние ПУСК</a></td>
     </tr>
     <tr>
-      <td style="text-align: center"><img src="../../assets/icons/screen_indicator/si_pozhar.png" width="280" height="40"></td>
+      <td style="text-align: center"><img src="../../assets/icons/screen_indicator/si_pozhar.png" width="210" height="30"></td>
       <td style="text-align: left">Включается при переходе ГК в <a href="/gk_manual/docs/getting_started#состояние_пожар">состояние ПОЖАР</a></td>
     </tr>
     <tr>
-      <td style="text-align: center"><img src="../../assets/icons/screen_indicator/si_vnimanie.png" width="280" height="40"></td>
+      <td style="text-align: center"><img src="../../assets/icons/screen_indicator/si_vnimanie.png" width="210" height="30"></td>
       <td style="text-align: left">Включается при переходе ГК в <a href="/gk_manual/docs/getting_started#состояние_внимание">состояние ВНИМАНИЕ</a></td>
     </tr>
     <tr>
-      <td style="text-align: center"><img src="../../assets/icons/screen_indicator/si_neispravnost.png" width="280" height="40"></td>
+      <td style="text-align: center"><img src="../../assets/icons/screen_indicator/si_neispravnost.png" width="210" height="30"></td>
       <td style="text-align: left">Включается при переходе ГК в <a href="/gk_manual/docs/getting_started#состояние_неисправность">состояние НЕИСПРАВНОСТЬ</a></td>
     </tr>
     <tr>
-      <td style="text-align: center"><img src="../../assets/icons/screen_indicator/si_otkluchenie.png" width="280" height="40"></td>
+      <td style="text-align: center"><img src="../../assets/icons/screen_indicator/si_otkluchenie.png" width="210" height="30"></td>
       <td style="text-align: left">Включается при переходе ГК в <a href="/gk_manual/docs/getting_started#состояние_отключение">состояние ОТКЛЮЧЕНИЕ</a></td>
     </tr>
     <tr>
-      <td style="text-align: center"><img src="../../assets/icons/screen_indicator/si_avt_otkluchena.png" width="280" height="40"></td>
+      <td style="text-align: center"><img src="../../assets/icons/screen_indicator/si_avt_otkluchena.png" width="210" height="30"></td>
       <td style="text-align: left">Включается при переходе ГК в <a href="/gk_manual/docs/getting_started#состояние_автоматика_отключена">состояние АВТОМАТИКА ОТКЛЮЧЕНА</a></td>
     </tr>
     <tr>
-      <td style="text-align: center"><img src="../../assets/icons/screen_indicator/si_test.png" width="280" height="40"></td>
+      <td style="text-align: center"><img src="../../assets/icons/screen_indicator/si_test.png" width="210" height="30"></td>
       <td style="text-align: left">Включается при переходе ГК в <a href="/gk_manual/docs/getting_started#состояние_тест">состояние ТЕСТ</a></td>
     </tr>
     <tr>
-      <td style="text-align: center"><img src="../../assets/icons/screen_indicator/si_dezhurnyi.png" width="280" height="40"></td>
+      <td style="text-align: center"><img src="../../assets/icons/screen_indicator/si_dezhurnyi.png" width="210" height="30"></td>
       <td style="text-align: left">Включается при переходе ГК в <a href="/gk_manual/docs/getting_started#состояние_дежурный">состояние ДЕЖУРНЫЙ</a></td>
     </tr>
   </tbody>
