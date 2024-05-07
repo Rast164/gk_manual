@@ -29,6 +29,14 @@ nav_order: 1
     <tr>
       <td style="text-align: center"><img src="../../assets/icons/screen_indicator/si_pusk.png" width="280" height="40"></td>
       <td style="text-align: left">Включается при переходе ГК в <a href="/gk_manual/docs/getting_started#состояние_пуск">состояние ПУСК</a></td>
-    </tr>   
+    </tr>
+    <tr>
+      <td style="text-align: center"><img src="../../assets/icons/screen_indicator/si_pozhar.png" width="280" height="40"></td>
+      <td style="text-align: left">Включается при переходе ГК в <a href="/gk_manual/docs/getting_started#состояние_пожар">состояние ПОЖАР</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center"><img src="../../assets/icons/screen_indicator/si_vnimanie.png" width="280" height="40"></td>
+      <td style="text-align: left">Включается при переходе ГК в <a href="/gk_manual/docs/getting_started#состояние_внимание">состояние ВНИМАНИЕ</a></td>
+    </tr>
   </tbody>
 </table>
