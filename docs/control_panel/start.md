@@ -1,9 +1,9 @@
 ---
 layout: default
 title: ПУСК
-parent: Меню событий
+parent: Экран событий
 grand_parent: Панель управления
 nav_order: 1
 ---
 
-# Меню событий ПУСК
+# Экран событий ПУСК
