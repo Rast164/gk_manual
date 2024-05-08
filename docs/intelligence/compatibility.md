@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Совместимость
+title: Совместимые АУ
 parent: Основные сведения
 nav_order: 4
 ---
