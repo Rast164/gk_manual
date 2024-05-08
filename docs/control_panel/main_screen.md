@@ -6,4 +6,4 @@ grand_parent: Панель управления
 nav_order: 1
 ---
 
-# <img src="../../assets/icons/menus/m_gl_ekran.png" width="26" height="26"> ГЛ. ЭКРАН
+# Меню <img src="../../assets/icons/menus/m_gl_ekran.png" width="26" height="26"> ГЛ. ЭКРАН
