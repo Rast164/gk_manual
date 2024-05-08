@@ -6,4 +6,4 @@ grand_parent: Панель управления
 nav_order: 5
 ---
 
-# <img src="../../assets/icons/menus/m_zhurnal.png" width="26" height="26"> ЖУРНАЛ
+# Меню <img src="../../assets/icons/menus/m_zhurnal.png" width="26" height="26"> ЖУРНАЛ
