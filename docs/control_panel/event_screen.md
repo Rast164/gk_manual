@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Меню событий
+title: Экран событий
 parent: Панель управления
 nav_order: 3
 has_children: true
-permalink: /docs/control_panel/event_menu
+permalink: /docs/control_panel/event_screen
 ---
 
-# Меню событий
+# Экран событий
 
 <table> 
   <thead> 
