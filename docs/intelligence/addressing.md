@@ -7,9 +7,14 @@ nav_order: 3
 
 # Адресация
 ## Адресная система
-Система противопожарной защиты (СПЗ) Глобал представляет из себя совокупность приборов (ГК, [КАУ]({% link docs/intelligence/intelligence.md %}#кау) и подключенных к ним по [АЛС]({% link docs/intelligence/communications_lines.md %}#адресная-линия-связи) [АУ]({% link docs/intelligence/compatibility.md %}#Список-совместимых-адресных-устройств).
+Адресная система противопожарной защиты Глобал представляет из себя совокупность приборов ГК и [КАУ]({% link docs/intelligence/intelligence.md %}#кау), подключенных по [АЛС]({% link docs/intelligence/communications_lines.md %}#адресная-линия-связи) адресных устройств и подключенного посредством устройств ввода-вывода внешнего оборудования.
 
-В СПЗ каждый прибор (ГК, [КАУ]({% link docs/intelligence/intelligence.md %}#кау)), [составной модуль]({% link docs/intelligence/modules.md %}#составные-модули), [АЛС]({% link docs/intelligence/communications_lines.md %}#адресная-линия-связи) и [АУ]({% link docs/intelligence/compatibility.md %}#Список-совместимых-адресных-устройств) имеют свой уникальный идентификатор - адресный номер. Адресный номер присваевается на этапе создания проекта и позволяет определить местоположение (направление) каждого компонента СПЗ.
+Все устройства, информационный обмен и питание которых осуществляется по [АЛС]({% link docs/intelligence/communications_lines.md %}#адресная-линия-связи), называются адресными устройствами (АУ). 
+
+Каждый ГК, [КАУ]({% link docs/intelligence/intelligence.md %}#кау), [составной модуль]({% link docs/intelligence/modules.md %}#составные-модули), [АЛС]({% link docs/intelligence/communications_lines.md %}#адресная-линия-связи) и АУ имеют свой уникальный идентификатор - адресный номер.
+
+{: .note }
+> Адресный номер присваевается на этапе создания проекта и позволяет определить местоположение (направление) каждого компонента системы.
 
 ## Адресный номер ГК и КАУ
 Адресный номер ГК и [КАУ]({% link docs/intelligence/intelligence.md %}#кау) имеет вид **x1**, где:
@@ -33,11 +38,11 @@ nav_order: 3
 - **x3** - порядковый номер [АЛС]({% link docs/intelligence/communications_lines.md %}#адресная-линия-связи)
 
 ## Адресный номер АУ
-Адресный номер [АУ]({% link docs/intelligence/compatibility.md %}#Список-совместимых-адресных-устройств) имеет вид **x1**.**x2**.**x3**.**x4**, где:
+Адресный номер АУ имеет вид **x1**.**x2**.**x3**.**x4**, где:
 - **x1** - порядковый номер ГК или [КАУ]({% link docs/intelligence/intelligence.md %}#кау)
 - **x2** - порядковый номер [МЦП]({% link docs/intelligence/modules.md %}#модуль-центрального-процессора) или [МКА]({% link docs/intelligence/modules.md %}#модуль-кольцевых-адресных-линий-связи)
 - **x3** - порядковый номер [АЛС]({% link docs/intelligence/communications_lines.md %}#адресная-линия-связи)
-- **x4** - порядковый номер [АУ]({% link docs/intelligence/compatibility.md %}#Список-совместимых-адресных-устройств)
+- **x4** - порядковый номер АУ.
 
 {: .note }
 > Для [устройств ввода-вывода]({% link docs/intelligence/compatibility.md %}#устройства-ввода-вывода), занимающих в системе несколько адресов ([АБШС]({% link docs/intelligence/compatibility.md %}#барьер-шлейфов-сигнализации-адресный-абшс-r2), [АМ4]({% link docs/intelligence/compatibility.md %}#метка-адресная-ам4-r2), [АМП4]({% link docs/intelligence/compatibility.md %}#метка-адресная-пожарная-амп4-r2), [МВК2]({% link docs/intelligence/compatibility.md %}#модуль-выходов-с-контролем-мвк2-r2), [МВК4]({% link docs/intelligence/compatibility.md %}#модуль-выходов-с-контролем-мвк4-r2), [МВК8]({% link docs/intelligence/compatibility.md %}#модуль-выходов-с-контролем-мвк8-r2), [РМ2]({% link docs/intelligence/compatibility.md %}#модуль-релейный-РМ2-r2), [РМ4]({% link docs/intelligence/compatibility.md %}#модуль-релейный-РМ4-r2)), последняя цифра **x4** адресного номера соответствует конкретному вводу/выводу устройства.
