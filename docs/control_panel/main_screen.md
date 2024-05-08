@@ -9,7 +9,7 @@ nav_order: 1
 # Меню <img src="../../assets/icons/menus/m_gl_ekran.png" width="26" height="26"> ГЛ. ЭКРАН
 
 <p align="center">
-<img src="../assets/images/main_screen.png">
+<img src="../../assets/images/main_screen.png">
 </p>
 
 Меню <img src="../../assets/icons/menus/m_gl_ekran.png" width="14" height="14"> ГЛ. ЭКРАН отображает наиболее приоритетный [экран событий]({% link docs/control_panel/event_screen.md %}#экран-событий)). Если ГК находится в [состоянии ДЕЖУРНЫЙ]({% link docs/getting_started/getting_started.md %}#состояние_дежурный)), то главный экран пуст.
