@@ -2,7 +2,7 @@
 layout: default
 title: Линии связи
 parent: Основные сведения
-nav_order: 4
+nav_order: 3
 ---
 
 # Линии связи
