@@ -3,6 +3,7 @@ layout: default
 title: Линии связи
 parent: Основные сведения
 nav_order: 3
+permalink: /docs/intelligence/communications_lines
 ---
 
 # Линии связи
