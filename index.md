@@ -2,7 +2,7 @@
 layout: home
 title: О руководстве
 nav_order: 1
-permalink: /
+permalink: /about
 ---
 
 # О руководстве
