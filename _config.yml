@@ -24,3 +24,5 @@ callouts:
   warning:
     title: ВНИМАНИЕ
     color: red
+
+favicon_ico: "/assets/favicon.ico"
