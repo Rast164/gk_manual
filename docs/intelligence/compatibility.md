@@ -3,6 +3,7 @@ layout: default
 title: Совместимые АУ
 parent: Основные сведения
 nav_order: 4
+permalink: /docs/intelligence/compatibility
 ---
 
 # Список совместимых адресных устройств
