@@ -3,6 +3,7 @@ layout: default
 title: Адресация
 parent: Основные сведения
 nav_order: 2
+permalink: /docs/intelligence/addressing
 ---
 
 # Адресация
