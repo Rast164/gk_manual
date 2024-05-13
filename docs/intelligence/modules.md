@@ -3,6 +3,7 @@ layout: default
 title: Составные модули
 parent: Основные сведения
 nav_order: 1
+permalink: /docs/intelligence/modules
 ---
 # Составные модули
 Составные модули размещаются на DIN-рейке внутри корпуса ГК. Связь между модулями осуществляется по [ВШС]({% link docs/intelligence/communications_lines.md %}#внутренняя-шина-связи).
