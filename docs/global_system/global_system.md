@@ -4,6 +4,7 @@ title: СПЗ Глобал
 nav_order: 2
 has_children: true
 permalink: /docs/global_system
+has_toc: false
 ---
 
 # Система противопожарной защиты Глобал
