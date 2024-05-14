@@ -38,6 +38,9 @@ permalink: /docs/intelligence
 >
 > **ГК Р-А1-И6-О6-БАЭС-БЛ4-7**
 
+## Конфигурирование ГК
+Для полноценной работы в ГК необходимо записать файл конфигурации (проект), содержащую список всех [КАУ](#кау), [составных модулей]({% link docs/intelligence/modules.md %}#составные-модули), [АУ]({% link docs/intelligence/compatibility.md %}#Список-совместимых-адресных-устройств), зон, направлений, сценариев. Запись конфигурации осуществляется с помощью программного обеспечения <a href="https://products.rubezh.ru/products/po_global_monitor-3356/" target="_blank">GLOBAL MONITOR</a>. Процесс конфигурирования подробно описан в <a href="https://products.rubezh.ru/download/file/18ac995b-e2c1-11ee-95eb-d4f5ef944508/" target="_blank">руководстве по эксплуатации</a> ПО.
+
 ## КАУ
 При необходимости увеличения количества [АУ]({% link docs/intelligence/compatibility.md %}#Список-совместимых-адресных-устройств) к ГК по [PFM]({% link docs/intelligence/communications_lines.md %}#цифровая-линия-связи) подключают контроллер адресных устройств КАУ, к которому по [АЛС]({% link docs/intelligence/communications_lines.md %}#адресная-линия-связи) подключают дополнительные [АУ]({% link docs/intelligence/compatibility.md %}#Список-совместимых-адресных-устройств). Управление такими [АУ]({% link docs/intelligence/compatibility.md %}#Список-совместимых-адресных-устройств) осуществляется с КАУ. ГК принимает, отображает и обрабатывает информацию со всех подключенных к нему КАУ и контролирует целостность [PFM]({% link docs/intelligence/communications_lines.md %}#цифровая-линия-связи). 
 
