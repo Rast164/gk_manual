@@ -2,7 +2,7 @@
 layout: default
 title: Состояния ГК
 parent: Основные сведения
-nav_order: 6
+nav_order: 5
 permalink: /docs/intelligence/conditions
 ---
 
