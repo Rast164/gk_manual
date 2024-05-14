@@ -2,7 +2,7 @@
 layout: default
 title: Профили доступа
 parent: Основные сведения
-nav_order: 5
+nav_order: 4
 permalink: /docs/intelligence/profiles
 ---
 
