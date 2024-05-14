@@ -22,46 +22,46 @@ permalink: /docs/intelligence/profiles
   </thead> 
   <tbody>
     <tr>
-      <td style="text-align: center">Просмотр основных состояний ГК</td>
-      <td style="text-align: left">+</td>
-      <td style="text-align: left">+</td>
-      <td style="text-align: left">+</td>
+      <td style="text-align: left">Просмотр основных состояний ГК</td>
+      <td style="text-align: center">+</td>
+      <td style="text-align: center">+</td>
+      <td style="text-align: center">+</td>
     </tr>
     <tr>
-      <td style="text-align: center">Выключение звуковой сигнализации ГК</td>
-      <td style="text-align: left">-</td>
-      <td style="text-align: left">+</td>
-      <td style="text-align: left">+</td>
+      <td style="text-align: left">Выключение звуковой сигнализации ГК</td>
+      <td style="text-align: center">-</td>
+      <td style="text-align: center">+</td>
+      <td style="text-align: center">+</td>
     </tr>
     <tr>
-      <td style="text-align: center">Просмотр основного меню (кроме меню НАСТРОЙКИ и ДОСТУП)</td>
-      <td style="text-align: left">-</td>
-      <td style="text-align: left">+</td>
-      <td style="text-align: left">+</td>
+      <td style="text-align: left">Просмотр основного меню (кроме меню НАСТРОЙКИ и ДОСТУП)</td>
+      <td style="text-align: center">-</td>
+      <td style="text-align: center">+</td>
+      <td style="text-align: center">+</td>
     </tr>
     <tr>
-      <td style="text-align: center">Доступ к органам управления (клавишам), в том числе сброс пожарной тревоги</td>
-      <td style="text-align: left">-</td>
-      <td style="text-align: left">+</td>
-      <td style="text-align: left">+</td>
+      <td style="text-align: left">Доступ к органам управления (клавишам), в том числе сброс пожарной тревоги</td>
+      <td style="text-align: center">-</td>
+      <td style="text-align: center">+</td>
+      <td style="text-align: center">+</td>
     </tr>
     <tr>
-      <td style="text-align: center">Управление устройствами, сценариями и пожарными зонами</td>
-      <td style="text-align: left">-</td>
-      <td style="text-align: left">+</td>
-      <td style="text-align: left">+</td>
+      <td style="text-align: left">Управление устройствами, сценариями и пожарными зонами</td>
+      <td style="text-align: center">-</td>
+      <td style="text-align: center">+</td>
+      <td style="text-align: center">+</td>
     </tr>
     <tr>
-      <td style="text-align: center">Просмотр меню НАСТРОЙКИ (управление настройками ГК) и ДОСТУП (управление пользователями)</td>
-      <td style="text-align: left">-</td>
-      <td style="text-align: left">-</td>
-      <td style="text-align: left">+</td>
+      <td style="text-align: left">Просмотр меню НАСТРОЙКИ (управление настройками ГК) и ДОСТУП (управление пользователями)</td>
+      <td style="text-align: center">-</td>
+      <td style="text-align: center">-</td>
+      <td style="text-align: center">+</td>
     </tr>
     <tr>
-      <td style="text-align: center">Просмотр меню настроек устройств, сценариев и пожарных зон</td>
-      <td style="text-align: left">-</td>
-      <td style="text-align: left">-</td>
-      <td style="text-align: left">+</td>
+      <td style="text-align: left">Просмотр меню настроек устройств, сценариев и пожарных зон</td>
+      <td style="text-align: center">-</td>
+      <td style="text-align: center">-</td>
+      <td style="text-align: center">+</td>
     </tr>
    </tbody>
 </table>
