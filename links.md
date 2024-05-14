@@ -1,5 +1,6 @@
 ### Создание проекта, конфигурирование
 <a href="/gk_manual/docs/intelligence#конфигурирование-ГК">создание проекта</a>
+<br>
 <a href="/gk_manual/docs/intelligence#конфигурирование-ГК">конфигурирование</a>
 
 ### Профили доступа пользователей
@@ -32,6 +33,12 @@
 ### Состояние ДЕЖУРНЫЙ
 <a href="/gk_manual/docs/intelligence/conditions#состояние_дежурный">состояние ДЕЖУРНЫЙ</a>
 
+### Адресная система
+<a href="/gk_manual/docs/global_system">адресная система</a>
+
+### АУ
+<a href="/gk_manual/docs/global_system#адресное-устройство">АУ</a>
+
 ### Адресный номер
 <a href="/gk_manual/docs/global_system#адресный-номер">адресный номер</a>
 
@@ -46,3 +53,15 @@
 
 ### Адресный номер АУ
 <a href="/gk_manual/docs/global_system#адресный-номер-ау">адресный номер</a>
+
+### Линии связи
+<a href="/gk_manual/docs/intelligence/communications_lines">линии связи</a>
+
+### АЛС
+<a href="/gk_manual/docs/intelligence/communications_lines#адресная-линия-связи">АЛС</a>
+
+### PFM
+<a href="/gk_manual/docs/intelligence/communications_lines#цифровая-линия-связи">PFM</a>
+
+### КАУ
+<a href="/gk_manual/docs/global_system/kau">КАУ</a>
