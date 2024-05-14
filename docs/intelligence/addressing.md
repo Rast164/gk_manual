@@ -17,7 +17,7 @@ permalink: /docs/intelligence/addressing
 Каждый ГК, [КАУ]({% link docs/intelligence/intelligence.md %}#кау), [составной модуль]({% link docs/intelligence/modules.md %}#составные-модули), [АЛС]({% link docs/intelligence/communications_lines.md %}#адресная-линия-связи) и АУ имеют свой уникальный идентификатор - адресный номер.
 
 {: .note }
-> Адресный номер присваевается на этапе [создания проекта]({% link docs/getting_started/getting_started.md %}#начало-работы-с-гк) и позволяет определить местоположение (направление) каждого компонента системы.
+> Адресный номер присваевается на этапе <a href="/gk_manual/docs/intelligence#конфигурирование-ГК">создания проекта</a> и позволяет определить местоположение (направление) каждого компонента системы.
 
 ### Адресный номер ГК и КАУ
 Адресный номер ГК и [КАУ]({% link docs/intelligence/intelligence.md %}#кау) имеет вид **x1**, где:
