@@ -19,7 +19,7 @@ permalink: /docs/control_panel/event_screen
   <tbody>
     <tr>
       <td style="text-align: center"><img src="../../assets/icons/screen_indicator/si_pusk.png" width="210" height="30"></td>
-      <td style="text-align: left">Включается при переходе ГК в <a href="/gk_manual/docs/getting_started#состояние_пуск">состояние ПУСК</a></td>
+      <td style="text-align: left">Включается при переходе ГК в <a href="/gk_manual/docs/intelligence/conditions#состояние_пуск">состояние ПУСК</a></td>
     </tr>
   </tbody>
 </table>
