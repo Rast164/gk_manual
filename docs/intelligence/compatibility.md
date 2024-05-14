@@ -2,7 +2,7 @@
 layout: default
 title: Совместимые АУ
 parent: Основные сведения
-nav_order: 4
+nav_order: 3
 permalink: /docs/intelligence/compatibility
 ---
 
