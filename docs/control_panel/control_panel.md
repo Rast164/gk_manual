@@ -15,7 +15,7 @@ permalink: /docs/control_panel
 Считыватель карт доступа является средством ограничения доступа посторонних лиц к прибору. Для работы с прибором сначала необходимо приложить карту доступа к считывателю.
 
 ## Световые индикаторы
-Световые индикаторы показывают текущие [состояния ГК]({% link docs/getting_started/getting_started.md %}#основные-состояния-гк)). Расшифровка направления отображается на [сенсорном экране]({% link docs/control_panel/touch_screen.md %}#сенсорный-экран)).
+Световые индикаторы показывают текущие <a href="/gk_manual/docs/intelligence/conditions#основные-состояния-гк">состояния ГК</a>. Расшифровка направления отображается на [сенсорном экране]({% link docs/control_panel/touch_screen.md %}#сенсорный-экран)).
 
 <table> 
   <thead> 
@@ -28,17 +28,17 @@ permalink: /docs/control_panel
     <tr>
       <td style="text-align: center"><img src="../assets/icons/light_indicators/li_pusk.png" width="50" height="50"></td>
       <td style="text-align: left">ПУСК</td>
-      <td style="text-align: left">Непрерывно светится красным при переходе ГК в <a href="/gk_manual/docs/getting_started#состояние_пуск">состояние ПУСК</a></td>
+      <td style="text-align: left">Непрерывно светится красным при переходе ГК в <a href="/gk_manual/docs/intelligence/conditions#состояние_пуск">состояние ПУСК</a></td>
     </tr>
     <tr>
       <td style="text-align: center"><img src="../assets/icons/light_indicators/li_pozhar.png" width="50" height="50"></td>
       <td style="text-align: left">ПОЖАР</td>
-      <td style="text-align: left">Непрерывно светится красным при переходе ГК в <a href="/gk_manual/docs/getting_started#состояние_пожар">состояние ПОЖАР</a></td>
+      <td style="text-align: left">Непрерывно светится красным при переходе ГК в <a href="/gk_manual/docs/intelligence/conditions#состояние_пожар">состояние ПОЖАР</a></td>
     </tr>
     <tr>
       <td style="text-align: center"><img src="../assets/icons/light_indicators/li_vnimanie.png" width="50" height="50"></td>
       <td style="text-align: left">ВНИМАНИЕ</td>
-      <td style="text-align: left">Непрерывно светится красным при переходе ГК в <a href="/gk_manual/docs/getting_started#состояние_внимание">состояние ВНИМАНИЕ</a></td>
+      <td style="text-align: left">Непрерывно светится красным при переходе ГК в <a href="/gk_manual/docs/intelligence/conditions#состояние_внимание">состояние ВНИМАНИЕ</a></td>
     </tr>
     <tr>
       <td style="text-align: center"><img src="../assets/icons/light_indicators/li_ostanov_puska.png" width="50" height="50"></td>
@@ -48,17 +48,17 @@ permalink: /docs/control_panel
     <tr>
       <td style="text-align: center"><img src="../assets/icons/light_indicators/li_neispravnost.png" width="50" height="50"></td>
       <td style="text-align: left">НЕИСПРАВ</td>
-      <td style="text-align: left">Непрерывно светится желтым при переходе ГК в <a href="/gk_manual/docs/getting_started#состояние_неисправность">состояние НЕИСПРАВНОСТЬ</a></td>
+      <td style="text-align: left">Непрерывно светится желтым при переходе ГК в <a href="/gk_manual/docs/intelligence/conditions#состояние_неисправность">состояние НЕИСПРАВНОСТЬ</a></td>
     </tr>
     <tr>
       <td style="text-align: center"><img src="../assets/icons/light_indicators/li_otkluchenie.png" width="50" height="50"></td>
       <td style="text-align: left">ОТКЛЮЧЕНИЕ</td>
-      <td style="text-align: left">Непрерывно светится желтым при переходе ГК в <a href="/gk_manual/docs/getting_started#состояние_отключение">состояние ОТКЛЮЧЕНИЕ</a></td>
+      <td style="text-align: left">Непрерывно светится желтым при переходе ГК в <a href="/gk_manual/docs/intelligence/conditions#состояние_отключение">состояние ОТКЛЮЧЕНИЕ</a></td>
     </tr>
     <tr>
       <td style="text-align: center"><img src="../assets/icons/light_indicators/li_avt_otkluchena.png" width="50" height="50"></td>
       <td style="text-align: left">АВТ ОТКЛЮЧЕНА</td>
-      <td style="text-align: left">Непрерывно светится желтым при переходе ГК в <a href="/gk_manual/docs/getting_started#состояние_автоматика_отключена">состояние АВТОМАТИКА ОТКЛЮЧЕНА</a></td>
+      <td style="text-align: left">Непрерывно светится желтым при переходе ГК в <a href="/gk_manual/docs/intelligence/conditions#состояние_автоматика_отключена">состояние АВТОМАТИКА ОТКЛЮЧЕНА</a></td>
     </tr>
     <tr>
       <td style="text-align: center"><img src="../assets/icons/light_indicators/li_sist_oshibka.png" width="50" height="50"></td>
@@ -84,7 +84,7 @@ permalink: /docs/control_panel
 </table>
 
 ## Клавиши управления
-Доступ к клавишам управления ограничен [профилями доступа пользователей]({% link docs/getting_started/getting_started.md %}#профили-доступа-пользователей)). Работа с клавишами осуществляется однократным нажатием. 
+Доступ к клавишам управления ограничен <a href="/gk_manual/docs/intelligence/profiles#профили_доступа_пользователей">профилями доступа пользователей</a>. Работа с клавишами осуществляется однократным нажатием. 
 
 {: .note }
 > Некоторые клавиши являются контекстными – функционируют только в [меню событий ПУСК]({% link docs/control_panel/start.md %}#меню-слюбытий-пуск)).
