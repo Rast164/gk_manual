@@ -39,6 +39,15 @@
 ### АУ
 <a href="/gk_manual/docs/global_system#адресное-устройство">АУ</a>
 
+### Извещатели пожарные
+<a href="/gk_manual/docs/global_system/address_devices#извещатели">извещатель пожарный</a>
+
+### Устройства ввода-вывода
+<a href="/gk_manual/docs/global_system/address_devices#устройства-ввода-вывода">устройства ввода-вывода</a>
+
+### Устройства с изолятором короткого замыкания
+<a href="/gk_manual/docs/global_system/address_devices#устройства-с-изолятором-короткого-замыкания">устройства с изолятором короткого замыкания</a>
+
 ### Адресный номер
 <a href="/gk_manual/docs/global_system#адресный-номер">адресный номер</a>
 
