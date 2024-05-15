@@ -44,6 +44,8 @@ permalink: /docs/global_system/address_devices
   </tbody>
 </table>
 
+{: .note }
+>
 <details markdown="block">
   <summary>
   Системы по п. 7.1.4 ГОСТ Р 53325
