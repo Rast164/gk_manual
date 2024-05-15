@@ -8,7 +8,7 @@ has_toc: false
 ---
 
 # Система противопожарной защиты Глобал
-Адресная система противопожарной защиты (СПЗ) Глобал представляет из себя совокупность приборов (ГК, <a href="/gk_manual/docs/global_system/kau">КАУ</a> и <a href="/gk_manual/docs/global_system/tpu">ТПУ</a>, подключенных по <a href="/gk_manual/docs/intelligence/communications_lines#адресная-линия-связи">АЛС</a> адресных устройств и подключенного посредством <a href="/gk_manual/docs/global_system/address_devices#устройства-ввода-вывода">устройств ввода-вывода</a> внешнего оборудования.
+Адресная система противопожарной защиты (СПЗ) Глобал представляет из себя совокупность ГК, <a href="/gk_manual/docs/global_system/kau">КАУ</a>, <a href="/gk_manual/docs/global_system/tpu">ТПУ</a>, подключенных по <a href="/gk_manual/docs/intelligence/communications_lines#адресная-линия-связи">АЛС</a> адресных устройств и подключенного посредством <a href="/gk_manual/docs/global_system/address_devices#устройства-ввода-вывода">устройств ввода-вывода</a> внешнего оборудования.
 
 ## Адресное устройство
 Все устройства, информационный обмен и питание которых осуществляется по <a href="/gk_manual/docs/intelligence/communications_lines#адресная-линия-связи">АЛС</a>, называются адресными устройствами (АУ). 
