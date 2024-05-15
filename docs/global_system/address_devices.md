@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Совместимые АУ
-parent: Основные сведения
+title: Адресные устройства
+parent: СПЗ Глобал
 nav_order: 3
-permalink: /docs/intelligence/compatibility
+permalink: /docs/global_system/address_devices
 ---
 
-# Список совместимых адресных устройств
+# Совместимые адресные устройства
 {: .no_toc }
 1. TOC
 {:toc}
