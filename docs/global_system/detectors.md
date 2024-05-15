@@ -8,7 +8,7 @@ permalink: /docs/global_system/address_devices/detectors
 ---
 
 # Извещатели
-## Извещатель пожарный дымовой оптико-электронный адресно-аналоговый ИП 212-149
+### Извещатель пожарный дымовой оптико-электронный адресно-аналоговый ИП 212-149
 
 <p align="center">
 <img src="../../../assets/images/devices/ip_212_149.png">
@@ -20,7 +20,7 @@ permalink: /docs/global_system/address_devices/detectors
 
 <a href="https://products.rubezh.ru/products/ip_212_149_w1_04-3299/" target="_blank">На страницу продукта</a>
 
-## Извещатель пожарный комбинированный дымовой оптико-электронный тепловой максимально-дифференциальный адресно-аналоговый ИП 212/101-11-PR
+### Извещатель пожарный комбинированный дымовой оптико-электронный тепловой максимально-дифференциальный адресно-аналоговый ИП 212/101-11-PR
 
 <p align="center">
 <img src="../../../assets/images/devices/ip_212_101_11_PR.png">
@@ -32,7 +32,7 @@ permalink: /docs/global_system/address_devices/detectors
 
 <a href="https://products.rubezh.ru/products/ip_212_101_11_pr_w1_04-3300/" target="_blank">На страницу продукта</a>
 
-## Извещатель пожарный пламени адресный ИП 329 ИОЛИТ-Exd-R
+### Извещатель пожарный пламени адресный ИП 329 ИОЛИТ-Exd-R
 
 <p align="center">
 <img src="../../../assets/images/devices/ip_329_iolit_exd_r.png">
@@ -44,7 +44,7 @@ permalink: /docs/global_system/address_devices/detectors
 
 <a href="https://products.rubezh.ru/products/ip_329_iolit_exd_r2-3327/" target="_blank">На страницу продукта</a>
 
-## Извещатель пожарный ручной взрывозащищенный адресный ИП 535-07еа-R2
+### Извещатель пожарный ручной взрывозащищенный адресный ИП 535-07еа-R2
 
 <p align="center">
 <img src="../../../assets/images/devices/ip_535_07ea.png">
@@ -56,7 +56,7 @@ permalink: /docs/global_system/address_devices/detectors
 
 <a href="https://products.rubezh.ru/products/ip535_07ea_r2_pusk_1-7109/" target="_blank">На страницу продукта</a>
 
-## Извещатель пожарный ручной электроконтактный адресный ИПР 513-12
+### Извещатель пожарный ручной электроконтактный адресный ИПР 513-12
 
 <p align="center">
 <img src="../../../assets/images/devices/ipr_513_12.png">
@@ -68,7 +68,7 @@ permalink: /docs/global_system/address_devices/detectors
 
 <a href="https://products.rubezh.ru/products/ipr_513_12-3369/" target="_blank">На страницу продукта</a>
 
-## Извещатель пожарный ручной электроконтактный адресный со встроенным изолятором короткого замыкания ИПР 513-12 ИКЗ
+### Извещатель пожарный ручной электроконтактный адресный со встроенным изолятором короткого замыкания ИПР 513-12 ИКЗ
 
 <p align="center">
 <img src="../../../assets/images/devices/ipr_513_12_ikz.png">
@@ -80,7 +80,7 @@ permalink: /docs/global_system/address_devices/detectors
 
 <a href="https://products.rubezh.ru/products/ipr_513_12ikz-4314/" target="_blank">На страницу продукта</a>
 
-## Извещатель пожарный тепловой взрывозащищенный адресный ИП 101-07a-P
+### Извещатель пожарный тепловой взрывозащищенный адресный ИП 101-07a-P
 
 |Наименование|Полное обозначение|Краткое обозначение|
 |:---|:---:|:---:|
@@ -88,7 +88,7 @@ permalink: /docs/global_system/address_devices/detectors
 
 Скоро в продаже
 
-## Извещатель пожарный тепловой максимально-дифференциальный адресно-аналоговый ИП 101-52-PR
+### Извещатель пожарный тепловой максимально-дифференциальный адресно-аналоговый ИП 101-52-PR
 
 <p align="center">
 <img src="../../../assets/images/devices/ip_101_52_pr.png">
