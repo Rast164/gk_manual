@@ -63,7 +63,7 @@ permalink: /docs/global_system/address_devices
   </thead> 
   <tbody>
     <tr>
-      <td id="режим_работы_дежурный" style="text-align: center"><img src="../../assets/icons/operating_mode/om_normal.png" width="150" height="40"></td>
+      <td id="режим_работы_дежурный" style="text-align: center"><img src="../../assets/icons/operating_mode/om_normal.png" width="160" height="50"></td>
       <td style="text-align: center">ДЕЖУРНЫЙ</td>
       <td style="text-align: left">Устройство работает нормально (штатно)</td>
     </tr>
