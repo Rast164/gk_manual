@@ -20,7 +20,7 @@ permalink: /docs/intelligence/modules
 <p align="center">
 <img src="../../assets/images/mka.png">
 </p>
-МКА предназначен для увеличения количества подключаемых к ГК [АЛС]({% link docs/intelligence/communications_lines.md %}#адресная-линия-связи), что позволяет увеличить количество подключенных [АУ]({% link docs/intelligence/compatibility.md %}#Список-совместимых-адресных-устройств).
+МКА предназначен для увеличения количества подключаемых к ГК [АЛС]({% link docs/intelligence/communications_lines.md %}#адресная-линия-связи), что позволяет увеличить количество подключенных <a href="/gk_manual/docs/global_system#адресное-устройство">АУ</a>.
 
 ## Модуль дискретных входных сигналов с контролем цепи
 <p align="center">
