@@ -23,28 +23,24 @@ permalink: /docs/global_system/address_devices/detectors
   </thead> 
   <tbody>
     <tr>
-      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#название_устройства">Название</a></td>
-      <td style="text-align: centr">Извещатель пожарный дымовой оптико-электронный адресно-аналоговый ИП 212-149</td>
-    </tr>
-    <tr>
       <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#краткое_название_устройства">Краткое название</a></td>
-      <td style="text-align: centr">Извещатель пожарный дымовой</td>
+      <td style="text-align: center">Извещатель пожарный дымовой</td>
     </tr>
     <tr>
       <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#обозначение_устройства">Обозначение</a></td>
-      <td style="text-align: centr">ИП 212-149</td>
+      <td style="text-align: center">ИП 212-149</td>
     </tr>
     <tr>
       <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#краткое_обозначение_устройства">Краткое обозначение</a></td>
-      <td style="text-align: centr">ИПД</td>
+      <td style="text-align: center">ИПД</td>
     </tr>
     <tr>
       <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#количество_адресов">Количество адресов</a></td>
-      <td style="text-align: centr">1</td>
+      <td style="text-align: center">1</td>
     </tr>
     <tr>
       <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#устройство_противопожарной_защиты">Устройство противопожарной защиты</a></td>
-      <td style="text-align: centr">Нет</td>
+      <td style="text-align: center">Нет</td>
     </tr>
   </tbody>
 </table>
