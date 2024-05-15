@@ -56,7 +56,7 @@ permalink: /docs/global_system/address_devices
 <table> 
   <thead> 
     <tr> 
-      <th style="text-align: center">Положение переключателец</th>
+      <th style="text-align: center">Положение переключателей</th>
       <th style="text-align: center">Режим работы</th>
       <th style="text-align: center">Описание</th>
     </tr>
@@ -64,7 +64,7 @@ permalink: /docs/global_system/address_devices
   <tbody>
     <tr>
       <td id="режим_работы_дежурный" style="text-align: center"><img src="../../assets/icons/operating_mode/om_normal.png" width="150" height="40"></td>
-      <td style="text-align: left">ДЕЖУРНЫЙ</td>
+      <td style="text-align: center">ДЕЖУРНЫЙ</td>
       <td style="text-align: left">Устройство работает нормально (штатно)</td>
     </tr>
   </tbody>
