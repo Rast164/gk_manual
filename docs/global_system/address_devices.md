@@ -38,14 +38,14 @@ permalink: /docs/global_system/address_devices
       <td style="text-align: left">Количество <a href="/gk_manual/docs/global_system#адресный-номер-ау">адресных номеров</a>, которое устройство занимает в <a href="/gk_manual/docs/global_system">СПЗ</a></td>
     </tr>
     <tr>
-      <td id="пусковое_устройство" style="text-align: left">Пусковое устройство</td>
-      <td style="text-align: left">Относится ли запуск (включение) устройства к активации системы по п. 7.1.4 ГОСТ Р 53325 (приводит ли запуск (включение) устройства к переходу ГК или <a href="/gk_manual/docs/global_system/kau">КАУ</a> в <a href="/gk_manual/docs/intelligence/conditions#состояние_пуск">состояние ПУСК</a>)</td>
+      <td id="устройство_противопожарной_защиты" style="text-align: left">Устройство противопожарной защиты</td>
+      <td style="text-align: left">Относится ли запуск (включение) устройства к активации систем противопожарной защиты по п. 7.1.4 ГОСТ Р 53325 (приводит ли запуск (включение) устройства к переходу ГК или <a href="/gk_manual/docs/global_system/kau">КАУ</a> в <a href="/gk_manual/docs/intelligence/conditions#состояние_пуск">состояние ПУСК</a>)</td>
     </tr>
   </tbody>
 </table>
 
 {: .note }
-> <details markdown="block"><summary>Перечень систем по п. 7.1.4 ГОСТ Р 53325</summary>
+> <details markdown="block"><summary>Перечень систем противопожарной защиты по п. 7.1.4 ГОСТ Р 53325</summary>
   - система управления установками водяного и пенного пожаротушения;
   - система управления установками газового пожаротушения;
   - система управления установками порошкового пожаротушения;
