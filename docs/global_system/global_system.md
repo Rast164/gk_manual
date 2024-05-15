@@ -17,7 +17,7 @@ has_toc: false
 Каждый ГК, <a href="/gk_manual/docs/global_system/kau">КАУ</a>, <a href="/gk_manual/docs/global_system/tpu">ТПУ</a>, <a href="/gk_manual/docs/intelligence/modules#составные-модули">составной модуль</a>, <a href="/gk_manual/docs/intelligence/communications_lines#адресная-линия-связи">АЛС</a> и АУ имеют свой уникальный идентификатор в СПЗ - адресный номер.
 
 {: .note }
-> Адресный номер присваевается на этапе <a href="/gk_manual/docs/intelligence#конфигурирование-ГК">создания проекта</a> и позволяет определить местоположение (направление) каждого компонента СПЗ.
+> Адресный номер присваевается на этапе <a href="/gk_manual/docs/intelligence#конфигурирование-гк">создания проекта</a> и позволяет определить местоположение (направление) каждого компонента СПЗ.
 
 ### Адресный номер ГК, КАУ и ТПУ
 Адресный номер ГК, <a href="/gk_manual/docs/global_system/kau">КАУ</a> и <a href="/gk_manual/docs/global_system/tpu">ТПУ</a> имеет вид **x1**, где:
