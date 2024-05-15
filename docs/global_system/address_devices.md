@@ -18,11 +18,11 @@ permalink: /docs/global_system/address_devices
   </thead> 
   <tbody>
     <tr>
-      <td id="полное_название_устройства" style="text-align: left">Полное название</td>
+      <td id="название_устройства" style="text-align: left">Название</td>
       <td style="text-align: left">Полное наименование устройства (как в сопроводительной документации и в сертификате соответствия)</td>
     </tr>
     <tr>
-      <td id="название_устройства" style="text-align: left">Название</td>
+      <td id="краткое_название_устройства" style="text-align: left">Краткое название</td>
       <td style="text-align: left">Наименование устройства в пользовательском интерфейсе ГК и <a href="/gk_manual/docs/global_system/tpu">ТПУ</a></td>
     </tr>
     <tr>
