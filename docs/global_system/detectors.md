@@ -23,7 +23,27 @@ permalink: /docs/global_system/address_devices/detectors
   </thead> 
   <tbody>
     <tr>
-      <td style="text-align: center">Полное название</td>
+      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#название_устройства">Название</a></td>
+      <td style="text-align: left"></td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#краткое_название_устройства">Краткое название</a></td>
+      <td style="text-align: left"></td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#обозначение_устройства">Обозначение</a></td>
+      <td style="text-align: left"></td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#краткое_обозначение_устройства">Краткое обозначение</a></td>
+      <td style="text-align: left"></td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#количество_адресов">Количество адресов</a></td>
+      <td style="text-align: left">1</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#пусковое_устройство">Пусковое устройство</a></td>
       <td style="text-align: left"></td>
     </tr>
   </tbody>
