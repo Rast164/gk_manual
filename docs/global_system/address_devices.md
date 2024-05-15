@@ -18,20 +18,28 @@ permalink: /docs/global_system/address_devices
   </thead> 
   <tbody>
     <tr>
-      <td id="полное_название_устройства" style="text-align: center">Полное название</td>
+      <td id="полное_название_устройства" style="text-align: left">Полное название</td>
       <td style="text-align: left">Полное наименование устройства (как в сопроводительной документации и в сертификате соответствия)</td>
     </tr>
     <tr>
-      <td id="название_устройства" style="text-align: center">Название</td>
-      <td style="text-align: left">Наименование устройства в <a href="/gk_manual/docs/global_system">СПЗ</a> (в пользовательском интерфейсе ГК и <a href="/gk_manual/docs/global_system/tpu">ТПУ</a></td>
+      <td id="название_устройства" style="text-align: left">Название</td>
+      <td style="text-align: left">Наименование устройства в пользовательском интерфейсе ГК и <a href="/gk_manual/docs/global_system/tpu">ТПУ</a></td>
     </tr>
     <tr>
-      <td id="обозначение_устройства" style="text-align: center">Обозначение</td>
-      <td style="text-align: left">Полное обозначение устройства в <a href="/gk_manual/docs/global_system">СПЗ</a> (в пользовательском интерфейсе ГК и <a href="/gk_manual/docs/global_system/tpu">ТПУ</a></td>
+      <td id="обозначение_устройства" style="text-align: left">Обозначение</td>
+      <td style="text-align: left">Полное обозначение устройства в пользовательском интерфейсе ГК и <a href="/gk_manual/docs/global_system/tpu">ТПУ</a></td>
     </tr>
     <tr>
-      <td id="краткое_обозначение" style="text-align: center">Краткое обозначение</td>
-      <td style="text-align: left">Краткое обозначение устройства. Используется для фильтра устройств в <a href="/gk_manual/docs/global_system">СПЗ</a> (в пользовательском интерфейсе ГК и <a href="/gk_manual/docs/global_system/tpu">ТПУ</a></td>
+      <td id="краткое_обозначение_устройства" style="text-align: left">Краткое обозначение</td>
+      <td style="text-align: left">Краткое обозначение устройства. Используется для фильтра устройств в пользовательском интерфейсе ГК и <a href="/gk_manual/docs/global_system/tpu">ТПУ</a></td>
+    </tr>
+    <tr>
+      <td id="количество_адресов" style="text-align: left">Количествово адресов</td>
+      <td style="text-align: left">Количество <a href="/gk_manual/docs/global_system#адресный-номер-ау">адресных номеров</a>, которое устройство занимает в <a href="/gk_manual/docs/global_system">СПЗ</a></td>
+    </tr>
+    <tr>
+      <td id="пусковое_устройство" style="text-align: left">Пусковое устройство</td>
+      <td style="text-align: left">Приводит ли запуск (включение) устройства к переходу ГК или <a href="/gk_manual/docs/global_system/kau">КАУ</a> в <a href="/gk_manual/docs/intelligence/conditions#состояние_пуск">состояние ПУСК</a></td>
     </tr>
   </tbody>
 </table>
