@@ -43,7 +43,7 @@ permalink: /docs/global_system/address_devices/detectors
       <td style="text-align: centr">1</td>
     </tr>
     <tr>
-      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#пусковое_устройство">Пусковое устройство</a></td>
+      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#устройство_противопожарной_защиты">Устройство противопожарной защиты</a></td>
       <td style="text-align: centr">Нет</td>
     </tr>
   </tbody>
