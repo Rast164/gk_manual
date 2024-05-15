@@ -24,6 +24,49 @@ permalink: /docs/global_system/address_devices/detectors
   <tbody>
     <tr>
       <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#название_устройства">Название</a></td>
+      <td style="text-align: centr">Извещатель пожарный дымовой оптико-электронный адресно-аналоговый ИП 212-149</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#краткое_название_устройства">Краткое название</a></td>
+      <td style="text-align: centr">Извещатель пожарный дымовой</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#обозначение_устройства">Обозначение</a></td>
+      <td style="text-align: centr">ИП 212-149</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#краткое_обозначение_устройства">Краткое обозначение</a></td>
+      <td style="text-align: centr">ИПД</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#количество_адресов">Количество адресов</a></td>
+      <td style="text-align: centr">1</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#пусковое_устройство">Пусковое устройство</a></td>
+      <td style="text-align: centr">Нет</td>
+    </tr>
+  </tbody>
+</table>
+
+<a href="https://products.rubezh.ru/products/ip_212_149_w1_04-3299/" target="_blank">На страницу продукта</a>
+
+### Извещатель пожарный комбинированный дымовой оптико-электронный тепловой максимально-дифференциальный адресно-аналоговый ИП 212/101-11-PR
+
+<p align="center">
+<img src="../../../assets/images/devices/ip_212_101_11_PR.png">
+</p>
+
+<table> 
+  <thead> 
+    <tr> 
+      <th style="text-align: center">Параметр</th>
+      <th style="text-align: center">Значение</th>
+    </tr>
+  </thead> 
+  <tbody>
+    <tr>
+      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#название_устройства">Название</a></td>
       <td style="text-align: left"></td>
     </tr>
     <tr>
@@ -48,18 +91,6 @@ permalink: /docs/global_system/address_devices/detectors
     </tr>
   </tbody>
 </table>
-
-|Наименование|Полное обозначение|Краткое обозначение|
-|:---|:---:|:---:|
-|Извещатель пожарный дымовой|ИП 212-149|ИПД|
-
-<a href="https://products.rubezh.ru/products/ip_212_149_w1_04-3299/" target="_blank">На страницу продукта</a>
-
-### Извещатель пожарный комбинированный дымовой оптико-электронный тепловой максимально-дифференциальный адресно-аналоговый ИП 212/101-11-PR
-
-<p align="center">
-<img src="../../../assets/images/devices/ip_212_101_11_PR.png">
-</p>
 
 |Наименование|Полное обозначение|Краткое обозначение|
 |:---|:---:|:---:|
