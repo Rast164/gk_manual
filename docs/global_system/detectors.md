@@ -12,7 +12,7 @@ permalink: /docs/global_system/address_devices/detectors
 ## Извещатель пожарный дымовой оптико-электронный адресно-аналоговый ИП 212-149
 
 <p align="center">
-<img src="../../assets/images/devices/ip_212_149.png">
+<img src="../../../assets/images/devices/ip_212_149.png">
 </p>
 
 |Наименование|Полное обозначение|Краткое обозначение|
@@ -24,7 +24,7 @@ permalink: /docs/global_system/address_devices/detectors
 ## Извещатель пожарный комбинированный дымовой оптико-электронный тепловой максимально-дифференциальный адресно-аналоговый ИП 212/101-11-PR
 
 <p align="center">
-<img src="../../assets/images/devices/ip_212_101_11_PR.png">
+<img src="../../../assets/images/devices/ip_212_101_11_PR.png">
 </p>
 
 |Наименование|Полное обозначение|Краткое обозначение|
@@ -36,7 +36,7 @@ permalink: /docs/global_system/address_devices/detectors
 ## Извещатель пожарный пламени адресный ИП 329 ИОЛИТ-Exd-R
 
 <p align="center">
-<img src="../../assets/images/devices/ip_329_iolit_exd_r.png">
+<img src="../../../assets/images/devices/ip_329_iolit_exd_r.png">
 </p>
 
 |Наименование|Полное обозначение|Краткое обозначение|
@@ -48,7 +48,7 @@ permalink: /docs/global_system/address_devices/detectors
 ## Извещатель пожарный ручной взрывозащищенный адресный ИП 535-07еа-R2
 
 <p align="center">
-<img src="../../assets/images/devices/ip_535_07ea.png">
+<img src="../../../assets/images/devices/ip_535_07ea.png">
 </p>
 
 |Наименование|Полное обозначение|Краткое обозначение|
@@ -60,7 +60,7 @@ permalink: /docs/global_system/address_devices/detectors
 ## Извещатель пожарный ручной электроконтактный адресный ИПР 513-12
 
 <p align="center">
-<img src="../../assets/images/devices/ipr_513_12.png">
+<img src="../../../assets/images/devices/ipr_513_12.png">
 </p>
 
 |Наименование|Полное обозначение|Краткое обозначение|
@@ -72,7 +72,7 @@ permalink: /docs/global_system/address_devices/detectors
 ## Извещатель пожарный ручной электроконтактный адресный со встроенным изолятором короткого замыкания ИПР 513-12 ИКЗ
 
 <p align="center">
-<img src="../../assets/images/devices/ipr_513_12_ikz.png">
+<img src="../../../assets/images/devices/ipr_513_12_ikz.png">
 </p>
 
 |Наименование|Полное обозначение|Краткое обозначение|
@@ -92,7 +92,7 @@ permalink: /docs/global_system/address_devices/detectors
 ## Извещатель пожарный тепловой максимально-дифференциальный адресно-аналоговый ИП 101-52-PR
 
 <p align="center">
-<img src="../../assets/images/devices/ip_101_52_pr.png">
+<img src="../../../assets/images/devices/ip_101_52_pr.png">
 </p>
 
 |Наименование|Полное обозначение|Краткое обозначение|
