@@ -14,6 +14,21 @@ permalink: /docs/global_system/address_devices/detectors
 <img src="../../../assets/images/devices/ip_212_149.png">
 </p>
 
+<table> 
+  <thead> 
+    <tr> 
+      <th style="text-align: center">Параметр</th>
+      <th style="text-align: center">Значение</th>
+    </tr>
+  </thead> 
+  <tbody>
+    <tr>
+      <td style="text-align: center">Полное название</td>
+      <td style="text-align: left"></td>
+    </tr>
+  </tbody>
+</table>
+
 |Наименование|Полное обозначение|Краткое обозначение|
 |:---|:---:|:---:|
 |Извещатель пожарный дымовой|ИП 212-149|ИПД|
