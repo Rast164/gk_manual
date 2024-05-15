@@ -8,7 +8,7 @@ permalink: /docs/global_system/address_devices
 ---
 
 # Адресные устройства
-
+## Системные параметры адресных устройств
 <table> 
   <thead> 
     <tr> 
@@ -17,10 +17,6 @@ permalink: /docs/global_system/address_devices
     </tr>
   </thead> 
   <tbody>
-    <tr>
-      <td id="название_устройства" style="text-align: left">Название</td>
-      <td style="text-align: left">Полное наименование устройства (как в сопроводительной документации и в сертификате соответствия)</td>
-    </tr>
     <tr>
       <td id="краткое_название_устройства" style="text-align: left">Краткое название</td>
       <td style="text-align: left">Наименование устройства в пользовательском интерфейсе ГК и <a href="/gk_manual/docs/global_system/tpu">ТПУ</a></td>
@@ -54,3 +50,22 @@ permalink: /docs/global_system/address_devices
   - система управления установками дымо-газоудаления;
   - система формирования сигнала управления инженерным, технологическим оборудованием и иными устройствами, участвующими в обеспечении пожарной безопасности;
   - система комбинированные.
+
+## Режим работы адресных устройств
+
+<table> 
+  <thead> 
+    <tr> 
+      <th style="text-align: center">Положение переключателец</th>
+      <th style="text-align: center">Режим работы</th>
+      <th style="text-align: center">Описание</th>
+    </tr>
+  </thead> 
+  <tbody>
+    <tr>
+      <td id="режим_работы_дежурный" style="text-align: center"><img src="../../assets/icons/operating_mode/om_normal.png" width="150" height="40"></td>
+      <td style="text-align: left">ДЕЖУРНЫЙ</td>
+      <td style="text-align: left">Устройство работает нормально (штатно)</td>
+    </tr>
+  </tbody>
+</table>
