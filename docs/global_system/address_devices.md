@@ -67,5 +67,20 @@ permalink: /docs/global_system/address_devices
       <td style="text-align: center">ДЕЖУРНЫЙ</td>
       <td style="text-align: left">Устройство работает нормально (штатно)</td>
     </tr>
+    <tr>
+      <td id="режим_работы_отключено" style="text-align: center"><img src="../../assets/icons/operating_mode/om_disabled.png" width="160" height="50"></td>
+      <td style="text-align: center">ОТКЛЮЧЕНО</td>
+      <td style="text-align: left">Информационный обмен с устройством прекращен, ГК не получает информацию о состоянии устройства (например, при сработке <a href="/gk_manual/docs/global_system/address_devices#извещатели">извещателя</a> или при обрыве выхода <a href="/gk_manual/docs/global_system/address_devices#устройства-ввода-вывода">устройства ввода-вывода</a>), но контролирует физическое наличие устройства в <a href="/gk_manual/docs/intelligence/communications_lines#адресная-линия-связи">АЛС</a></td>
+    </tr>
+    <tr>
+      <td id="режим_работы_автоматика_отключена" style="text-align: center"><img src="../../assets/icons/operating_mode/om_automation_disabled.png" width="160" height="50"></td>
+      <td style="text-align: center">АВТОМАТИКА ОТКЛЮЧЕНА</td>
+      <td style="text-align: left">Устройство работает в ручном режиме, игнорирует автоматические команды управления, доступно только ручное управление устройством с помощью кнопок управления состоянием</td>
+    </tr>
+    <tr>
+      <td id="режим_работы_блокировка_пуска" style="text-align: center"><img src="../../assets/icons/operating_mode/om_start_lock.png" width="160" height="50"></td>
+      <td style="text-align: center">БЛОКИРОВКА ПУСКА</td>
+      <td style="text-align: left">Пуск (включение) устройства заблокирован, устройство игнорирует автоматические и ручные команды управления. ГК продолжает получать информацию о состоянии устройства (например, при физическом отключении устройства от АЛС)</td>
+    </tr>
   </tbody>
 </table>
