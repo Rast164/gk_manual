@@ -8,43 +8,43 @@ has_toc: false
 ---
 
 # Система противопожарной защиты Глобал
-Адресная система противопожарной защиты (СПЗ) Глобал представляет из себя совокупность приборов ГК и [КАУ]({% link docs/intelligence/intelligence.md %}#кау), подключенных по [АЛС]({% link docs/intelligence/communications_lines.md %}#адресная-линия-связи) адресных устройств и подключенного посредством устройств ввода-вывода внешнего оборудования.
+Адресная система противопожарной защиты (СПЗ) Глобал представляет из себя совокупность приборов (ГК, <a href="/gk_manual/docs/global_system/kau">КАУ</a> и <a href="/gk_manual/docs/global_system/tpu">ТПУ</a>, подключенных по <a href="/gk_manual/docs/intelligence/communications_lines#адресная-линия-связи">АЛС</a> адресных устройств и подключенного посредством <a href="/gk_manual/docs/global_system/address_devices#устройства-ввода-вывода">устройств ввода-вывода</a> внешнего оборудования.
 
 ## Адресное устройство
-Все устройства, информационный обмен и питание которых осуществляется по [АЛС]({% link docs/intelligence/communications_lines.md %}#адресная-линия-связи), называются адресными устройствами (АУ). 
+Все устройства, информационный обмен и питание которых осуществляется по <a href="/gk_manual/docs/intelligence/communications_lines#адресная-линия-связи">АЛС</a>, называются адресными устройствами (АУ). 
 
 ## Адресный номер
-Каждый ГК, [КАУ]({% link docs/intelligence/intelligence.md %}#кау), [составной модуль]({% link docs/intelligence/modules.md %}#составные-модули), [АЛС]({% link docs/intelligence/communications_lines.md %}#адресная-линия-связи) и АУ имеют свой уникальный идентификатор - адресный номер.
+Каждый ГК, <a href="/gk_manual/docs/global_system/kau">КАУ</a>, <a href="/gk_manual/docs/global_system/tpu">ТПУ</a>, <a href="/gk_manual/docs/intelligence/modules#составные-модули">составной модуль</a>, <a href="/gk_manual/docs/intelligence/communications_lines#адресная-линия-связи">АЛС</a> и АУ имеют свой уникальный идентификатор в СПЗ - адресный номер.
 
 {: .note }
-> Адресный номер присваевается на этапе <a href="/gk_manual/docs/intelligence#конфигурирование-ГК">создания проекта</a> и позволяет определить местоположение (направление) каждого компонента системы.
+> Адресный номер присваевается на этапе <a href="/gk_manual/docs/intelligence#конфигурирование-ГК">создания проекта</a> и позволяет определить местоположение (направление) каждого компонента СПЗ.
 
-### Адресный номер ГК и КАУ
-Адресный номер ГК и [КАУ]({% link docs/intelligence/intelligence.md %}#кау) имеет вид **x1**, где:
-- **x1** - порядковый номер ГК или [КАУ]({% link docs/intelligence/intelligence.md %}#кау)
+### Адресный номер ГК, КАУ и ТПУ
+Адресный номер ГК, <a href="/gk_manual/docs/global_system/kau">КАУ</a> и <a href="/gk_manual/docs/global_system/tpu">ТПУ</a> имеет вид **x1**, где:
+- **x1** - порядковый номер ГК, <a href="/gk_manual/docs/global_system/kau">КАУ</a> или <a href="/gk_manual/docs/global_system/tpu">ТПУ</a>
 
 ### Адресный номер составных модулей
-Адресный номер [составных модулей]({% link docs/intelligence/modules.md %}#составные-модули) имеет вид **x1**.**x2**, где:
-- **x1** - порядковый номер ГК или [КАУ]({% link docs/intelligence/intelligence.md %}#кау)
-- **x2** - порядковый номер [составного модуля]({% link docs/intelligence/modules.md %}#составные-модули)
+Адресный номер <a href="/gk_manual/docs/intelligence/modules#составные-модули">составных модулей</a> имеет вид **x1**.**x2**, где:
+- **x1** - порядковый номер ГК или <a href="/gk_manual/docs/global_system/kau">КАУ</a>
+- **x2** - порядковый номер <a href="/gk_manual/docs/intelligence/modules#составные-модули">составного модуля</a>
 
 ### Адресный номер входов МДИ и выходов МДО
-Адресный номер входов [МДИ]({% link docs/intelligence/modules.md %}#модуль-дискретных-входных-сигналов-с-контролем-цепи) и выходов [МДО]({% link docs/intelligence/modules.md %}#модуль-дискретных-выходных-сигналов-с-контролем-цепи) имеет вид **x1**.**x2**.**x3**, где:
-- **x1** - порядковый номер ГК или [КАУ]({% link docs/intelligence/intelligence.md %}#кау)
-- **x2** - порядковый номер [МДИ]({% link docs/intelligence/modules.md %}#модуль-дискретных-входных-сигналов-с-контролем-цепи) или [МДО]({% link docs/intelligence/modules.md %}#модуль-дискретных-выходных-сигналов-с-контролем-цепи)
-- **x3** - порядковый номер входа [МДИ]({% link docs/intelligence/modules.md %}#модуль-дискретных-входных-сигналов-с-контролем-цепи) или выхода [МДО]({% link docs/intelligence/modules.md %}#модуль-дискретных-выходных-сигналов-с-контролем-цепи)
+Адресный номер входов <a href="/gk_manual/docs/intelligence/modules#модуль-дискретных-входных-сигналов-с-контролем-цепи">МДИ</a> и выходов <a href="/gk_manual/docs/intelligence/modules#модуль-дискретных-выходных-сигналов-с-контролем-цепи">МДО</a> имеет вид **x1**.**x2**.**x3**, где:
+- **x1** - порядковый номер ГК или <a href="/gk_manual/docs/global_system/kau">КАУ</a>
+- **x2** - порядковый номер <a href="/gk_manual/docs/intelligence/modules#модуль-дискретных-входных-сигналов-с-контролем-цепи">МДИ</a> или <a href="/gk_manual/docs/intelligence/modules#модуль-дискретных-выходных-сигналов-с-контролем-цепи">МДО</a>
+- **x3** - порядковый номер входа <a href="/gk_manual/docs/intelligence/modules#модуль-дискретных-входных-сигналов-с-контролем-цепи">МДИ</a> или выхода <a href="/gk_manual/docs/intelligence/modules#модуль-дискретных-выходных-сигналов-с-контролем-цепи">МДО</a>
 
 ### Адресный номер АЛС
-Адресный номер [АЛС]({% link docs/intelligence/communications_lines.md %}#адресная-линия-связи) имеет вид **x1**.**x2**.**x3**, где:
-- **x1** - порядковый номер ГК или [КАУ]({% link docs/intelligence/intelligence.md %}#кау)
-- **x2** - порядковый номер [МЦП]({% link docs/intelligence/modules.md %}#модуль-центрального-процессора) или [МКА]({% link docs/intelligence/modules.md %}#модуль-кольцевых-адресных-линий-связи)
-- **x3** - порядковый номер [АЛС]({% link docs/intelligence/communications_lines.md %}#адресная-линия-связи)
+Адресный номер <a href="/gk_manual/docs/intelligence/communications_lines#адресная-линия-связи">АЛС</a> имеет вид **x1**.**x2**.**x3**, где:
+- **x1** - порядковый номер ГК или <a href="/gk_manual/docs/global_system/kau">КАУ</a>
+- **x2** - порядковый номер <a href="/gk_manual/docs/intelligence/modules#модуль-центрального-процессора">МЦП</a> или <a href="/gk_manual/docs/intelligence/modules#модуль-кольцевых-адресных-линий-связи">МКА</a>
+- **x3** - порядковый номер <a href="/gk_manual/docs/intelligence/communications_lines#адресная-линия-связи">АЛС</a>
 
 ### Адресный номер АУ
 Адресный номер АУ имеет вид **x1**.**x2**.**x3**.**x4**, где:
-- **x1** - порядковый номер ГК или [КАУ]({% link docs/intelligence/intelligence.md %}#кау)
-- **x2** - порядковый номер [МЦП]({% link docs/intelligence/modules.md %}#модуль-центрального-процессора) или [МКА]({% link docs/intelligence/modules.md %}#модуль-кольцевых-адресных-линий-связи)
-- **x3** - порядковый номер [АЛС]({% link docs/intelligence/communications_lines.md %}#адресная-линия-связи)
+- **x1** - порядковый номер ГК или <a href="/gk_manual/docs/global_system/kau">КАУ</a>
+- **x2** - порядковый номер <a href="/gk_manual/docs/intelligence/modules#модуль-центрального-процессора">МЦП</a> или <a href="/gk_manual/docs/intelligence/modules#модуль-кольцевых-адресных-линий-связи">МКА</a>
+- **x3** - порядковый номер <a href="/gk_manual/docs/intelligence/communications_lines#адресная-линия-связи">АЛС</a>
 - **x4** - порядковый номер АУ.
 
 {: .note }
