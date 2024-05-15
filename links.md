@@ -74,3 +74,21 @@
 
 ### КАУ
 <a href="/gk_manual/docs/global_system/kau">КАУ</a>
+
+### ТПУ
+<a href="/gk_manual/docs/global_system/tpu">ТПУ</a>
+
+### Составной модуль
+<a href="/gk_manual/docs/intelligence/modules#составные-модули">составной модуль</a>
+
+### МЦП
+<a href="/gk_manual/docs/intelligence/modules#модуль-центрального-процессора">МЦП</a>
+
+### МКА
+<a href="/gk_manual/docs/intelligence/modules#модуль-кольцевых-адресных-линий-связи">МКА</a>
+
+### МДИ
+<a href="/gk_manual/docs/intelligence/modules#модуль-дискретных-входных-сигналов-с-контролем-цепи">МДИ</a>
+
+### МДО
+<a href="/gk_manual/docs/intelligence/modules#модуль-дискретных-выходных-сигналов-с-контролем-цепи">МДО</a>
