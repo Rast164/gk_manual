@@ -37,7 +37,25 @@
 <a href="/gk_manual/docs/global_system">адресная система</a>
 
 ### АУ
-<a href="/gk_manual/docs/global_system#адресное-устройство">АУ</a>
+<a href="/gk_manual/docs/global_system/address_devices#адресные-устройства">АУ</a>
+
+### Название устройства
+<a href="/gk_manual/docs/global_system/address_devices#название_устройства">Название</a>
+
+### Краткое название устройства
+<a href="/gk_manual/docs/global_system/address_devices#краткое_название_устройства">Краткое название</a>
+
+### Обозначение устройства
+<a href="/gk_manual/docs/global_system/address_devices#обозначение_устройства">Обозначение</a>
+
+### Краткое обозначение устройства
+<a href="/gk_manual/docs/global_system/address_devices#краткое_обозначение_устройства">Краткое обозначение</a>
+
+### Количество адресов
+<a href="/gk_manual/docs/global_system/address_devices#количество_адресов">Количество адресов</a>
+
+### Устройство противопожарной хащиты
+<a href="/gk_manual/docs/global_system/address_devices#устройство_противопожарной_защиты">Устройство ПЗ</a>
 
 ### Извещатели пожарные
 <a href="/gk_manual/docs/global_system/address_devices#извещатели">извещатель пожарный</a>
