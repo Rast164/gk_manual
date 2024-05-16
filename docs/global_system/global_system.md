@@ -47,19 +47,18 @@ has_toc: false
 - **x3** - порядковый номер <a href="/gk_manual/docs/intelligence/communications_lines#адресная-линия-связи">АЛС</a>
 - **x4** - порядковый номер АУ.
 
-{: .note }
-> Для <a href="/gk_manual/docs/global_system/address_devices#устройства-ввода-вывода">устройств ввода-вывода</a>, занимающих в системе несколько адресов (<a href="/gk_manual/docs/global_system/address_devices#барьер-шлейфов-сигнализации-адресный-абшс-r2">АБШС</a>, <a href="/gk_manual/docs/global_system/address_devices#метка-адресная-ам4-r2">АМ4</a>, <a href="/gk_manual/docs/global_system/address_devices#метка-адресная-пожарная-амп4-r2">АМП4</a>, <a href="/gk_manual/docs/global_system/address_devices#модуль-выходов-с-контролем-мвк2-r2">МВК2</a>, <a href="/gk_manual/docs/global_system/address_devices#модуль-выходов-с-контролем-мвк4-r2">МВК4</a>, <a href="/gk_manual/docs/global_system/address_devices#модуль-выходов-с-контролем-мвк8-r2">МВК8</a>, <a href="/gk_manual/docs/global_system/address_devices#модуль-релейный-рм2-r2">РМ2</a>, <a href="/gk_manual/docs/global_system/address_devices#модуль-релейный-рм4-r2">РМ4</a>), последняя цифра **x4** адресного номера соответствует конкретному вводу/выводу устройства.
-> <div markdown="block">
-> {: .example }
+### Многоадресные устройства
+Для <a href="/gk_manual/docs/global_system/address_devices#устройства-ввода-вывода">устройств ввода-вывода</a>, занимающих в системе несколько адресов (<a href="/gk_manual/docs/global_system/address_devices#барьер-шлейфов-сигнализации-адресный-абшс-r2">АБШС</a>, <a href="/gk_manual/docs/global_system/address_devices#метка-адресная-ам4-r2">АМ4</a>, <a href="/gk_manual/docs/global_system/address_devices#метка-адресная-пожарная-амп4-r2">АМП4</a>, <a href="/gk_manual/docs/global_system/address_devices#модуль-выходов-с-контролем-мвк2-r2">МВК2</a>, <a href="/gk_manual/docs/global_system/address_devices#модуль-выходов-с-контролем-мвк4-r2">МВК4</a>, <a href="/gk_manual/docs/global_system/address_devices#модуль-выходов-с-контролем-мвк8-r2">МВК8</a>, <a href="/gk_manual/docs/global_system/address_devices#модуль-релейный-рм2-r2">РМ2</a>, <a href="/gk_manual/docs/global_system/address_devices#модуль-релейный-рм4-r2">РМ4</a>), последняя цифра **x4** адресного номера соответствует конкретному вводу/выводу устройства.
+
+{: .example }
 > <a href="/gk_manual/docs/global_system/address_devices#метка-адресная-пожарная-амп4-r2">АМП4</a> имеет 4 шлейфа сигнализации и занимает в системе 4 адреса. Если в проекте для <a href="/gk_manual/docs/global_system/address_devices#метка-адресная-пожарная-амп4-r2">АМП4</a> задан адрес **1**.**1**.**2**.**029**, то этот адрес соответствует первому шлейву <a href="/gk_manual/docs/global_system/address_devices#метка-адресная-пожарная-амп4-r2">АМП4</a>, адрес **1**.**1**.**2**.**030** соответствует второму шлейфу, **1**.**1**.**2**.**031** - третьему шлейфу и адрес **1**.**1**.**2**.**032** соответствует четвертому шлейфу <a href="/gk_manual/docs/global_system/address_devices#метка-адресная-пожарная-амп4-r2">АМП4</a>
-> </div>
-> Для <a href="/gk_manual/docs/global_system/address_devices#оповещатель-охранно-пожарный-комбинированный-свето-звуковой-адресный-опоп-124-r2">ОПОП 124</a>, занимающего в системе два адреса, последняя цифра **x4** адресного номера соответствует определенному типу сигнализации - световой или звуковой.
-> <div markdown="block">
-> {: .example }
+
+Для <a href="/gk_manual/docs/global_system/address_devices#оповещатель-охранно-пожарный-комбинированный-свето-звуковой-адресный-опоп-124-r2">ОПОП 124</a>, занимающего в системе два адреса, последняя цифра **x4** адресного номера соответствует определенному типу сигнализации - световой или звуковой.
+
+{: .example }
 > Если в проекте для <a href="/gk_manual/docs/global_system/address_devices#оповещатель-охранно-пожарный-комбинированный-свето-звуковой-адресный-опоп-124-r2">ОПОП 124</a> задан адрес **1**.**1**.**1**.**012**, то этот адрес соответствует световой сигнализации оповещателя, адрес **1**.**1**.**1**.**013** соответствует звуковой сигнализации
-> </div>
-> Для <a href="/gk_manual/docs/global_system/address_devices#блок-модульного-пожаротушения-бмп-r2">БМП</a>, занимающего в системе пять адресов, последняя цифра **x4** адресного номера соответствует определенному компоненту.
-> <div markdown="block">
-> {: .example }
+
+Для <a href="/gk_manual/docs/global_system/address_devices#блок-модульного-пожаротушения-бмп-r2">БМП</a>, занимающего в системе пять адресов, последняя цифра **x4** адресного номера соответствует определенному компоненту.
+
+{: .example }
 > Если в проекте для <a href="/gk_manual/docs/global_system/address_devices#блок-модульного-пожаротушения-бмп-r2">БМП</a> задан адрес **1**.**1**.**1**.**207**, то этот адрес соответствует самому <a href="/gk_manual/docs/global_system/address_devices#блок-модульного-пожаротушения-бмп-r2">БМП</a>, адреса **1**.**1**.**1**.**208** и **1**.**1**.**1**.**209** соответствуют датчикам "масса/двери, окна", адрес **1**.**1**.**1**.**210** соответствует выходу на пусковое устройство, адрес **1**.**1**.**1**.**211** - питание <a href="/gk_manual/docs/global_system/address_devices#блок-модульного-пожаротушения-бмп-r2">БМП</a>
-> </div>
