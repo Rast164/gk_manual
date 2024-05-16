@@ -47,7 +47,7 @@ has_toc: false
 - **x3** - порядковый номер <a href="/gk_manual/docs/intelligence/communications_lines#адресная-линия-связи">АЛС</a>
 - **x4** - порядковый номер АУ.
 
-### Многоадресные устройства
+### Многоадресные АУ
 Некоторые АУ занимают в системе несколько адресов
 
 Для <a href="/gk_manual/docs/global_system/address_devices#устройства-ввода-вывода">устройств ввода-вывода</a> (<a href="/gk_manual/docs/global_system/address_devices#барьер-шлейфов-сигнализации-адресный-абшс-r2">АБШС</a>, <a href="/gk_manual/docs/global_system/address_devices#метка-адресная-ам4-r2">АМ4</a>, <a href="/gk_manual/docs/global_system/address_devices#метка-адресная-пожарная-амп4-r2">АМП4</a>, <a href="/gk_manual/docs/global_system/address_devices#модуль-выходов-с-контролем-мвк2-r2">МВК2</a>, <a href="/gk_manual/docs/global_system/address_devices#модуль-выходов-с-контролем-мвк4-r2">МВК4</a>, <a href="/gk_manual/docs/global_system/address_devices#модуль-выходов-с-контролем-мвк8-r2">МВК8</a>, <a href="/gk_manual/docs/global_system/address_devices#модуль-релейный-рм2-r2">РМ2</a>, <a href="/gk_manual/docs/global_system/address_devices#модуль-релейный-рм4-r2">РМ4</a> последняя цифра **x4** адресного номера соответствует конкретному вводу/выводу устройства.
