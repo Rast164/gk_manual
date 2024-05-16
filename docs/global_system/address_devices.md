@@ -51,7 +51,8 @@ permalink: /docs/global_system/address_devices
   - система формирования сигнала управления инженерным, технологическим оборудованием и иными устройствами, участвующими в обеспечении пожарной безопасности;
   - система комбинированные.
 
-## Режим работы адресных устройств
+## Режим работы АУ
+АУ может находиться только в одном режиме работы. Информация об изменение режима работы отображается в журнале. Независимо от режима работы, информационный обмен между АУ и ГК не прекращается, ГК продолжает контролировать физическое наличие АУ в <a href="/gk_manual/docs/intelligence/communications_lines#адресная-линия-связи">АЛС</a>.
 
 <table> 
   <thead> 
@@ -65,7 +66,7 @@ permalink: /docs/global_system/address_devices
     <tr>
       <td id="режим_работы_дежурный" style="text-align: center"><img src="../../assets/icons/operating_mode/om_normal.png" width="160" height="50"></td>
       <td style="text-align: center">ДЕЖУРНЫЙ</td>
-      <td style="text-align: left">Устройство работает нормально (штатно)</td>
+      <td style="text-align: left">Устройство готово к работе (нормальный режим работы, устанавливается по-умолчанию)</td>
     </tr>
     <tr>
       <td id="режим_работы_отключено" style="text-align: center"><img src="../../assets/icons/operating_mode/om_disabled.png" width="160" height="50"></td>
