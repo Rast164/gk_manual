@@ -80,7 +80,7 @@ permalink: /docs/global_system/address_devices
     <tr>
       <td id="режим_работы_блокировка_пуска" style="text-align: center"><img src="../../assets/icons/operating_mode/om_start_lock.png" width="160" height="50"></td>
       <td style="text-align: center">БЛОКИРОВКА ПУСКА</td>
-      <td style="text-align: left">Устройство игнорирует автоматические команды сценариев и ручные команды пользователя (за исключением команд на изменение режима работы). продолжает контролировать физическое наличие устройства в <a href="/gk_manual/docs/intelligence/communications_lines#адресная-линия-связи">АЛС</a></td>
+      <td style="text-align: left">Устройство игнорирует автоматические команды сценариев и ручные команды пользователя (за исключением команд на изменение режима работы). ГК продолжает контролировать физическое наличие устройства в <a href="/gk_manual/docs/intelligence/communications_lines#адресная-линия-связи">АЛС</a></td>
     </tr>
   </tbody>
 </table>
