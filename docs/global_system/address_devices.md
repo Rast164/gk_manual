@@ -131,7 +131,7 @@ permalink: /docs/global_system/address_devices
       <td style="text-align: left"></td>
     </tr>
     <tr>
-      <td id="состояние_устройства_неисправность" style="text-align: center">Неисправность</td>
+      <td id="состояние_устройства_неисправно" style="text-align: center">Неисправно</td>
       <td style="text-align: left"></td>
     </tr>
     <tr>
@@ -140,7 +140,7 @@ permalink: /docs/global_system/address_devices
       <td style="text-align: left"></td>
     </tr>
     <tr>
-      <td id="состояние_устройства_неисправность" style="text-align: center">Неисправность</td>
+      <td id="состояние_устройства_неисправно" style="text-align: center">Неисправно</td>
       <td style="text-align: left"></td>
     </tr>
     <tr>
@@ -161,7 +161,7 @@ permalink: /docs/global_system/address_devices
       <td style="text-align: left"></td>
     </tr>
     <tr>
-      <td id="состояние_устройства_неисправность" style="text-align: center">Неисправность</td>
+      <td id="состояние_устройства_неисправно" style="text-align: center">Неисправно</td>
       <td style="text-align: left"></td>
     </tr>
     <tr>
@@ -170,7 +170,7 @@ permalink: /docs/global_system/address_devices
       <td style="text-align: left"></td>
     </tr>
     <tr>
-      <td id="состояние_устройства_неисправность" style="text-align: center">Неисправность</td>
+      <td id="состояние_устройства_неисправно" style="text-align: center">Неисправно</td>
       <td style="text-align: left"></td>
     </tr>
   </tbody>
