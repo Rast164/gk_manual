@@ -39,11 +39,11 @@ permalink: /docs/global_system/address_devices/detectors
       <td style="text-align: center">1</td>
     </tr>
     <tr>
-      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#режим_работы_ау">Режимы работы</a></td>
+      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#режим-работы-ау">Режимы работы</a></td>
       <td style="text-align: center"><a href="/gk_manual/docs/global_system/address_devices#режим_работы_ау_дежурный">ДЕЖУРНЫЙ</a>, <a href="/gk_manual/docs/global_system/address_devices#режим_работы_ау_отключено">ОТКЛЮЧЕНО</a></td>
     </tr>
     <tr>
-      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#состояние_ау">Состояния</a></td>
+      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#состояние-ау">Состояния</a></td>
       <td style="text-align: center"><a href="/gk_manual/docs/global_system/address_devices#состояние_ау_норма">норма</a>, <a href="/gk_manual/docs/global_system/address_devices#состояние_ау_сработка">сработка</a>, <a href="/gk_manual/docs/global_system/address_devices#состояние_ау_неисправно">неисправно</a>, <a href="/gk_manual/docs/global_system/address_devices#состояние_ау_отключено">отключено</a></td>
     </tr>
   </tbody>
