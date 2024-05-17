@@ -3,7 +3,7 @@ layout: default
 title: Взрывозащищенные устройства
 parent: Адресные устройства
 grand_parent: СПЗ Глобал
-nav_order: 7
+nav_order: 8
 permalink: /docs/global_system/address_devices/explosionproof_devices
 ---
 
