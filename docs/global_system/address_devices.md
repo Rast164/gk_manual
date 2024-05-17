@@ -101,79 +101,38 @@ permalink: /docs/global_system/address_devices
 <table> 
   <thead> 
     <tr> 
-      <th style="text-align: center">Режим работы</th>
       <th style="text-align: center">Состояние</th>
       <th style="text-align: center">Описание</th>
     </tr>
   </thead> 
   <tbody>
     <tr>
-      <td rowspan="7" style="text-align: center">ДЕЖУРНЫЙ</td>
       <td id="состояние_ау_норма" style="text-align: center">Норма</td>
-      <td style="text-align: left">Нормальное состояние АУ, характеризуюемое отсутствием входящих сигналов</td>
+      <td style="text-align: left">Нормальное состояние АУ, характеризуюемое отсутствием сигналов и неисправностей</td>
     </tr> 
     <tr>
       <td id="состояние_ау_сработка" style="text-align: center">Сработка</td>
-      <td style="text-align: left">Состояние АУ, при котором они формируют сообщение о пожарной тревоге</td>
+      <td style="text-align: left">Нормальное состояние АУ, характеризуюемое наличием сигнала</td>
     </tr>
     <tr>
       <td id="состояние_ау_включено" style="text-align: center">Включено</td>
-      <td style="text-align: left"></td>
+      <td style="text-align: left">Нормальное остояние АУ, при котором оно включено</td>
     </tr>
     <tr>
       <td id="состояние_ау_включается" style="text-align: center">Включается</td>
-      <td style="text-align: left"></td>
+      <td style="text-align: left">Промежуточное состояние АУ, при котором оно переходит из состояния "Выключено" в состояние "Включено"</td>
     </tr>
     <tr>
       <td id="состояние_ау_выключено" style="text-align: center">Выключено</td>
-      <td style="text-align: left"></td>
+      <td style="text-align: left">Нормальное состояние АУ, при котором оно выключено</td>
     </tr>
     <tr>
       <td id="состояние_ау_выключается" style="text-align: center">Выключается</td>
-      <td style="text-align: left"></td>
+      <td style="text-align: left">Промежуточное состояние АУ, при котором оно переходит из состояния "Включено" в состояние "Выключено"</td>
     </tr>
     <tr>
       <td id="состояние_ау_неисправно" style="text-align: center">Неисправно</td>
-      <td style="text-align: left"></td>
-    </tr>
-    <tr>
-      <td rowspan="2" style="text-align: center">ОТКЛЮЧЕНО</td>
-      <td id="состояние_ау_отключено" style="text-align: center">Отключено</td>
-      <td style="text-align: left"></td>
-    </tr>
-    <tr>
-      <td id="состояние_ау_неисправно2" style="text-align: center">Неисправно</td>
-      <td style="text-align: left"></td>
-    </tr>
-    <tr>
-      <td rowspan="5" style="text-align: center">АВТОМАТИКА ОТКЛЮЧЕНА</td>
-      <td id="состояние_ау_включено2" style="text-align: center">Включено</td>
-      <td style="text-align: left"></td>
-    </tr>
-    <tr>
-      <td id="состояние_ау_включается2" style="text-align: center">Включается</td>
-      <td style="text-align: left"></td>
-    </tr>
-    <tr>
-      <td id="состояние_ау_выключено2" style="text-align: center">Выключено</td>
-      <td style="text-align: left"></td>
-    </tr>
-    <tr>
-      <td id="состояние_ау_выключается2" style="text-align: center">Выключается</td>
-      <td style="text-align: left"></td>
-    </tr>
-    <tr>
-      <td id="состояние_ау_неисправно3" style="text-align: center">Неисправно</td>
-      <td style="text-align: left"></td>
-    </tr>
-    <tr>
-      <td rowspan="2" style="text-align: center">БЛОКИРОВКА ПУСКА</td>
-      <td id="состояние_ау_выключено3" style="text-align: center">Выключено</td>
-      <td style="text-align: left"></td>
-    </tr>
-    <tr>
-      <td id="состояние_ау_неисправно4" style="text-align: center">Неисправно</td>
-      <td style="text-align: left"></td>
-    </tr>
+      <td style="text-align: left">Состояние АУ, характеризуемое наличием ошибки или ошибок в работе АУ</td>
+    </tr>    
   </tbody>
 </table>
