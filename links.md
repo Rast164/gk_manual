@@ -58,7 +58,7 @@
 <a href="/gk_manual/docs/global_system/address_devices#устройство_противопожарной_защиты">Устройство ПЗ</a>
 
 ### Режим работы АУ
-<a href="/gk_manual/docs/global_system/address_devices#режим_работы_ау">режим работы</a>
+<a href="/gk_manual/docs/global_system/address_devices#режим-работы-ау">режим работы</a>
 
 ### Режим работы АУ ДЕЖУРНЫЙ
 <a href="/gk_manual/docs/global_system/address_devices#режим_работы_ау_дежурный">ДЕЖУРНЫЙ</a>
@@ -73,7 +73,7 @@
 <a href="/gk_manual/docs/global_system/address_devices#режим_работы_ау_блокировка_пуска">БЛОКИРОВКА ПУСКА </a>
 
 ### Состояние АУ
-<a href="/gk_manual/docs/global_system/address_devices#состояние_ау">состояние</a>
+<a href="/gk_manual/docs/global_system/address_devices#состояние-ау">состояние</a>
 
 ### Состояние АУ НОРМА
 <a href="/gk_manual/docs/global_system/address_devices#состояние_ау_норма">норма</a>
@@ -102,11 +102,14 @@
 ### Извещатели пожарные
 <a href="/gk_manual/docs/global_system/address_devices#извещатели">извещатель пожарный</a>
 
-### Устройства ввода-вывода
-<a href="/gk_manual/docs/global_system/address_devices#устройства-ввода-вывода">устройства ввода-вывода</a>
+### Устройства ввода
+<a href="/gk_manual/docs/global_system/input_devices#устройства-ввода">устройства ввода</a>
+
+### Устройства вывода
+<a href="/gk_manual/docs/global_system/output_devices#устройства-вывода">устройства вывода</a>
 
 ### Устройства с изолятором короткого замыкания
-<a href="/gk_manual/docs/global_system/address_devices#устройства-с-изолятором-короткого-замыкания">устройства с изолятором короткого замыкания</a>
+<a href="/gk_manual/docs/global_system/s_c_isolated_devices#устройства-с-изолятором-короткого-замыкания">устройства с изолятором короткого замыкания</a>
 
 ### Адресный номер
 <a href="/gk_manual/docs/global_system#адресный-номер">адресный номер</a>
