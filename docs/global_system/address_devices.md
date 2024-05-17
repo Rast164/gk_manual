@@ -8,6 +8,8 @@ permalink: /docs/global_system/address_devices
 ---
 
 # Адресные устройства
+Все устройства, информационный обмен и питание которых осуществляется по <a href="/gk_manual/docs/intelligence/communications_lines#адресная-линия-связи">АЛС</a>, называются адресными устройствами (АУ). 
+
 ## Системные параметры АУ
 <table> 
   <thead> 
