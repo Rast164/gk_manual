@@ -132,7 +132,7 @@ permalink: /docs/global_system/address_devices
     </tr>
     <tr>
       <td id="состояние_ау_неисправно" style="text-align: center">Неисправно</td>
-      <td style="text-align: left">Состояние АУ, характеризуемое наличием ошибки или ошибок в работе АУ</td>
+      <td style="text-align: left">Состояние АУ, характеризуемое наличием ошибок в работе АУ</td>
     </tr>    
   </tbody>
 </table>
