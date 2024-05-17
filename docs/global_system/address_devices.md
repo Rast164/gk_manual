@@ -143,5 +143,35 @@ permalink: /docs/global_system/address_devices
       <td id="состояние_устройства_неисправность" style="text-align: center">Неисправность</td>
       <td style="text-align: left"></td>
     </tr>
+    <tr>
+      <td rowspan="5" style="text-align: center">АВТОМАТИКА ОТКЛЮЧЕНА</td>
+      <td id="состояние_устройства_включено" style="text-align: center">Велючено</td>
+      <td style="text-align: left">/td>
+    </tr>
+    <tr>
+      <td id="состояние_устройства_включается" style="text-align: center">Включается</td>
+      <td style="text-align: left"></td>
+    </tr>
+    <tr>
+      <td id="состояние_устройства_выключено" style="text-align: center">Выключено</td>
+      <td style="text-align: left"></td>
+    </tr>
+    <tr>
+      <td id="состояние_устройства_выключается" style="text-align: center">Выключается</td>
+      <td style="text-align: left"></td>
+    </tr>
+    <tr>
+      <td id="состояние_устройства_неисправность" style="text-align: center">Неисправность</td>
+      <td style="text-align: left"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" style="text-align: center">БЛОКИРОВКА ПУСКА</td>
+      <td id="состояние_устройства_выключено" style="text-align: center">Выключено</td>
+      <td style="text-align: left"></td>
+    </tr>
+    <tr>
+      <td id="состояние_устройства_неисправность" style="text-align: center">Неисправность</td>
+      <td style="text-align: left"></td>
+    </tr>
   </tbody>
 </table>
