@@ -8,7 +8,7 @@ permalink: /docs/global_system/address_devices
 ---
 
 # Адресные устройства
-## Системные параметры адресных устройств
+## Системные параметры АУ
 <table> 
   <thead> 
     <tr> 
@@ -108,7 +108,7 @@ permalink: /docs/global_system/address_devices
     <tr>
       <td rowspan="7" style="text-align: center">ДЕЖУРНЫЙ</td>
       <td id="состояние_ау_норма" style="text-align: center">Норма</td>
-      <td style="text-align: left">Нормальное рабочее состояние <a href="/gk_manual/docs/global_system/address_devices#извещатели">извещателей</a>, характеризующее отсутствие факторов пожарной тревоги</td>
+      <td style="text-align: left">Нормальное рабочее состояние <a href="/gk_manual/docs/global_system/address_devices#извещатели">извещателей</a> и <a href="/gk_manual/docs/global_system/address_devices#устройства-ввода-вывода">устройства ввода-вывода</a>, характеризующее отсутствие факторов пожарной тревоги</td>
     </tr> 
     <tr>
       <td id="состояние_ау_сработка" style="text-align: center">Сработка</td>
