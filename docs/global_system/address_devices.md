@@ -108,7 +108,7 @@ permalink: /docs/global_system/address_devices
     <tr>
       <td id="состояние_норма" rowspan="2" style="text-align: center">ДЕЖУРНЫЙ</td>
       <td style="text-align: center">Норма</td>
-      <td style="text-align: left">Нормальное рабочее состояние <a href="/gk_manual/docs/global_system/address_devices#извещатели">извещателей</a>, характеризующее отсутствие факторов для сработки</td>
+      <td style="text-align: left">Нормальное рабочее состояние <a href="/gk_manual/docs/global_system/address_devices#извещатели">извещателей</a>, характеризующее отсутствие факторов пожарной тревоги</td>
     </tr> 
     <tr>
       <td style="text-align: center">Сработка</td>
