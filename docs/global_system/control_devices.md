@@ -3,7 +3,7 @@ layout: default
 title: Устройства управления
 parent: Адресные устройства
 grand_parent: СПЗ Глобал
-nav_order: 4
+nav_order: 5
 permalink: /docs/global_system/address_devices/control_devices
 ---
 
