@@ -134,5 +134,14 @@ permalink: /docs/global_system/address_devices
       <td id="состояние_устройства_неисправность" style="text-align: center">Неисправность</td>
       <td style="text-align: left"></td>
     </tr>
+    <tr>
+      <td rowspan="2" style="text-align: center">ОТКЛЮЧЕНО</td>
+      <td id="состояние_устройства_отключено" style="text-align: center">Отключено</td>
+      <td style="text-align: left"></td>
+    </tr>
+    <tr>
+      <td id="состояние_устройства_неисправность" style="text-align: center">Неисправность</td>
+      <td style="text-align: left"></td>
+    </tr>
   </tbody>
 </table>
