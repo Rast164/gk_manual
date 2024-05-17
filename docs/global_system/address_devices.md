@@ -63,22 +63,22 @@ permalink: /docs/global_system/address_devices
   </thead> 
   <tbody>
     <tr>
-      <td id="режим_работы_дежурный" style="text-align: center"><img src="../../assets/icons/operating_mode/om_normal.png" width="160" height="50"></td>
+      <td id="режим_работы_устройства_дежурный" style="text-align: center"><img src="../../assets/icons/operating_mode/om_normal.png" width="160" height="50"></td>
       <td style="text-align: center">ДЕЖУРНЫЙ</td>
       <td style="text-align: left">Устройство готово к работе (нормальный режим работы, устанавливается по-умолчанию)</td>
     </tr>
     <tr>
-      <td id="режим_работы_отключено" style="text-align: center"><img src="../../assets/icons/operating_mode/om_disabled.png" width="160" height="50"></td>
+      <td id="режим_работы_устройства_отключено" style="text-align: center"><img src="../../assets/icons/operating_mode/om_disabled.png" width="160" height="50"></td>
       <td style="text-align: center">ОТКЛЮЧЕНО</td>
       <td style="text-align: left">ГК игнорирует информацию о текущем состоянии устройства, но продолжает контролировать физическое наличие устройства в <a href="/gk_manual/docs/intelligence/communications_lines#адресная-линия-связи">АЛС</a></td>
     </tr>
     <tr>
-      <td id="режим_работы_автоматика_отключена" style="text-align: center"><img src="../../assets/icons/operating_mode/om_automation_disabled.png" width="160" height="50"></td>
+      <td id="режим_работы_устройства_автоматика_отключена" style="text-align: center"><img src="../../assets/icons/operating_mode/om_automation_disabled.png" width="160" height="50"></td>
       <td style="text-align: center">АВТОМАТИКА ОТКЛЮЧЕНА</td>
       <td style="text-align: left">Устройство игнорирует автоматические команды сценариев, доступно лишь ручное (непосредственно пользователем) управление устройством с помощью клавиш и кнопок управления состоянием</td>
     </tr>
     <tr>
-      <td id="режим_работы_блокировка_пуска" style="text-align: center"><img src="../../assets/icons/operating_mode/om_start_lock.png" width="160" height="50"></td>
+      <td id="режим_работы_устройства_блокировка_пуска" style="text-align: center"><img src="../../assets/icons/operating_mode/om_start_lock.png" width="160" height="50"></td>
       <td style="text-align: center">БЛОКИРОВКА ПУСКА</td>
       <td style="text-align: left">Устройство игнорирует автоматические команды сценариев и ручные команды пользователя (за исключением команд на изменение режима работы)</td>
     </tr>
@@ -106,13 +106,33 @@ permalink: /docs/global_system/address_devices
   </thead> 
   <tbody>
     <tr>
-      <td id="состояние_норма" rowspan="2" style="text-align: center">ДЕЖУРНЫЙ</td>
-      <td style="text-align: center">Норма</td>
+      <td rowspan="7" style="text-align: center">ДЕЖУРНЫЙ</td>
+      <td id="состояние_устройства_норма" style="text-align: center">Норма</td>
       <td style="text-align: left">Нормальное рабочее состояние <a href="/gk_manual/docs/global_system/address_devices#извещатели">извещателей</a>, характеризующее отсутствие факторов пожарной тревоги</td>
     </tr> 
     <tr>
-      <td style="text-align: center">Сработка</td>
+      <td id="состояние_устройства_сработка" style="text-align: center">Сработка</td>
       <td style="text-align: left">Состояние <a href="/gk_manual/docs/global_system/address_devices#извещатели">извещателей</a>, при котором они формируют сигнал о пожарной тревоге</td>
+    </tr>
+    <tr>
+      <td id="состояние_устройства_включено" style="text-align: center">Включено</td>
+      <td style="text-align: left"></td>
+    </tr>
+    <tr>
+      <td id="состояние_устройства_включается" style="text-align: center">Включается</td>
+      <td style="text-align: left"></td>
+    </tr>
+    <tr>
+      <td id="состояние_устройства_выключено" style="text-align: center">Выключено</td>
+      <td style="text-align: left"></td>
+    </tr>
+    <tr>
+      <td id="состояние_устройства_выключается" style="text-align: center">Выключается</td>
+      <td style="text-align: left"></td>
+    </tr>
+    <tr>
+      <td id="состояние_устройства_неисправность" style="text-align: center">Неисправность</td>
+      <td style="text-align: left"></td>
     </tr>
   </tbody>
 </table>
