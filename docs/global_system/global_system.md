@@ -11,7 +11,7 @@ has_toc: false
 Адресная система противопожарной защиты (СПЗ) Глобал представляет из себя совокупность ГК, <a href="/gk_manual/docs/global_system/kau">КАУ</a>, <a href="/gk_manual/docs/global_system/tpu">ТПУ</a>, подключенных по <a href="/gk_manual/docs/intelligence/communications_lines#адресная-линия-связи">АЛС</a> <a href="/gk_manual/docs/global_system/address_devices#адресные-устройства">АУ</a> и подключенного посредством <a href="/gk_manual/docs/global_system/address_devices#устройства-ввода-вывода">устройств ввода-вывода</a> внешнего оборудования.
 
 ## Адресный номер
-Каждый ГК, <a href="/gk_manual/docs/global_system/kau">КАУ</a>, <a href="/gk_manual/docs/global_system/tpu">ТПУ</a>, <a href="/gk_manual/docs/intelligence/modules#составные-модули">составной модуль</a>, <a href="/gk_manual/docs/intelligence/communications_lines#адресная-линия-связи">АЛС</a> и АУ имеют свой уникальный идентификатор в СПЗ - адресный номер.
+Каждый ГК, <a href="/gk_manual/docs/global_system/kau">КАУ</a>, <a href="/gk_manual/docs/global_system/tpu">ТПУ</a>, <a href="/gk_manual/docs/intelligence/modules#составные-модули">составной модуль</a>, <a href="/gk_manual/docs/intelligence/communications_lines#адресная-линия-связи">АЛС</a> и <a href="/gk_manual/docs/global_system/address_devices#адресные-устройства">АУ</a> имеют свой уникальный идентификатор в СПЗ - адресный номер.
 
 {: .note }
 > Адресный номер присваевается на этапе <a href="/gk_manual/docs/intelligence#конфигурирование-гк">создания проекта</a> и позволяет определить местоположение (направление) каждого компонента СПЗ.
@@ -38,14 +38,14 @@ has_toc: false
 - **x3** - порядковый номер <a href="/gk_manual/docs/intelligence/communications_lines#адресная-линия-связи">АЛС</a>
 
 ### Адресный номер АУ
-Адресный номер АУ имеет вид **x1**.**x2**.**x3**.**x4**, где:
+Адресный номер <a href="/gk_manual/docs/global_system/address_devices#адресные-устройства">АУ</a> имеет вид **x1**.**x2**.**x3**.**x4**, где:
 - **x1** - порядковый номер ГК или <a href="/gk_manual/docs/global_system/kau">КАУ</a>
 - **x2** - порядковый номер <a href="/gk_manual/docs/intelligence/modules#модуль-центрального-процессора">МЦП</a> или <a href="/gk_manual/docs/intelligence/modules#модуль-кольцевых-адресных-линий-связи">МКА</a>
 - **x3** - порядковый номер <a href="/gk_manual/docs/intelligence/communications_lines#адресная-линия-связи">АЛС</a>
-- **x4** - порядковый номер АУ.
+- **x4** - порядковый номер <a href="/gk_manual/docs/global_system/address_devices#адресные-устройства">АУ</a>.
 
 ### Многоадресные АУ
-Некоторые АУ занимают в системе несколько адресов
+Некоторые <a href="/gk_manual/docs/global_system/address_devices#адресные-устройства">АУ</a> занимают в системе несколько адресов
 
 Для <a href="/gk_manual/docs/global_system/address_devices#устройства-ввода-вывода">устройств ввода-вывода</a> (<a href="/gk_manual/docs/global_system/address_devices#барьер-шлейфов-сигнализации-адресный-абшс-r2">АБШС</a>, <a href="/gk_manual/docs/global_system/address_devices#метка-адресная-ам4-r2">АМ4</a>, <a href="/gk_manual/docs/global_system/address_devices#метка-адресная-пожарная-амп4-r2">АМП4</a>, <a href="/gk_manual/docs/global_system/address_devices#модуль-выходов-с-контролем-мвк2-r2">МВК2</a>, <a href="/gk_manual/docs/global_system/address_devices#модуль-выходов-с-контролем-мвк4-r2">МВК4</a>, <a href="/gk_manual/docs/global_system/address_devices#модуль-выходов-с-контролем-мвк8-r2">МВК8</a>, <a href="/gk_manual/docs/global_system/address_devices#модуль-релейный-рм2-r2">РМ2</a>, <a href="/gk_manual/docs/global_system/address_devices#модуль-релейный-рм4-r2">РМ4</a>) последняя цифра **x4** адресного номера соответствует конкретному вводу/выводу устройства.
 
