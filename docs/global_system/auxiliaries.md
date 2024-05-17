@@ -3,7 +3,7 @@ layout: default
 title: Вспомогательные устройства
 parent: Адресные устройства
 grand_parent: СПЗ Глобал
-nav_order: 6
+nav_order: 7
 permalink: /docs/global_system/address_devices/auxiliaries
 ---
 
