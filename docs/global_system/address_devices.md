@@ -91,7 +91,28 @@ permalink: /docs/global_system/address_devices
 
 Информация об изменение режима работы отображается в журнале.
 
-Независимо от режима работы, информационный обмен между АУ и ГК не прекращается, ГК продолжает контролировать физическое наличие АУ в <a href="/gk_manual/docs/intelligence/communications_lines#адресная-линия-связи">АЛС</a>.
+Независимо от установленного режима работы, информационный обмен между АУ и ГК не прекращается, ГК продолжает контролировать физическое наличие АУ в <a href="/gk_manual/docs/intelligence/communications_lines#адресная-линия-связи">АЛС</a>.
 
 ## Состояния АУ
-В зависимости от режима работы, АУ могут находиться в различных состояниях
+В зависимости от установленного режима работы, АУ могут находиться в различных состояниях.
+
+<table> 
+  <thead> 
+    <tr> 
+      <th style="text-align: center">Режим работы</th>
+      <th style="text-align: center">Состояние</th>
+      <th style="text-align: center">Описание</th>
+    </tr>
+  </thead> 
+  <tbody>
+    <tr>
+      <td id="состояние_норма" rowspan="2" style="text-align: center">ДЕЖУРНЫЙ</td>
+      <td style="text-align: center">Норма</td>
+      <td style="text-align: left">Нормальное рабочее состояние <a href="/gk_manual/docs/global_system/address_devices#извещатели">извещателей</a>, характеризующее отсутствие факторов для сработки</td>
+    </tr> 
+    <tr>
+      <td style="text-align: center">Сработка</td>
+      <td style="text-align: left">Состояние <a href="/gk_manual/docs/global_system/address_devices#извещатели">извещателей</a>, при котором они формируют сигнал о пожарной тревоге</td>
+    </tr>
+  </tbody>
+</table>
