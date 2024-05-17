@@ -146,7 +146,7 @@ permalink: /docs/global_system/address_devices
     <tr>
       <td rowspan="5" style="text-align: center">АВТОМАТИКА ОТКЛЮЧЕНА</td>
       <td id="состояние_устройства_включено" style="text-align: center">Включено</td>
-      <td style="text-align: left">/td>
+      <td style="text-align: left"></td>
     </tr>
     <tr>
       <td id="состояние_устройства_включается" style="text-align: center">Включается</td>
