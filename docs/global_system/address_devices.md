@@ -110,15 +110,11 @@ permalink: /docs/global_system/address_devices
     <tr>
       <td rowspan="7" style="text-align: center">ДЕЖУРНЫЙ</td>
       <td id="состояние_ау_норма" style="text-align: center">Норма</td>
-      <td style="text-align: left">Нормальное рабочее состояние <a href="/gk_manual/docs/global_system/address_devices#извещатели">извещателей</a>, <a href="/gk_manual/docs/global_system/i_o_devices#устройства-ввода-вывода">устройства ввода</a> и <a href="/gk_manual/docs/intelligence/modules#модуль-дискретных-входных-сигналов-с-контролем-цепи">МДИ</a>, характеризующее отсутствие факторов пожарной тревоги или входящих сигналов</td>
+      <td style="text-align: left">Нормальное состояние АУ, характеризуюемое отсутствием входящих сигналов</td>
     </tr> 
     <tr>
       <td id="состояние_ау_сработка" style="text-align: center">Сработка</td>
-      <td style="text-align: left">
-        Состояние <a href="/gk_manual/docs/global_system/address_devices#извещатели">извещателей</a>, при котором они формируют сообщение о пожарной тревоге
-        <br>
-        Состояние <a href="/gk_manual/docs/global_system/i_o_devices#устройства-ввода-вывода">устройств ввода</a>, при котором они формируют сообщение о входящем сигнале
-      </td>
+      <td style="text-align: left">Состояние АУ, при котором они формируют сообщение о пожарной тревоге</td>
     </tr>
     <tr>
       <td id="состояние_ау_включено" style="text-align: center">Включено</td>
