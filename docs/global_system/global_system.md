@@ -8,7 +8,17 @@ has_toc: false
 ---
 
 # Система противопожарной защиты Глобал
-Адресная система противопожарной защиты (СПЗ) Глобал представляет из себя совокупность ГК, <a href="/gk_manual/docs/global_system/kau">КАУ</a>, <a href="/gk_manual/docs/global_system/tpu">ТПУ</a>, подключенных по <a href="/gk_manual/docs/intelligence/communications_lines#адресная-линия-связи">АЛС</a> <a href="/gk_manual/docs/global_system/address_devices#адресные-устройства">АУ</a> и подключенного посредством <a href="/gk_manual/docs/global_system/address_devices#устройства-ввода-вывода">устройств ввода-вывода</a> внешнего оборудования.
+Адресная система противопожарной защиты (СПЗ) Глобал предназначена для обеспечения пожарной безопасности на средних, больших и очень больших объектах. 
+
+Система позволяет обнаруживать пожары на ранней стадии, оповещать о них персонал и принимать меры по их ликвидации.
+
+## Состав системы
+Система состоит из следующих компонентов:
+- ГК
+- <a href="/gk_manual/docs/global_system/kau">КАУ</a>
+- <a href="/gk_manual/docs/global_system/tpu">ТПУ</a>
+- <a href="/gk_manual/docs/global_system/address_devices#адресные-устройства">адресные устройства</a>
+- внешнее оборудование.
 
 ## Адресный номер
 Каждый ГК, <a href="/gk_manual/docs/global_system/kau">КАУ</a>, <a href="/gk_manual/docs/global_system/tpu">ТПУ</a>, <a href="/gk_manual/docs/intelligence/modules#составные-модули">составной модуль</a>, <a href="/gk_manual/docs/intelligence/communications_lines#адресная-линия-связи">АЛС</a> и <a href="/gk_manual/docs/global_system/address_devices#адресные-устройства">АУ</a> имеют свой уникальный идентификатор в СПЗ - адресный номер.
