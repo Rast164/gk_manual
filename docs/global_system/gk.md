@@ -15,7 +15,7 @@ permalink: /docs/global_system/gk
 - <a href="/gk_manual/docs/intelligence/modules#модуль-кольцевых-адресных-линий-связи">МКА</a>
 - <a href="/gk_manual/docs/intelligence/modules#модуль-дискретных-входных-сигналов-с-контролем-цепи">МДИ</a>
 - <a href="/gk_manual/docs/intelligence/modules#модуль-дискретных-выходных-сигналов-с-контролем-цепи">МДО</a>
-- <a href="/gk_manual/docs/control_panel/control_panel#панель-управления-и-индикации">панель управления и индикации</a>
+- <a href="/gk_manual/docs/control_panel#панель-управления-и-индикации">панель управления и индикации</a>
 - [встроенные источники питания]()
 
 ## Исполнения ГК
