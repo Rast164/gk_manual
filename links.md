@@ -1,11 +1,35 @@
+### ГК
+<a href="/gk_manual/docs/gk#гк">ГК</a>
+
+### КАУ
+<a href="/gk_manual/docs/kau#кау">КАУ</a>
+
+### ТПУ
+<a href="/gk_manual/docs/global_system/tpu">ТПУ</a>
+
+### Составной модуль
+<a href="/gk_manual/docs/intelligence/modules#составные-модули">составной модуль</a>
+
+### МЦП
+<a href="/gk_manual/docs/intelligence/modules#модуль-центрального-процессора">МЦП</a>
+
+### МКА
+<a href="/gk_manual/docs/intelligence/modules#модуль-кольцевых-адресных-линий-связи">МКА</a>
+
+### МДИ
+<a href="/gk_manual/docs/intelligence/modules#модуль-дискретных-входных-сигналов-с-контролем-цепи">МДИ</a>
+
+### МДО
+<a href="/gk_manual/docs/intelligence/modules#модуль-дискретных-выходных-сигналов-с-контролем-цепи">МДО</a>
+
+### АУ
+<a href="/gk_manual/docs/global_system/address_devices#адресные-устройства">АУ</a>
+
 ### Создание проекта, конфигурирование
 <a href="/gk_manual/docs/global_system#конфигурирование">конфигурирование</a>
 
 ### Профили доступа пользователей
 <a href="/gk_manual/docs/intelligence/profiles#профили-доступа-пользователей">профили доступа пользователей</a>
-
-### ГК
-<a href="/gk_manual/docs/gk#гк">ГК</a>
 
 ### Состояния ГК
 <a href="/gk_manual/docs/intelligence/conditions#основные-состояния-гк">состояния ГК</a>
@@ -36,9 +60,6 @@
 
 ### Адресная система
 <a href="/gk_manual/docs/global_system">адресная система</a>
-
-### АУ
-<a href="/gk_manual/docs/global_system/address_devices#адресные-устройства">АУ</a>
 
 ### Название устройства
 <a href="/gk_manual/docs/global_system/address_devices#название_устройства">Название</a>
@@ -138,24 +159,3 @@
 
 ### PFM
 <a href="/gk_manual/docs/intelligence/communications_lines#цифровая-линия-связи">PFM</a>
-
-### КАУ
-<a href="/gk_manual/docs/kau#кау">КАУ</a>
-
-### ТПУ
-<a href="/gk_manual/docs/global_system/tpu">ТПУ</a>
-
-### Составной модуль
-<a href="/gk_manual/docs/intelligence/modules#составные-модули">составной модуль</a>
-
-### МЦП
-<a href="/gk_manual/docs/intelligence/modules#модуль-центрального-процессора">МЦП</a>
-
-### МКА
-<a href="/gk_manual/docs/intelligence/modules#модуль-кольцевых-адресных-линий-связи">МКА</a>
-
-### МДИ
-<a href="/gk_manual/docs/intelligence/modules#модуль-дискретных-входных-сигналов-с-контролем-цепи">МДИ</a>
-
-### МДО
-<a href="/gk_manual/docs/intelligence/modules#модуль-дискретных-выходных-сигналов-с-контролем-цепи">МДО</a>
