@@ -2,9 +2,8 @@
 layout: default
 title: Устройства ввода
 parent: Адресные устройства
-grand_parent: СПЗ Глобал
 nav_order: 2
-permalink: /docs/global_system/address_devices/input_devices
+permalink: /docs/address_devices/input_devices
 ---
 
 # Устройства ввода
