@@ -14,10 +14,10 @@ has_toc: false
 
 ## Состав системы
 Система состоит из следующих компонентов:
-- <a href="/gk_manual/docs/global_system/gk">ГК</a>
-- <a href="/gk_manual/docs/global_system/kau">КАУ</a>
-- <a href="/gk_manual/docs/global_system/tpu">ТПУ</a>
-- <a href="/gk_manual/docs/global_system/address_devices#адресные-устройства">адресные устройства</a>
+- [ГК]
+- [КАУ]
+- [ТПУ]
+- [АУ]
 - сценарии
 - пожарные зоны
 
@@ -75,3 +75,10 @@ has_toc: false
 
 {: .example }
 > Если в проекте для <a href="/gk_manual/docs/global_system/address_devices#блок-модульного-пожаротушения-бмп-r2">БМП</a> задан адрес **1**.**1**.**1**.**207**, то этот адрес соответствует самому <a href="/gk_manual/docs/global_system/address_devices#блок-модульного-пожаротушения-бмп-r2">БМП</a>, адреса **1**.**1**.**1**.**208** и **1**.**1**.**1**.**209** соответствуют датчикам "масса/двери, окна", адрес **1**.**1**.**1**.**210** соответствует выходу на пусковое устройство, адрес **1**.**1**.**1**.**211** - питание <a href="/gk_manual/docs/global_system/address_devices#блок-модульного-пожаротушения-бмп-r2">БМП</a>
+
+---
+
+[ГК]: /gk_manual/docs/gk#гк
+[КАУ]: /gk_manual/docs/kau#кау
+[ТПУ]: /gk_manual/docs/tpu#тпу
+[АУ]: /gk_manual/docs/address_devices#адресные-устройства
