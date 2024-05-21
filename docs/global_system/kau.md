@@ -2,7 +2,7 @@
 layout: default
 title: КАУ
 parent: СПЗ Глобал
-nav_order: 1
+nav_order: 2
 permalink: /docs/global_system/kau
 ---
 
