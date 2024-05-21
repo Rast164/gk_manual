@@ -18,7 +18,11 @@ has_toc: false
 - <a href="/gk_manual/docs/global_system/kau">КАУ</a>
 - <a href="/gk_manual/docs/global_system/tpu">ТПУ</a>
 - <a href="/gk_manual/docs/global_system/address_devices#адресные-устройства">адресные устройства</a>
-- внешнее оборудование.
+- сценарии
+- пожарные зоны
+
+## Конфигурирование
+Для полноценной работы системы необходимо создать файл конфигурации (проект), содержащую список всех компонентов. Запись конфигурации осуществляется с помощью программного обеспечения <a href="https://products.rubezh.ru/products/po_global_monitor-3356/" target="_blank">GLOBAL MONITOR</a>. Процесс конфигурирования подробно описан в <a href="https://products.rubezh.ru/download/file/18ac995b-e2c1-11ee-95eb-d4f5ef944508/" target="_blank">руководстве по эксплуатации</a> ПО.
 
 ## Адресный номер
 Каждый ГК, <a href="/gk_manual/docs/global_system/kau">КАУ</a>, <a href="/gk_manual/docs/global_system/tpu">ТПУ</a>, <a href="/gk_manual/docs/intelligence/modules#составные-модули">составной модуль</a>, <a href="/gk_manual/docs/intelligence/communications_lines#адресная-линия-связи">АЛС</a> и <a href="/gk_manual/docs/global_system/address_devices#адресные-устройства">АУ</a> имеют свой уникальный идентификатор в СПЗ - адресный номер.
