@@ -1,7 +1,5 @@
 ### Создание проекта, конфигурирование
-<a href="/gk_manual/docs/intelligence#конфигурирование-ГК">создание проекта</a>
-<br>
-<a href="/gk_manual/docs/intelligence#конфигурирование-ГК">конфигурирование</a>
+<a href="/gk_manual/docs/global_system#конфигурирование">конфигурирование</a>
 
 ### Профили доступа пользователей
 <a href="/gk_manual/docs/intelligence/profiles#профили-доступа-пользователей">профили доступа пользователей</a>
