@@ -1,9 +1,10 @@
 ---
 layout: default
 title: ТПУ
-parent: СПЗ Глобал
-nav_order: 4
-permalink: /docs/global_system/tpu
+nav_order: 5
+has_children: true
+permalink: /docs/tpu
+has_toc: false
 ---
 
 # ТПУ
