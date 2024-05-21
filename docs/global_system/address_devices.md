@@ -1,10 +1,9 @@
 ---
 layout: default
 title: Адресные устройства
-parent: СПЗ Глобал
-nav_order: 4
+nav_order: 6
 has_children: true
-permalink: /docs/global_system/address_devices
+permalink: /docs/address_devices
 ---
 
 # Адресные устройства
