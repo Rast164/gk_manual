@@ -2,9 +2,8 @@
 layout: default
 title: Источники питания
 parent: Адресные устройства
-grand_parent: СПЗ Глобал
 nav_order: 6
-permalink: /docs/global_system/address_devices/power_supplies
+permalink: /docs/address_devices/power_supplies
 ---
 
 # Источники питания
