@@ -2,9 +2,8 @@
 layout: default
 title: Оповещатели
 parent: Адресные устройства
-grand_parent: СПЗ Глобал
 nav_order: 4
-permalink: /docs/global_system/address_devices/annunciators
+permalink: /docs/address_devices/annunciators
 ---
 
 # Оповещатели
