@@ -140,7 +140,7 @@
 <a href="/gk_manual/docs/intelligence/communications_lines#цифровая-линия-связи">PFM</a>
 
 ### КАУ
-<a href="/gk_manual/docs/global_system/kau">КАУ</a>
+<a href="/gk_manual/docs/kau#кау">КАУ</a>
 
 ### ТПУ
 <a href="/gk_manual/docs/global_system/tpu">ТПУ</a>
