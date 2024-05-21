@@ -4,6 +4,9 @@
 ### Профили доступа пользователей
 <a href="/gk_manual/docs/intelligence/profiles#профили-доступа-пользователей">профили доступа пользователей</a>
 
+### ГК
+<a href="/gk_manual/docs/gk#гк">ГК</a>
+
 ### Состояния ГК
 <a href="/gk_manual/docs/intelligence/conditions#основные-состояния-гк">состояния ГК</a>
 
