@@ -2,9 +2,8 @@
 layout: default
 title: Устройства вывода
 parent: Адресные устройства
-grand_parent: СПЗ Глобал
 nav_order: 3
-permalink: /docs/global_system/address_devices/output_devices
+permalink: /docs/address_devices/output_devices
 ---
 
 # Устройства вывода
