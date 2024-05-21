@@ -2,9 +2,8 @@
 layout: default
 title: Извещатели
 parent: Адресные устройства
-grand_parent: СПЗ Глобал
 nav_order: 1
-permalink: /docs/global_system/address_devices/detectors
+permalink: /docs/address_devices/detectors
 ---
 
 # Извещатели
