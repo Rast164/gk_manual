@@ -14,5 +14,6 @@ permalink: /
 При возникновении вопросов, связанных с работой <a href="/gk_manual/docs/global_system">системы</a>, вы можете обратиться в <a target="_blank" href="https://products.rubezh.ru/support/">техническую поддержку</a>.
 
 Печатную версию настоящего Руководства можно скачать [здесь]().
+
 ---
 [Руководство]: /gk_manual/docs/global_system
