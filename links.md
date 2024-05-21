@@ -1,3 +1,6 @@
+### Адресная система
+<a href="/gk_manual/docs/global_system">адресная система</a>
+
 ### ГК
 <a href="/gk_manual/docs/gk#гк">ГК</a>
 
@@ -57,9 +60,6 @@
 
 ### Состояние ГК ДЕЖУРНЫЙ
 <a href="/gk_manual/docs/intelligence/conditions#состояние_дежурный">состояние ДЕЖУРНЫЙ</a>
-
-### Адресная система
-<a href="/gk_manual/docs/global_system">адресная система</a>
 
 ### Название устройства
 <a href="/gk_manual/docs/global_system/address_devices#название_устройства">Название</a>
