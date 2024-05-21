@@ -7,9 +7,9 @@ permalink: /docs/intelligence/profiles
 ---
 
 # Профили доступа пользователей
-Доступ к панели индикации и управления и к органам управления ГК ограничен. 
+Доступ к панели индикации и управления и к органам управления <a href="/gk_manual/docs/gk#гк">ГК</a> ограничен. 
 
-Для работы с прибором необходимо авторизоваться с помощью карты доступа.
+Для работы с <a href="/gk_manual/docs/gk#гк">ГК</a> необходимо авторизоваться с помощью карты доступа.
 
 <table> 
   <thead> 
@@ -22,13 +22,13 @@ permalink: /docs/intelligence/profiles
   </thead> 
   <tbody>
     <tr>
-      <td style="text-align: left">Просмотр основных состояний ГК</td>
+      <td style="text-align: left">Просмотр основных состояний <a href="/gk_manual/docs/gk#гк">ГК</a></td>
       <td style="text-align: center">+</td>
       <td style="text-align: center">+</td>
       <td style="text-align: center">+</td>
     </tr>
     <tr>
-      <td style="text-align: left">Выключение звуковой сигнализации ГК</td>
+      <td style="text-align: left">Выключение звуковой сигнализации <a href="/gk_manual/docs/gk#гк">ГК</a></td>
       <td style="text-align: center">-</td>
       <td style="text-align: center">+</td>
       <td style="text-align: center">+</td>
@@ -52,7 +52,7 @@ permalink: /docs/intelligence/profiles
       <td style="text-align: center">+</td>
     </tr>
     <tr>
-      <td style="text-align: left">Просмотр меню НАСТРОЙКИ (управление настройками ГК) и ДОСТУП (управление пользователями)</td>
+      <td style="text-align: left">Просмотр меню НАСТРОЙКИ (управление настройками <a href="/gk_manual/docs/gk#гк">ГК</a>) и ДОСТУП (управление пользователями)</td>
       <td style="text-align: center">-</td>
       <td style="text-align: center">-</td>
       <td style="text-align: center">+</td>
