@@ -2,9 +2,8 @@
 layout: default
 title: Устройства с изолятором короткого замыкания
 parent: Адресные устройства
-grand_parent: СПЗ Глобал
 nav_order: 9
-permalink: /docs/global_system/address_devices/s_c_isolated_devices
+permalink: /docs/address_devices/s_c_isolated_devices
 ---
 
 # Устройства с изолятором короткого замыкания
