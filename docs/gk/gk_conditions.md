@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Состояния ГК
-parent: Основные сведения
-nav_order: 4
-permalink: /docs/intelligence/conditions
+parent: ГК
+nav_order: 1
+permalink: /docs/gk/gk_conditions
 ---
 
 # Основные состояния ГК
