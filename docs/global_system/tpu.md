@@ -2,7 +2,7 @@
 layout: default
 title: ТПУ
 parent: СПЗ Глобал
-nav_order: 2
+nav_order: 3
 permalink: /docs/global_system/tpu
 ---
 
