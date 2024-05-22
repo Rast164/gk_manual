@@ -68,7 +68,7 @@ permalink: /docs/global_system/communications_lines
 </table>
 
 {: .note }
-> Сегментом АЛС считается участок кабеля ГК — <a href="/gk_manual/docs/global_system#адресное-устройство">АУ</a> и <a href="/gk_manual/docs/global_system#адресное-устройство">АУ</a> — <a href="/gk_manual/docs/global_system#адресное-устройство">АУ</a>
+> Сегментом АЛС считается участок кабеля [ГК] — [АУ] и [АУ] — [АУ]
 
 </details>
 
