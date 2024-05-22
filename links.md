@@ -1,34 +1,65 @@
-### Адресная система
-<a href="/gk_manual/docs/global_system">адресная система</a>
+### Система
+[система]: /gk_manual/docs/global_system#спз-глобал
+<a href="/gk_manual/docs/global_system#спз-глобал">система</a>
+
+### Компонент системы
+[компонент]: /gk_manual/docs/global_system#состав-системы
+<a href="/gk_manual/docs/global_system#состав-системы">компонент</a>
 
 ### ГК
+[ГК]: /gk_manual/docs/gk#гк
 <a href="/gk_manual/docs/gk#гк">ГК</a>
 
 ### КАУ
+[КАУ]: /gk_manual/docs/kau#кау
 <a href="/gk_manual/docs/kau#кау">КАУ</a>
 
 ### ТПУ
-<a href="/gk_manual/docs/global_system/tpu">ТПУ</a>
+[ТПУ]: /gk_manual/docs//tpu#тпу
+<a href="/gk_manual/docs/tpu#тпу">ТПУ</a>
 
 ### Составной модуль
-<a href="/gk_manual/docs/intelligence/modules#составные-модули">составной модуль</a>
+[составной модуль]: /gk_manual/docs/composite_modules#составные-модули
+<a href="/gk_manual/docs/composite_modules#составные-модули">составной модуль</a>
+
+### Адресный номер
+[адресный номер]: /gk_manual/docs/global_system/address_number#адресный-номер
+<a href="/gk_manual/docs/global_system/address_number#адресный-номер">адресный номер</a>
 
 ### МЦП
-<a href="/gk_manual/docs/intelligence/modules#модуль-центрального-процессора">МЦП</a>
+[МЦП]: /gk_manual/docs/composite_modules#модуль-центрального-процессора
+<a href="/gk_manual/docs/composite_modules#модуль-центрального-процессора">МЦП</a>
 
 ### МКА
-<a href="/gk_manual/docs/intelligence/modules#модуль-кольцевых-адресных-линий-связи">МКА</a>
+[МКА]: /gk_manual/docs/composite_modules#модуль-кольцевых-адресных-линий-связи
+<a href="/gk_manual/docs/composite_modules#модуль-кольцевых-адресных-линий-связи">МКА</a>
 
 ### МДИ
-<a href="/gk_manual/docs/intelligence/modules#модуль-дискретных-входных-сигналов-с-контролем-цепи">МДИ</a>
+[МДИ]: /gk_manual/docs/composite_modules#модуль-дискретных-входных-сигналов-с-контролем-цепи
+<a href="/gk_manual/docs/composite_modules#модуль-дискретных-входных-сигналов-с-контролем-цепи">МДИ</a>
 
 ### МДО
-<a href="/gk_manual/docs/intelligence/modules#модуль-дискретных-выходных-сигналов-с-контролем-цепи">МДО</a>
+[МДО]: /gk_manual/docs/composite_modules#модуль-дискретных-выходных-сигналов-с-контролем-цепи
+<a href="/gk_manual/docs/composite_modules#модуль-дискретных-выходных-сигналов-с-контролем-цепи">МДО</a>
 
 ### АУ
-<a href="/gk_manual/docs/global_system/address_devices#адресные-устройства">АУ</a>
+[АУ]: /gk_manual/docs/address_devices#адресные-устройства
+<a href="/gk_manual/docs/address_devices#адресные-устройства">АУ</a>
+
+### Линии связи
+[АЛС]: /gk_manual/docs/global_system/communications_lines#адресная-линия-связи
+<a href="/gk_manual/docs/global_system/communications_lines#адресная-линия-связи">АЛС</a>
+
+### АЛС
+[АЛС]: /gk_manual/docs/global_system/communications_lines#адресная-линия-связи
+<a href="/gk_manual/docs/global_system/communications_lines#адресная-линия-связи">АЛС</a>
+
+### PFM
+[PFM]: /gk_manual/docs/global_system/communications_lines#цифровая-линия-связи
+<a href="/gk_manual/docs/global_system/communications_lines#цифровая-линия-связи">PFM</a>
 
 ### Создание проекта, конфигурирование
+[создание проекта]: /gk_manual/docs/global_system#конфигурирование
 <a href="/gk_manual/docs/global_system#конфигурирование">конфигурирование</a>
 
 ### Профили доступа пользователей
@@ -121,21 +152,6 @@
 ### Состояние АУ ОТКЛЮЧЕНО
 <a href="/gk_manual/docs/global_system/address_devices#состояние_ау_отключено">отключено</a>
 
-### Извещатели пожарные
-<a href="/gk_manual/docs/global_system/address_devices#извещатели">извещатель пожарный</a>
-
-### Устройства ввода
-<a href="/gk_manual/docs/global_system/input_devices#устройства-ввода">устройства ввода</a>
-
-### Устройства вывода
-<a href="/gk_manual/docs/global_system/output_devices#устройства-вывода">устройства вывода</a>
-
-### Устройства с изолятором короткого замыкания
-<a href="/gk_manual/docs/global_system/s_c_isolated_devices#устройства-с-изолятором-короткого-замыкания">устройства с изолятором короткого замыкания</a>
-
-### Адресный номер
-<a href="/gk_manual/docs/global_system#адресный-номер">адресный номер</a>
-
 ### Адресный номер ГК и КАУ
 <a href="/gk_manual/docs/global_system#адресный-номер-гк-и-кау">адресный номер</a>
 
@@ -150,12 +166,3 @@
 
 ### Многоадресное устройство
 <a href="/gk_manual/docs/global_system#многоадресные-ау">многоадресное устройство</a>
-
-### Линии связи
-<a href="/gk_manual/docs/intelligence/communications_lines">линии связи</a>
-
-### АЛС
-<a href="/gk_manual/docs/intelligence/communications_lines#адресная-линия-связи">АЛС</a>
-
-### PFM
-<a href="/gk_manual/docs/intelligence/communications_lines#цифровая-линия-связи">PFM</a>
