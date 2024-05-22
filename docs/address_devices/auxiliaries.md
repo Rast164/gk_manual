@@ -10,7 +10,7 @@ permalink: /docs/address_devices/auxiliaries
 ### Изолятор короткого замыкания МИ-R2
 
 <p align="center">
-<img src="../../../assets/images/devices/mi.png">
+<img src="../../assets/images/devices/mi.png">
 </p>
 
 |Наименование|Полное обозначение|Краткое обозначение|
@@ -22,7 +22,7 @@ permalink: /docs/address_devices/auxiliaries
 ### Изолятор короткого замыкания базовый МИБ-R2
 
 <p align="center">
-<img src="../../../assets/images/devices/mib.png">
+<img src="../../assets/images/devices/mib.png">
 </p>
 
 |Наименование|Полное обозначение|Краткое обозначение|
@@ -34,7 +34,7 @@ permalink: /docs/address_devices/auxiliaries
 ### Индикатор состояний ИС-R2
 
 <p align="center">
-<img src="../../../assets/images/devices/is.png">
+<img src="../../assets/images/devices/is.png">
 </p>
 
 |Наименование|Полное обозначение|Краткое обозначение|
@@ -46,7 +46,7 @@ permalink: /docs/address_devices/auxiliaries
 ### Модуль ветвления и подпитки МВП-R2
 
 <p align="center">
-<img src="../../../assets/images/devices/mvp.png">
+<img src="../../assets/images/devices/mvp.png">
 </p>
 
 |Наименование|Полное обозначение|Краткое обозначение|
@@ -58,7 +58,7 @@ permalink: /docs/address_devices/auxiliaries
 ### Модуль связи ведущий МСВ-R2
 
 <p align="center">
-<img src="../../../assets/images/devices/msv.png">
+<img src="../../assets/images/devices/msv.png">
 </p>
 
 |Наименование|Полное обозначение|Краткое обозначение|
@@ -70,7 +70,7 @@ permalink: /docs/address_devices/auxiliaries
 ### Модуль связи подчиненный МСП-R2
 
 <p align="center">
-<img src="../../../assets/images/devices/msp.png">
+<img src="../../assets/images/devices/msp.png">
 </p>
 
 |Наименование|Полное обозначение|Краткое обозначение|
