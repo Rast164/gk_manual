@@ -10,7 +10,7 @@ permalink: /docs/address_devices/output_devices
 ### Барьер пусковой цепи адресный АБПЦ-R2
 
 <p align="center">
-<img src="../../../assets/images/devices/abpc.png">
+<img src="../../assets/images/devices/abpc.png">
 </p>
 
 |Наименование|Полное обозначение|Краткое обозначение|
@@ -22,7 +22,7 @@ permalink: /docs/address_devices/output_devices
 ### Модуль выходов с контролем МВК2-R2
 
 <p align="center">
-<img src="../../../assets/images/devices/mvk2.png">
+<img src="../../assets/images/devices/mvk2.png">
 </p>
 
 |Наименование|Полное обозначение|Краткое обозначение|
@@ -34,7 +34,7 @@ permalink: /docs/address_devices/output_devices
 ### Модуль выходов с контролем МВК4-R2
 
 <p align="center">
-<img src="../../../assets/images/devices/mvk4.png">
+<img src="../../assets/images/devices/mvk4.png">
 </p>
 
 |Наименование|Полное обозначение|Краткое обозначение|
@@ -46,7 +46,7 @@ permalink: /docs/address_devices/output_devices
 ### Модуль выходов с контролем МВК8-R2
 
 <p align="center">
-<img src="../../../assets/images/devices/mvk8.png">
+<img src="../../assets/images/devices/mvk8.png">
 </p>
 
 |Наименование|Полное обозначение|Краткое обозначение|
@@ -58,7 +58,7 @@ permalink: /docs/address_devices/output_devices
 ### Модуль релейный РМ1М-R2
 
 <p align="center">
-<img src="../../../assets/images/devices/rm4.png">
+<img src="../../assets/images/devices/rm4.png">
 </p>
 
 |Наименование|Полное обозначение|Краткое обозначение|
@@ -70,7 +70,7 @@ permalink: /docs/address_devices/output_devices
 ### Модуль релейный РМ2-R2
 
 <p align="center">
-<img src="../../../assets/images/devices/rm4.png">
+<img src="../../assets/images/devices/rm4.png">
 </p>
 
 |Наименование|Полное обозначение|Краткое обозначение|
@@ -82,7 +82,7 @@ permalink: /docs/address_devices/output_devices
 ### Модуль релейный РМ4-R2
 
 <p align="center">
-<img src="../../../assets/images/devices/rm4.png">
+<img src="../../assets/images/devices/rm4.png">
 </p>
 
 |Наименование|Полное обозначение|Краткое обозначение|
