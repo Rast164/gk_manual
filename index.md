@@ -22,7 +22,7 @@ permalink: /
 
 ---
 
-[системы]: /gk_manual/docs/global_system
+[системы]: /gk_manual/docs/global_system#спз-глобал
 [ГК]: /gk_manual/docs/gk#гк
 [КАУ]: /gk_manual/docs/kau#кау
 [ТПУ]: /gk_manual/docs/global_system/tpu#тпу
