@@ -28,6 +28,21 @@ permalink: /docs/global_system/communications_lines
   Электрические и функциональные характеристики АЛС
   </summary>
 
+<table> 
+  <thead> 
+    <tr> 
+      <th style="text-align: center">Характеристика</th>
+      <th style="text-align: center">Значение</th>
+    </tr>
+  </thead> 
+  <tbody>
+    <tr>
+      <td style="text-align: left">Максимальное количество подключаемых [АУ] к одной АЛС</td>
+      <td style="text-align: left">250</td>
+    </tr>    
+  </tbody>
+</table>
+
 |**Характеристика**|**Значение**|
 |:---|:---:|
 | Максимальное количество подключаемых [АУ] к одной АЛС | 250 |
