@@ -66,8 +66,8 @@ permalink: /docs/global_system/address_number
 [составной модуль]: /gk_manual/docs/composite_modules#составные-модули
 [составных модулей]: /gk_manual/docs/composite_modules#составные-модули
 [составного модуля]: /gk_manual/docs/composite_modules#составные-модули
-[АЛС]: /gk_manual/docs/global_system/communications_lines#адресная-линия-связи
-[PFM]: /gk_manual/docs/global_system/communications_lines#цифровая-линия-связи
+[АЛС]: /gk_manual/docs/global_system/communications_lines#алс
+[PFM]: /gk_manual/docs/global_system/communications_lines#pfm
 [АУ]: /gk_manual/docs/address_devices#адресные-устройства
 [системе]: /gk_manual/docs/global_system#спз-глобал
 [системы]: /gk_manual/docs/global_system#спз-глобал
