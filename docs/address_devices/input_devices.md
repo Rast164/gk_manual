@@ -10,7 +10,7 @@ permalink: /docs/address_devices/input_devices
 ### Барьер шлейфов сигнализации адресный АБШС-R2
 
 <p align="center">
-<img src="../../../assets/images/devices/abshs.png">
+<img src="../../assets/images/devices/abshs.png">
 </p>
 
 |Наименование|Полное обозначение|Краткое обозначение|
@@ -22,7 +22,7 @@ permalink: /docs/address_devices/input_devices
 ### Метка адресная АМ1-R2
 
 <p align="center">
-<img src="../../../assets/images/devices/am1.png">
+<img src="../../assets/images/devices/am1.png">
 </p>
 
 |Наименование|Полное обозначение|Краткое обозначение|
@@ -34,7 +34,7 @@ permalink: /docs/address_devices/input_devices
 ### Метка адресная АМ4-R2
 
 <p align="center">
-<img src="../../../assets/images/devices/am4.png">
+<img src="../../assets/images/devices/am4.png">
 </p>
 
 |Наименование|Полное обозначение|Краткое обозначение|
@@ -46,7 +46,7 @@ permalink: /docs/address_devices/input_devices
 ### Метка адресная МАЭ-Т-R2 для извещателя пожарного теплового взрывозащищенного ИП 101-07
 
 <p align="center">
-<img src="../../../assets/images/devices/mae_t.png">
+<img src="../../assets/images/devices/mae_t.png">
 </p>
 
 |Наименование|Полное обозначение|Краткое обозначение|
@@ -58,7 +58,7 @@ permalink: /docs/address_devices/input_devices
 ### Метка адресная пожарная АМП4-R2
 
 <p align="center">
-<img src="../../../assets/images/devices/amp4.png">
+<img src="../../assets/images/devices/amp4.png">
 </p>
 
 |Наименование|Полное обозначение|Краткое обозначение|
