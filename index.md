@@ -15,6 +15,14 @@ permalink: /
 
 Печатную версию настоящего Руководства можно скачать [здесь]().
 
+Руководство актуально для версий ПО:
+- [ГК] 1.0
+- [КАУ] 1.0
+- [ТПУ] 1.0
+
 ---
 
 [системы]: /gk_manual/docs/global_system
+[ГК]: /gk_manual/docs/gk#гк
+[КАУ]: /gk_manual/docs/kau#кау
+[ТПУ]: /gk_manual/docs/global_system/tpu#тпу
