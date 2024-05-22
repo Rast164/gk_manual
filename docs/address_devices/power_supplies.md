@@ -10,7 +10,7 @@ permalink: /docs/address_devices/power_supplies
 ### Источник вторичного электропитания резервированный адресный ИВЭПР 12/2 RS-R2
 
 <p align="center">
-<img src="../../../assets/images/devices/ivepr_12_2.png">
+<img src="../../assets/images/devices/ivepr_12_2.png">
 </p>
 
 |Наименование|Полное обозначение|Краткое обозначение|
@@ -22,7 +22,7 @@ permalink: /docs/address_devices/power_supplies
 ### Источник вторичного электропитания резервированный адресный ИВЭПР 12/3,5 RS-R2
 
 <p align="center">
-<img src="../../../assets/images/devices/ivepr_12_3.5.png">
+<img src="../../assets/images/devices/ivepr_12_3.5.png">
 </p>
 
 |Наименование|Полное обозначение|Краткое обозначение|
@@ -34,7 +34,7 @@ permalink: /docs/address_devices/power_supplies
 ### Источник вторичного электропитания резервированный адресный ИВЭПР 12/5 RS-R2
 
 <p align="center">
-<img src="../../../assets/images/devices/ivepr_12_5.png">
+<img src="../../assets/images/devices/ivepr_12_5.png">
 </p>
 
 |Наименование|Полное обозначение|Краткое обозначение|
@@ -46,7 +46,7 @@ permalink: /docs/address_devices/power_supplies
 ### Источник вторичного электропитания резервированный адресный ИВЭПР 24/2,5 RS-R2
 
 <p align="center">
-<img src="../../../assets/images/devices/ivepr_24_2.5.png">
+<img src="../../assets/images/devices/ivepr_24_2.5.png">
 </p>
 
 |Наименование|Полное обозначение|Краткое обозначение|
