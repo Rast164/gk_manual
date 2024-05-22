@@ -6,7 +6,6 @@ has_children: true
 permalink: /docs/global_system
 has_toc: false
 ---
-
 # СПЗ Глобал
 **Адресная система противопожарной защиты СПЗ Глобал** предназначена для обеспечения пожарной безопасности на малых, средних и крупных объектах. 
 
@@ -34,7 +33,6 @@ has_toc: false
 Для полноценной работы системы необходимо создать файл конфигурации (проект), содержащую список всех компонентов. Создание и запись файла конфигурации осуществляется с помощью программного обеспечения <a href="https://products.rubezh.ru/products/po_global_monitor-3356/" target="_blank">GLOBAL MONITOR</a>. Процесс конфигурирования подробно описан в <a href="https://products.rubezh.ru/download/file/18ac995b-e2c1-11ee-95eb-d4f5ef944508/" target="_blank">руководстве по эксплуатации</a> ПО.
 
 ---
-
 [ГК]: /gk_manual/docs/gk#гк
 [КАУ]: /gk_manual/docs/kau#кау
 [ТПУ]: /gk_manual/docs/tpu#тпу
