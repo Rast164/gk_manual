@@ -10,7 +10,7 @@ permalink: /docs/address_devices/explosionproof_devices
 ### Барьер пусковой цепи адресный АБПЦ-R2
 
 <p align="center">
-<img src="../../../assets/images/devices/abpc.png">
+<img src="../../assets/images/devices/abpc.png">
 </p>
 
 |Наименование|Полное обозначение|Краткое обозначение|
@@ -22,7 +22,7 @@ permalink: /docs/address_devices/explosionproof_devices
 ### Барьер шлейфов сигнализации адресный АБШС-R2
 
 <p align="center">
-<img src="../../../assets/images/devices/abshs.png">
+<img src="../../assets/images/devices/abshs.png">
 </p>
 
 |Наименование|Полное обозначение|Краткое обозначение|
@@ -34,7 +34,7 @@ permalink: /docs/address_devices/explosionproof_devices
 ### Извещатель пожарный пламени адресный ИП 329 ИОЛИТ-Exd-R
 
 <p align="center">
-<img src="../../../assets/images/devices/ip_329_iolit_exd_r.png">
+<img src="../../assets/images/devices/ip_329_iolit_exd_r.png">
 </p>
 
 |Наименование|Полное обозначение|Краткое обозначение|
@@ -46,7 +46,7 @@ permalink: /docs/address_devices/explosionproof_devices
 ### Извещатель пожарный ручной взрывозащищенный адресный ИП 535-07еа-R2
 
 <p align="center">
-<img src="../../../assets/images/devices/ip_535_07ea.png">
+<img src="../../assets/images/devices/ip_535_07ea.png">
 </p>
 
 |Наименование|Полное обозначение|Краткое обозначение|
@@ -66,7 +66,7 @@ permalink: /docs/address_devices/explosionproof_devices
 ### Метка адресная МАЭ-Т-R2 для извещателя пожарного теплового взрывозащищенного ИП 101-07
 
 <p align="center">
-<img src="../../../assets/images/devices/mae_t.png">
+<img src="../../assets/images/devices/mae_t.png">
 </p>
 
 |Наименование|Полное обозначение|Краткое обозначение|
@@ -78,7 +78,7 @@ permalink: /docs/address_devices/explosionproof_devices
 ### Оповещатель взрывозащищенный адресный СКОПА-R
 
 <p align="center">
-<img src="../../../assets/images/devices/skopa_r.png">
+<img src="../../assets/images/devices/skopa_r.png">
 </p>
 
 |Наименование|Полное обозначение|Краткое обозначение|
@@ -90,7 +90,7 @@ permalink: /docs/address_devices/explosionproof_devices
 ### Оповещатель светозвуковой взрывозащищенный пожарный адресный ЗОВ-R
 
 <p align="center">
-<img src="../../../assets/images/devices/zov_r.png">
+<img src="../../assets/images/devices/zov_r.png">
 </p>
 
 |Наименование|Полное обозначение|Краткое обозначение|
@@ -102,7 +102,7 @@ permalink: /docs/address_devices/explosionproof_devices
 ### Адресное устройство дистанционного пуска ИП 535-07еа-R2-ПУСК
 
 <p align="center">
-<img src="../../../assets/images/devices/ip_535_07ea_pusk.png">
+<img src="../../assets/images/devices/ip_535_07ea_pusk.png">
 </p>
 
 |Наименование|Полное обозначение|Краткое обозначение|
