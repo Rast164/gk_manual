@@ -10,7 +10,7 @@ permalink: /docs/address_devices/control_devices
 ### Блок модульного пожаротушения БМП-R2
 
 <p align="center">
-<img src="../../../assets/images/devices/bmp.png">
+<img src="../../assets/images/devices/bmp.png">
 </p>
 
 |Наименование|Полное обозначение|Краткое обозначение|
@@ -22,7 +22,7 @@ permalink: /docs/address_devices/control_devices
 ### Модуль автоматики дымоудаления МДУ-R2 исп. 24
 
 <p align="center">
-<img src="../../../assets/images/devices/mdu_isp.24.png">
+<img src="../../assets/images/devices/mdu_isp.24.png">
 </p>
 
 |Наименование|Полное обозначение|Краткое обозначение|
@@ -34,7 +34,7 @@ permalink: /docs/address_devices/control_devices
 ### Модуль автоматики дымоудаления МДУ-R2 исп. 220
 
 <p align="center">
-<img src="../../../assets/images/devices/mdu_isp.220.png">
+<img src="../../assets/images/devices/mdu_isp.220.png">
 </p>
 
 |Наименование|Полное обозначение|Краткое обозначение|
@@ -46,7 +46,7 @@ permalink: /docs/address_devices/control_devices
 ### Устройство дистанционного пуска электроконтактное адресное УДП 513-12
 
 <p align="center">
-<img src="../../../assets/images/devices/udp_513_12.png">
+<img src="../../assets/images/devices/udp_513_12.png">
 </p>
 
 |Наименование|Полное обозначение|Краткое обозначение|
@@ -58,7 +58,7 @@ permalink: /docs/address_devices/control_devices
 ### Адресное устройство дистанционного пуска ИП 535-07еа-R2-ПУСК
 
 <p align="center">
-<img src="../../../assets/images/devices/ip_535_07ea_pusk.png">
+<img src="../../assets/images/devices/ip_535_07ea_pusk.png">
 </p>
 
 |Наименование|Полное обозначение|Краткое обозначение|
@@ -70,7 +70,7 @@ permalink: /docs/address_devices/control_devices
 ### Устройство дистанционного пуска электроконтактное адресное со встроенным изолятором короткого замыкания УДП 513-12 ИКЗ
 
 <p align="center">
-<img src="../../../assets/images/devices/udp_513_12_ikz.png">
+<img src="../../assets/images/devices/udp_513_12_ikz.png">
 </p>
 
 |Наименование|Полное обозначение|Краткое обозначение|
@@ -82,7 +82,7 @@ permalink: /docs/address_devices/control_devices
 ### Шкаф управления насосом или вентилятором ШУН/В-R2
 
 <p align="center">
-<img src="../../../assets/images/devices/shun_v.png">
+<img src="../../assets/images/devices/shun_v.png">
 </p>
 
 |Наименование|Полное обозначение|Краткое обозначение|
@@ -97,7 +97,7 @@ permalink: /docs/address_devices/control_devices
 ### Шкаф управления задвижкой ШУЗ-R2
 
 <p align="center">
-<img src="../../../assets/images/devices/shuz.png">
+<img src="../../assets/images/devices/shuz.png">
 </p>
 
 |Наименование|Полное обозначение|Краткое обозначение|
