@@ -20,8 +20,6 @@ permalink: /
 
 Печатную версию настоящего Руководства можно скачать [здесь]().
 
----
-
 [системы]: /gk_manual/docs/global_system#спз-глобал
 [ГК]: /gk_manual/docs/gk#гк
 [КАУ]: /gk_manual/docs/kau#кау
