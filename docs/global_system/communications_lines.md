@@ -119,8 +119,6 @@ _печатает_ ...
 
 _печатает_ ...
 
----
-
 [ГК]: /gk_manual/docs/gk#гк
 [КАУ]: /gk_manual/docs/kau#кау
 [ТПУ]: /gk_manual/docs/tpu#тпу
