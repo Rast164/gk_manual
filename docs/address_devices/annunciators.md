@@ -10,7 +10,7 @@ permalink: /docs/address_devices/annunciators
 ### Оповещатель взрывозащищенный адресный СКОПА-R
 
 <p align="center">
-<img src="../../../assets/images/devices/skopa_r.png">
+<img src="../../assets/images/devices/skopa_r.png">
 </p>
 
 |Наименование|Полное обозначение|Краткое обозначение|
@@ -22,7 +22,7 @@ permalink: /docs/address_devices/annunciators
 ### Оповещатель охранно-пожарный звуковой адресный ОПОП 2-R2
 
 <p align="center">
-<img src="../../../assets/images/devices/opop_2.png">
+<img src="../../assets/images/devices/opop_2.png">
 </p>
 
 |Наименование|Полное обозначение|Краткое обозначение|
@@ -34,7 +34,7 @@ permalink: /docs/address_devices/annunciators
 ### Оповещатель охранно-пожарный комбинированный свето-звуковой адресный ОПОП 124-R2
 
 <p align="center">
-<img src="../../../assets/images/devices/opop_124.png">
+<img src="../../assets/images/devices/opop_124.png">
 </p>
 
 |Наименование|Полное обозначение|Краткое обозначение|
@@ -46,7 +46,7 @@ permalink: /docs/address_devices/annunciators
 ### Оповещатель охранно-пожарный световой адресный ОПОП 1-R2
 
 <p align="center">
-<img src="../../../assets/images/devices/opop_1.png">
+<img src="../../assets/images/devices/opop_1.png">
 </p>
 
 |Наименование|Полное обозначение|Краткое обозначение|
@@ -58,7 +58,7 @@ permalink: /docs/address_devices/annunciators
 ### Оповещатель светозвуковой взрывозащищенный пожарный адресный ЗОВ-R
 
 <p align="center">
-<img src="../../../assets/images/devices/zov_r.png">
+<img src="../../assets/images/devices/zov_r.png">
 </p>
 
 |Наименование|Полное обозначение|Краткое обозначение|
