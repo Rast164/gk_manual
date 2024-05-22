@@ -7,41 +7,41 @@ permalink: /docs/global_system/address_number
 ---
 
 # Адресный номер
-Каждый [ГК], [КАУ], [ТПУ], [составной модуль], [АЛС] и <a href="/gk_manual/docs/global_system/address_devices#адресные-устройства">АУ</a> имеют свой уникальный идентификатор в СПЗ - адресный номер.
+Каждый [ГК], [КАУ], [ТПУ], [составной модуль], сценарий, пожарная зона, [АЛС], [PFM] и [АУ] имеют свой уникальный идентификатор в СПЗ - адресный номер.
 
 {: .note }
-> Адресный номер присваевается на этапе <a href="/gk_manual/docs/intelligence#конфигурирование-гк">создания проекта</a> и позволяет определить местоположение (направление) каждого компонента СПЗ.
+> Адресный номер присваевается на этапе [создания файла проекта] и позволяет определить местоположение (направление) каждого компонента СПЗ.
 
-### Адресный номер ГК, КАУ и ТПУ
-Адресный номер ГК, <a href="/gk_manual/docs/global_system/kau">КАУ</a> и <a href="/gk_manual/docs/global_system/tpu">ТПУ</a> имеет вид **x1**, где:
-- **x1** - порядковый номер ГК, <a href="/gk_manual/docs/global_system/kau">КАУ</a> или <a href="/gk_manual/docs/global_system/tpu">ТПУ</a>
+## Адресный номер ГК, КАУ и ТПУ
+Адресный номер [ГК], [КАУ] и [ТПУ] имеет вид **x1**, где:
+- **x1** - порядковый номер [ГК], [КАУ] или [ТПУ]
 
-### Адресный номер составных модулей
-Адресный номер <a href="/gk_manual/docs/intelligence/modules#составные-модули">составных модулей</a> имеет вид **x1**.**x2**, где:
-- **x1** - порядковый номер ГК или <a href="/gk_manual/docs/global_system/kau">КАУ</a>
-- **x2** - порядковый номер <a href="/gk_manual/docs/intelligence/modules#составные-модули">составного модуля</a>
+## Адресный номер составных модулей
+Адресный номер [составных модулей] имеет вид **x1**.**x2**, где:
+- **x1** - порядковый номер [ГК] или [КАУ]
+- **x2** - порядковый номер [составного модуля]
 
-### Адресный номер входов МДИ и выходов МДО
-Адресный номер входов <a href="/gk_manual/docs/intelligence/modules#модуль-дискретных-входных-сигналов-с-контролем-цепи">МДИ</a> и выходов <a href="/gk_manual/docs/intelligence/modules#модуль-дискретных-выходных-сигналов-с-контролем-цепи">МДО</a> имеет вид **x1**.**x2**.**x3**, где:
-- **x1** - порядковый номер ГК или <a href="/gk_manual/docs/global_system/kau">КАУ</a>
-- **x2** - порядковый номер <a href="/gk_manual/docs/intelligence/modules#модуль-дискретных-входных-сигналов-с-контролем-цепи">МДИ</a> или <a href="/gk_manual/docs/intelligence/modules#модуль-дискретных-выходных-сигналов-с-контролем-цепи">МДО</a>
-- **x3** - порядковый номер входа <a href="/gk_manual/docs/intelligence/modules#модуль-дискретных-входных-сигналов-с-контролем-цепи">МДИ</a> или выхода <a href="/gk_manual/docs/intelligence/modules#модуль-дискретных-выходных-сигналов-с-контролем-цепи">МДО</a>
+## Адресный номер входов МДИ и выходов МДО
+Адресный номер входов [МДИ] и выходов [МДО] имеет вид **x1**.**x2**.**x3**, где:
+- **x1** - порядковый номер [ГК] или [КАУ]
+- **x2** - порядковый номер [МДИ] или [МДО]
+- **x3** - порядковый номер входа [МДИ] или выход [МДО]
 
-### Адресный номер АЛС
-Адресный номер <a href="/gk_manual/docs/intelligence/communications_lines#адресная-линия-связи">АЛС</a> имеет вид **x1**.**x2**.**x3**, где:
-- **x1** - порядковый номер ГК или <a href="/gk_manual/docs/global_system/kau">КАУ</a>
-- **x2** - порядковый номер <a href="/gk_manual/docs/intelligence/modules#модуль-центрального-процессора">МЦП</a> или <a href="/gk_manual/docs/intelligence/modules#модуль-кольцевых-адресных-линий-связи">МКА</a>
-- **x3** - порядковый номер <a href="/gk_manual/docs/intelligence/communications_lines#адресная-линия-связи">АЛС</a>
+## Адресный номер АЛС
+Адресный номер [АЛС] имеет вид **x1**.**x2**.**x3**, где:
+- **x1** - порядковый номер [ГК] или [КАУ]
+- **x2** - порядковый номер [МЦП] или [МКА]
+- **x3** - порядковый номер [АЛС]
 
-### Адресный номер АУ
-Адресный номер <a href="/gk_manual/docs/global_system/address_devices#адресные-устройства">АУ</a> имеет вид **x1**.**x2**.**x3**.**x4**, где:
-- **x1** - порядковый номер ГК или <a href="/gk_manual/docs/global_system/kau">КАУ</a>
-- **x2** - порядковый номер <a href="/gk_manual/docs/intelligence/modules#модуль-центрального-процессора">МЦП</a> или <a href="/gk_manual/docs/intelligence/modules#модуль-кольцевых-адресных-линий-связи">МКА</a>
-- **x3** - порядковый номер <a href="/gk_manual/docs/intelligence/communications_lines#адресная-линия-связи">АЛС</a>
-- **x4** - порядковый номер <a href="/gk_manual/docs/global_system/address_devices#адресные-устройства">АУ</a>.
+## Адресный номер АУ
+Адресный номер [АУ] имеет вид **x1**.**x2**.**x3**.**x4**, где:
+- **x1** - порядковый номер [ГК] или [КАУ]
+- **x2** - порядковый номер [МЦП] или [МКА]
+- **x3** - порядковый номер [АЛС]
+- **x4** - порядковый номер [АУ]
 
-### Многоадресные АУ
-Некоторые <a href="/gk_manual/docs/global_system/address_devices#адресные-устройства">АУ</a> занимают в системе несколько адресов
+## Многоадресные АУ
+Некоторые [АУ] занимают в системе несколько адресов.
 
 Для <a href="/gk_manual/docs/global_system/address_devices#устройства-ввода-вывода">устройств ввода-вывода</a> (<a href="/gk_manual/docs/global_system/address_devices#барьер-шлейфов-сигнализации-адресный-абшс-r2">АБШС</a>, <a href="/gk_manual/docs/global_system/address_devices#метка-адресная-ам4-r2">АМ4</a>, <a href="/gk_manual/docs/global_system/address_devices#метка-адресная-пожарная-амп4-r2">АМП4</a>, <a href="/gk_manual/docs/global_system/address_devices#модуль-выходов-с-контролем-мвк2-r2">МВК2</a>, <a href="/gk_manual/docs/global_system/address_devices#модуль-выходов-с-контролем-мвк4-r2">МВК4</a>, <a href="/gk_manual/docs/global_system/address_devices#модуль-выходов-с-контролем-мвк8-r2">МВК8</a>, <a href="/gk_manual/docs/global_system/address_devices#модуль-релейный-рм2-r2">РМ2</a>, <a href="/gk_manual/docs/global_system/address_devices#модуль-релейный-рм4-r2">РМ4</a>) последняя цифра **x4** адресного номера соответствует конкретному вводу/выводу устройства.
 
@@ -64,3 +64,13 @@ permalink: /docs/global_system/address_number
 [КАУ]: /gk_manual/docs/kau#кау
 [ТПУ]: /gk_manual/docs/tpu#тпу
 [составной модуль]: /gk_manual/docs/composite_modules#составные-модули
+[составных модулей]: /gk_manual/docs/composite_modules#составные-модули
+[составного модуля]: /gk_manual/docs/composite_modules#составные-модули
+[АЛС]: /gk_manual/docs/global_system/communications_lines#адресная-линия-связи
+[PFM]: /gk_manual/docs/global_system/communications_lines#цифровая-линия-связи
+[АУ]: /gk_manual/docs/address_devices#адресные-устройства
+[создания файла проекта]: /gk_manual/docs/global_system#конфигурирование
+[МДИ]: /gk_manual/docs/composite_modules#модуль-дискретных-входных-сигналов-с-контролем-цепи
+[МДО]: /gk_manual/docs/composite_modules#модуль-дискретных-выходных-сигналов-с-контролем-цепи
+[МЦП]: /gk_manual/docs/composite_modules#модуль-центрального-процессора
+[МКА]: /gk_manual/docs/composite_modules#модуль-кольцевых-адресных-линий-связи
