@@ -7,7 +7,7 @@ permalink: /docs/global_system/address_number
 ---
 
 # Адресный номер
-Каждый [ГК], [КАУ], [ТПУ], [составной модуль], <a href="/gk_manual/docs/intelligence/communications_lines#адресная-линия-связи">АЛС</a> и <a href="/gk_manual/docs/global_system/address_devices#адресные-устройства">АУ</a> имеют свой уникальный идентификатор в СПЗ - адресный номер.
+Каждый [ГК], [КАУ], [ТПУ], [составной модуль], [АЛС] и <a href="/gk_manual/docs/global_system/address_devices#адресные-устройства">АУ</a> имеют свой уникальный идентификатор в СПЗ - адресный номер.
 
 {: .note }
 > Адресный номер присваевается на этапе <a href="/gk_manual/docs/intelligence#конфигурирование-гк">создания проекта</a> и позволяет определить местоположение (направление) каждого компонента СПЗ.
@@ -63,3 +63,4 @@ permalink: /docs/global_system/address_number
 [ГК]: /gk_manual/docs/gk#гк
 [КАУ]: /gk_manual/docs/kau#кау
 [ТПУ]: /gk_manual/docs/tpu#тпу
+[составной модуль]: /gk_manual/docs/composite_modules#составные-модули
