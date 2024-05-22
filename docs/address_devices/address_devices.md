@@ -64,22 +64,22 @@ permalink: /docs/address_devices
   </thead> 
   <tbody>
     <tr>
-      <td id="режим_работы_ау_дежурный" style="text-align: center"><img src="../../assets/icons/operating_mode/om_normal.png" width="160" height="50"></td>
+      <td id="режим_работы_ау_дежурный" style="text-align: center"><img src="../assets/icons/operating_mode/om_normal.png" width="160" height="50"></td>
       <td style="text-align: center">ДЕЖУРНЫЙ</td>
       <td style="text-align: left">Устройство готово к работе (нормальный режим работы, устанавливается по-умолчанию)</td>
     </tr>
     <tr>
-      <td id="режим_работы_ау_отключено" style="text-align: center"><img src="../../assets/icons/operating_mode/om_disabled.png" width="160" height="50"></td>
+      <td id="режим_работы_ау_отключено" style="text-align: center"><img src="../assets/icons/operating_mode/om_disabled.png" width="160" height="50"></td>
       <td style="text-align: center">ОТКЛЮЧЕНО</td>
       <td style="text-align: left">ГК игнорирует информацию о текущем состоянии устройства, но продолжает контролировать физическое наличие устройства в <a href="/gk_manual/docs/intelligence/communications_lines#адресная-линия-связи">АЛС</a></td>
     </tr>
     <tr>
-      <td id="режим_работы_ау_автоматика_отключена" style="text-align: center"><img src="../../assets/icons/operating_mode/om_automation_disabled.png" width="160" height="50"></td>
+      <td id="режим_работы_ау_автоматика_отключена" style="text-align: center"><img src="../assets/icons/operating_mode/om_automation_disabled.png" width="160" height="50"></td>
       <td style="text-align: center">АВТОМАТИКА ОТКЛЮЧЕНА</td>
       <td style="text-align: left">Устройство игнорирует автоматические команды сценариев, доступно лишь ручное (непосредственно пользователем) управление устройством с помощью клавиш и кнопок управления состоянием</td>
     </tr>
     <tr>
-      <td id="режим_работы_ау_блокировка_пуска" style="text-align: center"><img src="../../assets/icons/operating_mode/om_start_lock.png" width="160" height="50"></td>
+      <td id="режим_работы_ау_блокировка_пуска" style="text-align: center"><img src="../assets/icons/operating_mode/om_start_lock.png" width="160" height="50"></td>
       <td style="text-align: center">БЛОКИРОВКА ПУСКА</td>
       <td style="text-align: left">Устройство игнорирует автоматические команды сценариев и ручные команды пользователя (за исключением команд на изменение режима работы)</td>
     </tr>
