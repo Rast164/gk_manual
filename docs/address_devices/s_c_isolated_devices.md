@@ -10,7 +10,7 @@ permalink: /docs/address_devices/s_c_isolated_devices
 ### Изолятор короткого замыкания МИ-R2
 
 <p align="center">
-<img src="../../../assets/images/devices/mi.png">
+<img src="../../assets/images/devices/mi.png">
 </p>
 
 |Наименование|Полное обозначение|Краткое обозначение|
@@ -22,7 +22,7 @@ permalink: /docs/address_devices/s_c_isolated_devices
 ### Извещатель пожарный ручной электроконтактный адресный со встроенным изолятором короткого замыкания ИПР 513-12 ИКЗ
 
 <p align="center">
-<img src="../../../assets/images/devices/ipr_513_12_ikz.png">
+<img src="../../assets/images/devices/ipr_513_12_ikz.png">
 </p>
 
 |Наименование|Полное обозначение|Краткое обозначение|
@@ -34,7 +34,7 @@ permalink: /docs/address_devices/s_c_isolated_devices
 ### Устройство дистанционного пуска электроконтактное адресное со встроенным изолятором короткого замыкания УДП 513-12 ИКЗ
 
 <p align="center">
-<img src="../../../assets/images/devices/udp_513_12_ikz.png">
+<img src="../../assets/images/devices/udp_513_12_ikz.png">
 </p>
 
 |Наименование|Полное обозначение|Краткое обозначение|
