@@ -37,21 +37,35 @@ permalink: /docs/global_system/communications_lines
   </thead> 
   <tbody>
     <tr>
-      <td style="text-align: left">Максимальное количество подключаемых [АУ] к одной АЛС</td>
-      <td style="text-align: left">250</td>
-    </tr>    
+      <td style="text-align: left">Максимальное количество подключаемых <a href="/gk_manual/docs/address_devices#адресные-устройства">АУ</a> к одной АЛС</td>
+      <td style="text-align: center">250</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Выходное напряжение на клеммах АЛС, В</td>
+      <td style="text-align: center">23±3,6</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Максимальная длина сегмента АЛС, м</td>
+      <td style="text-align: center">400</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Максимальная суммарная длина АЛС, м</td>
+      <td style="text-align: center">100000</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Максимальное сопротивление кабеля сегмента АЛС, Ом</td>
+      <td style="text-align: center">50</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Минимальное сопротивление изоляции кабеля АЛС, Ом</td>
+      <td style="text-align: center">50000</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Максимальная удельная емкость кабеля АЛС, пФ/м</td>
+      <td style="text-align: center">80</td>
+    </tr>
   </tbody>
 </table>
-
-|**Характеристика**|**Значение**|
-|:---|:---:|
-| Максимальное количество подключаемых [АУ] к одной АЛС | 250 |
-| Выходное напряжение на клеммах АЛС, В | 23±3,6 |
-| Максимальная длина сегмента АЛС, м | 400 |
-| Максимальная суммарная длина АЛС, м | 100000 |
-| Максимальное сопротивление кабеля сегмента АЛС, Ом | 50 |
-| Минимальное сопротивление изоляции кабеля АЛС, Ом | 50000 |
-| Максимальная удельная емкость кабеля АЛС, пФ/м | 80 |
 
 {: .note }
 > Сегментом АЛС считается участок кабеля ГК — <a href="/gk_manual/docs/global_system#адресное-устройство">АУ</a> и <a href="/gk_manual/docs/global_system#адресное-устройство">АУ</a> — <a href="/gk_manual/docs/global_system#адресное-устройство">АУ</a>
