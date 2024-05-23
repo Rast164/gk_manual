@@ -117,20 +117,13 @@ PFM выполнены в топологии "кольцо", что позвол
     </tr>
     <tr>
       <td style="text-align: left">Максимальная удельная емкость кабеля PFM, пФ/м</td>
-      <td style="text-align: center">50</td>
-    </tr>
-    <tr>
-      <td style="text-align: left">Минимальное сопротивление изоляции кабеля АЛС, Ом</td>
-      <td style="text-align: center">/td>
-    </tr>
+      <td style="text-align: center">80</td>
+    </tr>    
   </tbody>
 </table>
 
-| Минимальное сопротивление изоляции кабеля PFM, кОм | 50 |
-| Максимальная удельная емкость кабеля PFM, пФ/м | 80 |
-
 {: .note }
-> Сегментом PFM считается участок кабеля ГК — [КАУ]({% link docs/intelligence/intelligence.md %}#кау) и [КАУ]({% link docs/intelligence/intelligence.md %}#кау) — [КАУ]({% link docs/intelligence/intelligence.md %}#кау)
+> Сегментом PFM считается участок кабеля между [ГК], [КАУ] или [ТПУ]
 
 </details>
 
