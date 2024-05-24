@@ -1,15 +1,16 @@
+permalink: /docs/intelligence/profiles
+---
 ---
 layout: default
 title: Профили доступа
-parent: Основные сведения
-nav_order: 4
-permalink: /docs/intelligence/profiles
+parent: ГК
+nav_order: 3
+permalink: /docs/gk/gk_access_profiles
 ---
-
 # Профили доступа пользователей
 Доступ к панели индикации и управления и к органам управления <a href="/gk_manual/docs/gk#гк">ГК</a> ограничен. 
 
-Для работы с <a href="/gk_manual/docs/gk#гк">ГК</a> необходимо авторизоваться с помощью карты доступа.
+Для работы [ГК] необходимо авторизоваться с помощью карты доступа.
 
 <table> 
   <thead> 
@@ -67,3 +68,5 @@ permalink: /docs/intelligence/profiles
 </table>
 
 Выход пользователя из системы (блокировка доступа) осуществляется автоматически спустя 5 минут бездействия пользователя или вручную нажатием соответствующей кнопки в меню ДОСТУП
+
+[ГК]: /gk_manual/docs/gk#гк
