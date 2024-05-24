@@ -9,9 +9,6 @@ permalink: /docs/gk/gk_conditions
 # Основные состояния ГК
 В зависимости от поступающих сигналов от устройств и от действий пользователя, ГК может находиться в одном или нескольких состояниях.
 
-Переход в каждое состояние сопровождается включением соответствующих световых индикаторов, релейных выходов, индикатора состояния сенсорного экрана и счетчика событий.
-
-
 <table> 
   <thead> 
     <tr> 
@@ -54,3 +51,13 @@ permalink: /docs/gk/gk_conditions
     </tr>
   </tbody>
 </table>
+
+Переход в каждое состояние сопровождается включением соответствующих световых индикаторов, релейных выходов, индикатора состояния сенсорного экрана и счетчика событий.
+
+[АУ]: /gk_manual/docs/address_devices#адресные-устройства
+[извещателей пожарных]: /gk_manual/docs/address_devices/detectors#извещатели
+[АЛС]: /gk_manual/docs/global_system/communications_lines#алс
+[PFM]: /gk_manual/docs/global_system/communications_lines#pfm
+[ГК]: /gk_manual/docs/gk#гк
+[КАУ]: /gk_manual/docs/kau#кау
+[составного модуля]: /gk_manual/docs/composite_modules#составные-модули
