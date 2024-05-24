@@ -54,6 +54,7 @@ permalink: /docs/gk/gk_conditions
   </tbody>
 </table>
 
+
 [АУ]: /gk_manual/docs/address_devices#адресные-устройства
 [извещателей пожарных]: /gk_manual/docs/address_devices/detectors#извещатели
 [АЛС]: /gk_manual/docs/global_system/communications_lines#алс
