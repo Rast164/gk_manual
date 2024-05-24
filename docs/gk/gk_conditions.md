@@ -21,27 +21,27 @@ permalink: /docs/gk/gk_conditions
   <tbody>
     <tr>
       <td id="состояние_пуск" style="text-align: left">ПУСК</td>
-      <td style="text-align: left">При запуске одного или более сценария или <a href="/gk_manual/docs/global_system#адресное-устройство">АУ</a> системы противопожарной защиты</td>
+      <td style="text-align: left">При запуске одного или более сценария или [АУ] системы противопожарной защиты</td>
     </tr>
     <tr>
       <td id="состояние_пожар" style="text-align: left">ПОЖАР</td>
-      <td style="text-align: left">При получении данных от <a href="/gk_manual/docs/global_system/address_devices#извещатели">извещателей пожарных</a>, которые при обработке идентифицируются, как сигнал о пожаре</td>
+      <td style="text-align: left">При получении данных от [извещателей пожарных], которые при обработке идентифицируются, как сигнал о пожаре</td>
     </tr>
     <tr>
       <td id="состояние_внимание" style="text-align: left">ВНИМАНИЕ</td>
-      <td style="text-align: left">При получении данных от <a href="/gk_manual/docs/global_system/address_devices#извещатели">извещателей пожарных</a>, которые при обработке идентифицируются, как сигнал о предварительной пожарной тревоге</td>
+      <td style="text-align: left">При получении данных от [извещателей пожарных], которые при обработке идентифицируются, как сигнал о предварительной пожарной тревоге</td>
     </tr>
     <tr>
       <td id="состояние_неисправность" style="text-align: left">НЕИСПРАВНОСТЬ</td>
-      <td style="text-align: left">При обрыве или коротком замыкании <a href="/gk_manual/docs/intelligence/communications_lines.html#адресная-линия-связи">АЛС</a>. При нарушении связи с одним или более подключенным по <a href="/gk_manual/docs/intelligence/communications_lines.html#адресная-линия-связи">АЛС</a> или <a href="/gk_manual/docs/intelligence/communications_lines.html#цифровая-линия-связи">PFM</a> устройством. При неисправности одного или более подключенного по <a href="/gk_manual/docs/intelligence/communications_lines.html#адресная-линия-связи">АЛС</a> или <a href="/gk_manual/docs/intelligence/communications_lines.html#цифровая-линия-связи">PFM</a> устройства. При отсутствии сигналов о срабатывании одного или более <a href="/gk_manual/docs/global_system#адресное-устройство">АУ</a> системы противопожарной защиты после передачи сигнала об активации таких <a href="/gk_manual/docs/global_system#адресное-устройство">АУ</a>. При напряжении электропитания ниже или выше нормы или при отсутствии напряжения на основном и/или резервном входе электропитания. При вскрытии крышки корпуса</td>
+      <td style="text-align: left">При обрыве или коротком замыкании [АЛС]. При нарушении связи с одним или более подключенным по [АЛС] или [PFM] устройством. При неисправности одного или более подключенного по [АЛС] или [PFM] устройства. При отсутствии сигналов о срабатывании одного или более [АУ] системы противопожарной защиты после передачи сигнала об активации таких [АУ]. При напряжении электропитания ниже или выше нормы или при отсутствии напряжения на основном и/или резервном входе электропитания. При вскрытии крышки корпуса [ГК] или [КАУ]</td>
     </tr>
     <tr>
       <td id="состояние_отключение" style="text-align: left">ОТКЛЮЧЕНИЕ</td>
-      <td style="text-align: left">При отключении сценария, пожарной зоны, <a href="/gk_manual/docs/intelligence/modules.html#составные-модули">составного модуля</a> или <a href="/gk_manual/docs/global_system#адресное-устройство">АУ</a></td>
+      <td style="text-align: left">При отключении сценария, пожарной зоны, [составного модуля] или [АУ]
     </tr>
     <tr>
       <td id="состояние_автоматика_отключена" style="text-align: left">АВТОМАТИКА ОТКЛЮЧЕНА</td>
-      <td style="text-align: left">При отключении автоматики (переводе в ручной режим работы) сценария или <a href="/gk_manual/docs/global_system#адресное-устройство">АУ</a></td>
+      <td style="text-align: left">При отключении автоматики (переводе в ручной режим работы) сценария или [АУ]</td>
     </tr>
     <tr>
       <td id="состояние_тест" style="text-align: left">ТЕСТ</td>
@@ -53,3 +53,11 @@ permalink: /docs/gk/gk_conditions
     </tr>
   </tbody>
 </table>
+
+[АУ]: /gk_manual/docs/address_devices#адресные-устройства
+[извещателей пожарных]: /gk_manual/docs/address_devices/detectors#извещатели
+[АЛС]: /gk_manual/docs/global_system/communications_lines#алс
+[PFM]: /gk_manual/docs/global_system/communications_lines#pfm
+[ГК]: /gk_manual/docs/gk#гк
+[КАУ]: /gk_manual/docs/kau#кау
+[составного модуля]: /gk_manual/docs/composite_modules#составные-модули
