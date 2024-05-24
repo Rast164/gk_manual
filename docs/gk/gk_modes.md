@@ -2,7 +2,7 @@
 layout: default
 title: Режимы работы
 parent: ГК
-nav_order: 1
+nav_order: 2
 permalink: /docs/gk/gk_modes
 ---
 
