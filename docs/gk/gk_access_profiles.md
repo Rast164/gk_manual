@@ -1,5 +1,3 @@
-permalink: /docs/intelligence/profiles
----
 ---
 layout: default
 title: Профили доступа
