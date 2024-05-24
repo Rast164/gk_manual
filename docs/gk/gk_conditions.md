@@ -35,7 +35,7 @@ permalink: /docs/gk/gk_conditions
     </tr>
     <tr>
       <td id="состояние_отключение" style="text-align: left">ОТКЛЮЧЕНИЕ</td>
-      <td style="text-align: left">При отключении сценария, пожарной зоны, [составного модуля] или [АУ]
+      <td style="text-align: left">При отключении сценария, пожарной зоны, [составного модуля] или [АУ]</td>
     </tr>
     <tr>
       <td id="состояние_автоматика_отключена" style="text-align: left">АВТОМАТИКА ОТКЛЮЧЕНА</td>
