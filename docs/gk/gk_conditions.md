@@ -17,8 +17,8 @@ permalink: /docs/gk/gk_conditions
     </tr>
   </thead> 
   <tbody>
-    <tr>
-      <td id="состояние_пуск" style="text-align: left">ПУСК</td>
+    <tr bgcolor="#CF0000">
+      <td id="состояние_пуск" style="text-align: left"><font color="#FFFFFF">ПУСК</font></td>
       <td style="text-align: left">При запуске одного или более сценария или [АУ] системы противопожарной защиты</td>
     </tr>
     <tr>
