@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Состояния ГК
+title: Состояния
 parent: ГК
-nav_order: 1
+nav_order: 2
 permalink: /docs/gk/gk_conditions
 ---
 
