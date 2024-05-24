@@ -53,13 +53,3 @@ permalink: /docs/gk/gk_conditions
     </tr>
   </tbody>
 </table>
-
----
-
-[АУ]: /gk_manual/docs/address_devices#адресные-устройства
-[извещателей пожарных]: /gk_manual/docs/address_devices/detectors#извещатели
-[АЛС]: /gk_manual/docs/global_system/communications_lines#алс
-[PFM]: /gk_manual/docs/global_system/communications_lines#pfm
-[ГК]: /gk_manual/docs/gk#гк
-[КАУ]: /gk_manual/docs/kau#кау
-[составного модуля]: /gk_manual/docs/composite_modules#составные-модули
