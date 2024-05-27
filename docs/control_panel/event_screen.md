@@ -1,10 +1,11 @@
 ---
 layout: default
 title: Экран событий
-parent: Панель управления
-nav_order: 3
+parent: GLOBAL OS
+nav_order: 2
 has_children: true
-permalink: /docs/control_panel/event_screen
+permalink: /docs/global_os/event_screen
+has_toc: false
 ---
 
 # Экран событий
