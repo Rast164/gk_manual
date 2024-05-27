@@ -2,7 +2,7 @@
 layout: default
 title: Панель управления и индикации
 parent: ГК
-nav_order: 5
+nav_order: 4
 permalink: /docs/gk/gk_control_panel
 ---
 
