@@ -3,7 +3,7 @@ layout: default
 title: ЗОНЫ
 parent: Основное меню
 grand_parent: GLOBAL OS
-permalink: /docs/global_os/zones
+permalink: /docs/global_os/main_menu/zones
 nav_order: 3
 ---
 
