@@ -4,7 +4,7 @@ title: УСТРОЙСТВА
 parent: Основное меню
 grand_parent: GLOBAL OS
 nav_order: 2
-permalink: /docs/global_os/devices
+permalink: /docs/global_os/main_menu/devices
 ---
 
 # Меню <img src="../../assets/icons/menus/m_ustroystva.png" width="26" height="26"> УСТРОЙСТВА
