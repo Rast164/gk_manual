@@ -6,7 +6,7 @@ nav_order: 4
 permalink: /docs/gk/gk_control_panel
 ---
 
-# Панель управления и индикации
+# Панель управления и индикации ГК
 <p align="center">
 <img src="../../assets/images/control_panel.png">
 </p>
