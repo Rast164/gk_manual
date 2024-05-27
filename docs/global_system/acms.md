@@ -22,13 +22,13 @@ permalink: /docs/global_system/acms
   </thead> 
   <tbody>
     <tr>
-      <td style="text-align: left">Просмотр основных состояний <a href="/gk_manual/docs/gk#гк">ГК</a></td>
+      <td style="text-align: left">Просмотр основных состояний системы</td>
       <td style="text-align: center">+</td>
       <td style="text-align: center">+</td>
       <td style="text-align: center">+</td>
     </tr>
     <tr>
-      <td style="text-align: left">Выключение звуковой сигнализации <a href="/gk_manual/docs/gk#гк">ГК</a></td>
+      <td style="text-align: left">Выключение звуковой сигнализации</td>
       <td style="text-align: center">-</td>
       <td style="text-align: center">+</td>
       <td style="text-align: center">+</td>
@@ -52,7 +52,7 @@ permalink: /docs/global_system/acms
       <td style="text-align: center">+</td>
     </tr>
     <tr>
-      <td style="text-align: left">Просмотр меню НАСТРОЙКИ (управление настройками <a href="/gk_manual/docs/gk#гк">ГК</a>) и ДОСТУП (управление пользователями)</td>
+      <td style="text-align: left">Просмотр меню НАСТРОЙКИ и ДОСТУП</td>
       <td style="text-align: center">-</td>
       <td style="text-align: center">-</td>
       <td style="text-align: center">+</td>
