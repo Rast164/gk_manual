@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Конструкция
+title: Панель управления и индикации
 parent: ГК
 nav_order: 5
 permalink: /docs/gk/gk_control_panel
