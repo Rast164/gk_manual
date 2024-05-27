@@ -3,7 +3,7 @@ layout: default
 title: НАСТРОЙКИ
 parent: Основное меню
 grand_parent: GLOBAL OS
-permalink: /docs/global_os/settings
+permalink: /docs/global_os/main_menu/settings
 nav_order: 6
 ---
 
