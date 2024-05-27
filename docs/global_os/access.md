@@ -3,7 +3,7 @@ layout: default
 title: ДОСТУП
 parent: Основное меню
 grand_parent: GLOBAL OS
-permalink: /docs/global_os/access
+permalink: /docs/global_os/main_menu/access
 nav_order: 7
 ---
 
