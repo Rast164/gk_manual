@@ -3,7 +3,7 @@ layout: default
 title: ЖУРНАЛ
 parent: Основное меню
 grand_parent: GLOBAL OS
-permalink: /docs/global_os/journal
+permalink: /docs/global_os/main_menu/journal
 nav_order: 5
 ---
 
