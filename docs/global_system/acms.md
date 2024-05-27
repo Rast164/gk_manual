@@ -22,7 +22,7 @@ permalink: /docs/global_system/acms
   </thead> 
   <tbody>
     <tr>
-      <td style="text-align: left">Просмотр основных состояний системы, <a href="/gk_manual/gk/gk_conditions#состояния-гк">ГК</a> и <a href="/gk_manual/kau/kau_conditions#состояния-кау">КАУ</a></td>
+      <td style="text-align: left">Просмотр основных состояний системы, <a href="/gk_manual/docs/gk/gk_conditions#состояния-гк">ГК</a> и <a href="/gk_manual/docs/kau/kau_conditions#состояния-кау">КАУ</a></td>
       <td style="text-align: center">+</td>
       <td style="text-align: center">+</td>
       <td style="text-align: center">+</td>
