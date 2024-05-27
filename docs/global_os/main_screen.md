@@ -3,6 +3,7 @@ layout: default
 title: ГЛ. ЭКРАН
 parent: Основное меню
 grand_parent: GLOBAL OS
+permalink: /docs/global_os/main_screen
 nav_order: 1
 ---
 
