@@ -2,7 +2,8 @@
 layout: default
 title: СЦЕНАРИИ
 parent: Основное меню
-grand_parent: Панель управления
+grand_parent: GLOBAL OS
+permalink: /docs/global_os/scenarios
 nav_order: 4
 ---
 
