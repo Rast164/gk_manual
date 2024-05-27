@@ -2,8 +2,9 @@
 layout: default
 title: УСТРОЙСТВА
 parent: Основное меню
-grand_parent: Панель управления
+grand_parent: GLOBAL OS
 nav_order: 2
+permalink: /docs/global_os/devices
 ---
 
 # Меню <img src="../../assets/icons/menus/m_ustroystva.png" width="26" height="26"> УСТРОЙСТВА
