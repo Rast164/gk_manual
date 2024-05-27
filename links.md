@@ -66,7 +66,8 @@
 <a href="/gk_manual/docs/intelligence/profiles#профили-доступа-пользователей">профили доступа пользователей</a>
 
 ### Состояния ГК
-<a href="/gk_manual/docs/intelligence/conditions#основные-состояния-гк">состояния ГК</a>
+[состояния ГК]: /gk_manual/gk/gk_conditions#состояния-гк
+<a href="/gk_manual/gk/gk_conditions#состояния-гк">состояния ГК</a>
 
 ### Состояние ГК ПУСК
 <a href="/gk_manual/docs/intelligence/conditions#состояние_пуск">состояние ПУСК</a>
