@@ -7,7 +7,7 @@ permalink: /docs/gk/gk_modes
 ---
 
 # Режимы работы ГК
-Для удобства использования ГК предусмотрены различные режимы его работы.
+Для удобства использования ГК предусмотрены различные режимы его работы. Изменение режима работы ГК производится в меню <a href="/gk_manual/docs/global_os/main_menu/settings"><img src="../../assets/icons/menus/m_nastroyki.png" width="14" height="14"> НАСТРОЙКИ</a>
 <table> 
   <thead> 
     <tr> 
