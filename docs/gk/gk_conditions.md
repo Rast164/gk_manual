@@ -31,7 +31,7 @@ permalink: /docs/gk/gk_conditions
     </tr>
     <tr>
       <td id="состояние_гк_неисправность" style="text-align: left">НЕИСПРАВНОСТЬ</td>
-      <td style="text-align: left">При обрыве или коротком замыкании <a href="/gk_manual/docs/global_system/communications_lines#адресная-линия-связи">АЛС</a>. При нарушении связи с одним или более подключенным по <a href="/gk_manual/docs/global_system/communications_lines#адресная-линия-связи">АЛС</a> или <a href="/gk_manual/docs/global_system/communications_lines#цифровая-линия-связи">PFM</a> устройством. При неисправности одного или более подключенного по <a href="/gk_manual/docs/global_system/communications_lines#адресная-линия-связи">АЛС</a> или <a href="/gk_manual/docs/global_system/communications_lines#цифровая-линия-связи">PFM</a> устройства. При отсутствии сигналов о срабатывании одного или более <a href="/gk_manual/docs/address_devices#адресные-устройства">АУ</a> системы противопожарной защиты после передачи сигнала об активации таких <a href="/gk_manual/docs/address_devices#адресные-устройства">АУ</a>. При напряжении электропитания ниже или выше нормы или при отсутствии напряжения на основном и/или резервном входе электропитания. При вскрытии крышки корпуса <a href="/gk_manual/docs/gk#гк">ГК</a> или <a href="/gk_manual/docs/kau#кау">КАУ</a></td>
+      <td style="text-align: left">При обрыве или коротком замыкании <a href="/gk_manual/docs/global_system/communications_lines#адресная-линия-связи">АЛС</a>. При нарушении связи с одним или более подключенным по <a href="/gk_manual/docs/global_system/communications_lines#адресная-линия-связи">АЛС</a> или <a href="/gk_manual/docs/global_system/communications_lines#цифровая-линия-связи">PFM</a> устройством. При неисправности одного или более подключенного по <a href="/gk_manual/docs/global_system/communications_lines#адресная-линия-связи">АЛС</a> или <a href="/gk_manual/docs/global_system/communications_lines#цифровая-линия-связи">PFM</a> устройства. При отсутствии сигналов о срабатывании одного или более <a href="/gk_manual/docs/address_devices#адресные-устройства">АУ</a> системы противопожарной защиты после передачи сигнала об активации таких <a href="/gk_manual/docs/address_devices#адресные-устройства">АУ</a>. При напряжении электропитания ниже или выше нормы или при отсутствии напряжения на основном и/или резервном входе электропитания. При вскрытии крышки корпуса</a></td>
     </tr>
     <tr>
       <td id="состояние_гк_отключение" style="text-align: left">ОТКЛЮЧЕНИЕ</td>
@@ -42,12 +42,12 @@ permalink: /docs/gk/gk_conditions
       <td style="text-align: left">При отключении автоматики (переводе в ручной режим работы) сценария или <a href="/gk_manual/docs/address_devices#адресные-устройства">АУ</a></td>
     </tr>
     <tr>
-      <td id="состояние_тест" style="text-align: left">ТЕСТ</td>
+      <td id="состояние_гк_тест" style="text-align: left">ТЕСТ</td>
       <td style="text-align: left">При запуске функции тестирования</td>
     </tr>
     <tr>
       <td id="состояние_гк_дежурный" style="text-align: left">ДЕЖУРНЫЙ</td>
-      <td style="text-align: left">Нормальное рабочее состояние (при отсутствии условия для перехода в другие состояние)</td>
+      <td style="text-align: left">Нормальное рабочее состояние (отсутствие условий для перехода в другие состояние)</td>
     </tr>
   </tbody>
 </table>
