@@ -171,3 +171,27 @@
 ### Панель управления и индикации ГК
 [панель ГК]: /gk_manual/docs/gk/gk_control_panel#панель-управления-и-индикации
 <a href="/gk_manual/docs/gk/gk_control_panel#панель-управления-и-индикации">панель ГК</a>
+
+### Основное меню
+
+
+### Меню ГЛ. ЭКРАН
+<a href="/gk_manual/docs/global_os/main_menu/main_screen"><img src="../../assets/icons/menus/m_gl_ekran.png" width="14" height="14"> ГЛ. ЭКРАН</a>
+
+### Меню УСТРОЙСТВА
+<a href="/gk_manual/docs/global_os/main_menu/devices"><img src="../../assets/icons/menus/m_ustroystva.png" width="14" height="14"> УСТРОЙСТВА</a>
+
+### Меню ЗОНЫ
+<a href="/gk_manual/docs/global_os/main_menu/zones"><img src="../../assets/icons/menus/m_zonyy.png" width="14" height="14"> ЗОНЫ</a>
+
+### Меню СЦЕНАРИИ
+<a href="/gk_manual/docs/global_os/main_menu/scenarios"><img src="../../assets/icons/menus/m_scenarii.png" width="14" height="14"> СЦЕНАРИИ</a>
+
+### Меню ЖУРНАЛ
+<a href="/gk_manual/docs/global_os/main_menu/journal"><img src="../../assets/icons/menus/m_zhurnal.png" width="14" height="14"> ЖУРНАЛ</a>
+
+### Меню НАСТРОЙКИ
+<a href="/gk_manual/docs/global_os/main_menu/settings"><img src="../../assets/icons/menus/m_nastroyki.png" width="14" height="14"> НАСТРОЙКИ</a>
+
+### Меню ДОСТУП
+<a href="/gk_manual/docs/global_os/main_menu/access"><img src="../../assets/icons/menus/m_dostup.png" width="14" height="14"> ДОСТУП</a>
