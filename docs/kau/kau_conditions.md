@@ -47,7 +47,7 @@ permalink: /docs/kau/kau_conditions
     </tr>
     <tr>
       <td id="состояние_кау_дежурный" style="text-align: left">ДЕЖУРНЫЙ</td>
-      <td style="text-align: left">Нормальное рабочее состояние (при отсутствии условия для перехода в другие состояние)</td>
+      <td style="text-align: left">Нормальное рабочее состояние (отсутствие условий для перехода в другие состояние)</td>
     </tr>
   </tbody>
 </table>
