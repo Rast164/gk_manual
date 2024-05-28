@@ -34,9 +34,15 @@ permalink: /docs/global_system/acms
       <td style="text-align: center">+</td>
     </tr>
     <tr>
-      <td style="text-align: left">Просмотр основного меню (кроме меню НАСТРОЙКИ и ДОСТУП)</td>
+      <td style="text-align: left">Просмотр меню <a href="/gk_manual/docs/global_os/main_menu/main_screen#меню">ГД. ЭКРАН</a>, <a href="/gk_manual/docs/global_os/main_menu/devices">УСТРОЙСТВА</a>, <a href="/gk_manual/docs/global_os/main_menu/zones">ЗОНЫ</a>, <a href="/gk_manual/docs/global_os/main_menu/scenarios">СЦЕНАРИИ</a> и <a href="/gk_manual/docs/global_os/main_menu/journal">ЖУРНАЛ</a></td>
       <td style="text-align: center">-</td>
       <td style="text-align: center">+</td>
+      <td style="text-align: center">+</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Просмотр меню НАСТРОЙКИ и ДОСТУП</td>
+      <td style="text-align: center">-</td>
+      <td style="text-align: center">-</td>
       <td style="text-align: center">+</td>
     </tr>
     <tr>
@@ -50,13 +56,7 @@ permalink: /docs/global_system/acms
       <td style="text-align: center">-</td>
       <td style="text-align: center">+</td>
       <td style="text-align: center">+</td>
-    </tr>
-    <tr>
-      <td style="text-align: left">Просмотр меню НАСТРОЙКИ и ДОСТУП</td>
-      <td style="text-align: center">-</td>
-      <td style="text-align: center">-</td>
-      <td style="text-align: center">+</td>
-    </tr>
+    </tr>    
     <tr>
       <td style="text-align: left">Просмотр меню настроек устройств, сценариев и пожарных зон</td>
       <td style="text-align: center">-</td>
