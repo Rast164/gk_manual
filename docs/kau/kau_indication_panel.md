@@ -35,7 +35,7 @@ permalink: /docs/kau/kau_indication_panel
     <tr>
       <td id="световой_индикатор_кау_внимание" style="text-align: center"><img src="../../assets/icons/light_indicators/li_vnimanie.png" width="50" height="50"></td>
       <td style="text-align: left">ВНИМАНИЕ</td>
-      <td style="text-align: left">Непрерывно светится красным при переходе ГК в <a href="/gk_manual/docs/kau/kau_conditions#состояние_кау_внимание">состояние ВНИМАНИЕ</a></td>
+      <td style="text-align: left">Непрерывно светится красным при переходе в <a href="/gk_manual/docs/kau/kau_conditions#состояние_кау_внимание">состояние ВНИМАНИЕ</a></td>
     </tr>
     <tr>
       <td id="световой_индикатор_кау_останов_пуска" style="text-align: center"><img src="../../assets/icons/light_indicators/li_ostanov_puska.png" width="50" height="50"></td>
@@ -50,17 +50,17 @@ permalink: /docs/kau/kau_indication_panel
     <tr>
       <td id="световой_индикатор_кау_отключение" style="text-align: center"><img src="../../assets/icons/light_indicators/li_otkluchenie.png" width="50" height="50"></td>
       <td style="text-align: left">ОТКЛЮЧЕНИЕ</td>
-      <td style="text-align: left">Непрерывно светится желтым при переходе ГК в <a href="/gk_manual/docs/kau/kau_conditions#состояние_кау_отключение">состояние ОТКЛЮЧЕНИЕ</a></td>
+      <td style="text-align: left">Непрерывно светится желтым при переходе в <a href="/gk_manual/docs/kau/kau_conditions#состояние_кау_отключение">состояние ОТКЛЮЧЕНИЕ</a></td>
     </tr>
     <tr>
       <td id="световой_индикатор_кау_авт_отключена" style="text-align: center"><img src="../../assets/icons/light_indicators/li_avt_otkluchena.png" width="50" height="50"></td>
       <td style="text-align: left">АВТ ОТКЛЮЧЕНА</td>
-      <td style="text-align: left">Непрерывно светится желтым при переходе ГК в <a href="/gk_manual/docs/kau/kau_conditions#состояние_кау_автоматика_отключена">состояние АВТОМАТИКА ОТКЛЮЧЕНА</a></td>
+      <td style="text-align: left">Непрерывно светится желтым при переходе в <a href="/gk_manual/docs/kau/kau_conditions#состояние_кау_автоматика_отключена">состояние АВТОМАТИКА ОТКЛЮЧЕНА</a></td>
     </tr>
     <tr>
       <td id="световой_индикатор_кау_сист_ошибка" style="text-align: center"><img src="../../assets/icons/light_indicators/li_sist_oshibka.png" width="50" height="50"></td>
       <td style="text-align: left">СИСТ ОШИБКА</td>
-      <td style="text-align: left">Непрерывно светится желтым при неисправности <a href="/gk_manual/docs/composite_modules#составные-модули">составных модулей</a> и/или при ошибке <a href="/gk_manual/docs/global_os#global-os">встроенной ОС</a></td>
+      <td style="text-align: left">Непрерывно светится желтым при неисправности <a href="/gk_manual/docs/composite_modules#составные-модули">составных модулей</a></td>
     </tr>    
     <tr>
       <td id="световой_индикатор_кау_пит_осн" style="text-align: center"><img src="../../assets/icons/light_indicators/li_pit_osn.png" width="50" height="50"></td>
@@ -77,4 +77,4 @@ permalink: /docs/kau/kau_indication_panel
 
 [состояния КАУ]: /gk_manual/docs/kau/kau_conditions#состояния-кау
 [ГК]: /gk_manual/docs/gk#гк
-<a href="/gk_manual/docs/tpu#тпу">ТПУ</a>
+[ТПУ]: /gk_manual/docs//tpu#тпу
