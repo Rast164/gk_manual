@@ -34,7 +34,7 @@ permalink: /docs/global_system/acms
       <td style="text-align: center">+</td>
     </tr>
     <tr>
-      <td style="text-align: left">Просмотр меню <a href="/gk_manual/docs/global_os/main_menu/main_screen"><img src="../../assets/icons/menus/m_gl_ekran_label.png" width="14" height="14" border="0"></a><a href="/gk_manual/docs/global_os/main_menu/main_screen">ГЛ. ЭКРАН</a>, <a href="/gk_manual/docs/global_os/main_menu/devices">УСТРОЙСТВА</a>, <a href="/gk_manual/docs/global_os/main_menu/zones">ЗОНЫ</a>, <a href="/gk_manual/docs/global_os/main_menu/scenarios">СЦЕНАРИИ</a> и <a href="/gk_manual/docs/global_os/main_menu/journal">ЖУРНАЛ</a></td>
+      <td style="text-align: left">Просмотр меню <a href="/gk_manual/docs/global_os/main_menu/main_screen"><img src="../../assets/icons/menus/m_gl_ekran_label.png" width="12" height="12" border="0"> ГЛ. ЭКРАН</a>, <a href="/gk_manual/docs/global_os/main_menu/devices">УСТРОЙСТВА</a>, <a href="/gk_manual/docs/global_os/main_menu/zones">ЗОНЫ</a>, <a href="/gk_manual/docs/global_os/main_menu/scenarios">СЦЕНАРИИ</a> и <a href="/gk_manual/docs/global_os/main_menu/journal">ЖУРНАЛ</a></td>
       <td style="text-align: center">-</td>
       <td style="text-align: center">+</td>
       <td style="text-align: center">+</td>
