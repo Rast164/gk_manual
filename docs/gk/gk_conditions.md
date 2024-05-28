@@ -35,7 +35,7 @@ permalink: /docs/gk/gk_conditions
     </tr>
     <tr>
       <td id="состояние_гк_отключение" style="text-align: left">ОТКЛЮЧЕНИЕ</td>
-      <td style="text-align: left">При отключении сценария, пожарной зоны, <a href="/gk_manual/docs/composite_modules#составные-модули">составного модуля</a> или <a href="/gk_manual/docs/address_devices#адресные-устройства">АУ</a></td>
+      <td style="text-align: left">При отключении <a href="/gk_manual/docs/zones#пожарные-зоны">пожарной зоны</a>, <a href="/gk_manual/docs/scenarios#сценарии">сценария</a>, <a href="/gk_manual/docs/composite_modules#составные-модули">составного модуля</a> или <a href="/gk_manual/docs/address_devices#адресные-устройства">АУ</a></td>
     </tr>
     <tr>
       <td id="состояние_гк_автоматика_отключена" style="text-align: left">АВТОМАТИКА ОТКЛЮЧЕНА</td>
