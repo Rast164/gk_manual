@@ -2,7 +2,7 @@
 layout: default
 title: КАУ
 nav_order: 4
-has_children: false
+has_children: true
 permalink: /docs/kau
 has_toc: false
 ---
