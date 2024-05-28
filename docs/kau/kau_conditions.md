@@ -55,5 +55,5 @@ permalink: /docs/kau/kau_conditions
 Переход в каждое состояние сопровождается включением соответствующих [световых индикаторов] и [релейных выходов].
 
 [КАУ]: /gk_manual/docs/kau#кау
-[световых индикаторов]: /gk_manual/docs/gk/gk_control_panel#световые-индикаторы
-[релейных выходов]: /gk_manual/docs/gk/gk_relay_outputs#релейные-выходы
+[световых индикаторов]: /gk_manual/docs/kau/kau_control_panel#световые-индикаторы
+[релейных выходов]: /gk_manual/docs/kau/kau_relay_outputs#релейные-выходы
