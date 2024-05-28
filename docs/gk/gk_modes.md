@@ -27,7 +27,7 @@ permalink: /docs/gk/gk_modes
     </tr>
     <tr>
       <td id="режим_гк_работа" style="text-align: left">РАБОТА</td>
-      <td style="text-align: left">Основной режим работы <a href="/gk_manual/docs/gk#гк">ГК</a> В этом режиме <a href="/gk_manual/docs/gk#гк">ГК</a> выполняет все функции</td>
+      <td style="text-align: left">Основной режим работы <a href="/gk_manual/docs/gk#гк">ГК</a>. В этом режиме <a href="/gk_manual/docs/gk#гк">ГК</a> выполняет все функции</td>
     </tr>    
   </tbody>
 </table>
