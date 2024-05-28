@@ -39,7 +39,7 @@ permalink: /docs/kau/kau_conditions
     </tr>
     <tr>
       <td id="состояние_кау_автоматика_отключена" style="text-align: left">АВТОМАТИКА ОТКЛЮЧЕНА</td>
-      <td style="text-align: left">При отключении автоматики (переводе в ручной режим работы) сценария или <a href="/gk_manual/docs/address_devices#адресные-устройства">АУ</a></td>
+      <td style="text-align: left">При отключении автоматики (переводе в ручной режим работы) <a href="/gk_manual/docs/scenarios#сценарии">сценария</a> или <a href="/gk_manual/docs/address_devices#адресные-устройства">АУ</a></td>
     </tr>
     <tr>
       <td id="состояние_кау_тест" style="text-align: left">ТЕСТ</td>
