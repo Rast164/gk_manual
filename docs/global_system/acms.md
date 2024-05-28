@@ -46,7 +46,7 @@ permalink: /docs/global_system/acms
       <td style="text-align: center">+</td>
     </tr>
     <tr>
-      <td style="text-align: left">Доступ к органам управления (клавишам) <a href="/gk_manual/docs/gk#гк">ГК</a> и <a href="/gk_manual/docs/tpu#тпу">ТПУ</a>, в том числе сброс пожарной тревоги</td>
+      <td style="text-align: left">Доступ к <a href="/gk_manual/docs/gk/gk_control_panel#клавиши-управления">клавишам управления ГК</a> и клавишам управления ТПУ, в том числе сброс пожарной тревоги</td>
       <td style="text-align: center">-</td>
       <td style="text-align: center">+</td>
       <td style="text-align: center">+</td>
@@ -58,7 +58,7 @@ permalink: /docs/global_system/acms
       <td style="text-align: center">+</td>
     </tr>    
     <tr>
-      <td style="text-align: left">Просмотр меню настроек устройств, сценариев и пожарных зон</td>
+      <td style="text-align: left">Изменение настроек устройств, сценариев и пожарных зон</td>
       <td style="text-align: center">-</td>
       <td style="text-align: center">-</td>
       <td style="text-align: center">+</td>
@@ -66,7 +66,7 @@ permalink: /docs/global_system/acms
    </tbody>
 </table>
 
-Добавление новых пользователей и запись соответствующих карт доступа в [систему] осуществляется в меню ДОСТУП. Карты доступа, входящие в комплект поставки [ГК] и [ТПУ], записываюся заводом-изготовителем.
+Добавление новых пользователей и запись соответствующих карт доступа в [систему] осуществляется в меню <a href="/gk_manual/docs/global_os/main_menu/access"><img src="../../assets/icons/menus/m_dostup.png" width="14" height="14"> ДОСТУП</a>. Карты доступа, входящие в комплект поставки [ГК] и [ТПУ], записываюся заводом-изготовителем.
 
 [системы]: /gk_manual/docs/global_system#спз-глобал
 [систему]: /gk_manual/docs/global_system#спз-глобал
