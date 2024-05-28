@@ -70,28 +70,36 @@
 <a href="/gk_manual/gk/gk_conditions#состояния-гк">состояния ГК</a>
 
 ### Состояние ГК ПУСК
-<a href="/gk_manual/docs/intelligence/conditions#состояние_пуск">состояние ПУСК</a>
+[состояние ПУСК]: /gk_manual/gk/gk_conditions#состояние_гк_пуск
+<a href="/gk_manual/gk/gk_conditions#состояние_гк_пуск">состояние ПУСК</a>
 
 ### Состояние ГК ПОЖАР
-<a href="/gk_manual/docs/intelligence/conditions#состояние_пожар">состояние ПОЖАР</a>
+[состояние ПОЖАР]: /gk_manual/gk/gk_conditions#состояние_гк_пуск
+<a href="/gk_manual/gk/gk_conditions#состояние_гк_пожар">состояние ПОЖАР</a>
 
 ### Состояние ГК ВНИМАНИЕ
-<a href="/gk_manual/docs/intelligence/conditions#состояние_внимание">состояние ВНИМАНИЕ</a>
+[состояние ВНИМАНИЕ]: /gk_manual/gk/gk_conditions#состояние_гк_пуск
+<a href="/gk_manual/gk/gk_conditions#состояние_гк_внимание">состояние ВНИМАНИЕ</a>
 
 ### Состояние ГК НЕИСПРАВНОСТЬ
-<a href="/gk_manual/docs/intelligence/conditions#состояние_неисправность">состояние НЕИСПРАВНОСТЬ</a>
+[состояние НЕИСПРАВНОСТЬ]: /gk_manual/gk/gk_conditions#состояние_гк_пуск
+<a href="/gk_manual/gk/gk_conditions#состояние_гк_неисправность">состояние НЕИСПРАВНОСТЬ</a>
 
 ### Состояние ГК ОТКЛЮЧЕНИЕ
-<a href="/gk_manual/docs/intelligence/conditions#состояние_отключение">состояние ОТКЛЮЧЕНИЕ</a>
+[состояние ОТКЛЮЧЕНИЕ]: /gk_manual/gk/gk_conditions#состояние_гк_пуск
+<a href="/gk_manual/gk/gk_conditions#состояние_гк_отключение">состояние ОТКЛЮЧЕНИЕ</a>
 
 ### Состояние ГК АВТОМАТИКА ОТКЛЮЧЕНА
-<a href="/gk_manual/docs/intelligence/conditions#состояние_автоматика_отключена">состояние АВТОМАТИКА ОТКЛЮЧЕНА</a>
+[состояние АВТОМАТИКА ОТКЛЮЧЕНА]: /gk_manual/gk/gk_conditions#состояние_гк_пуск
+<a href="/gk_manual/gk/gk_conditions#состояние_гк_автоматика_отключена">состояние АВТОМАТИКА ОТКЛЮЧЕНА</a>
 
 ### Состояние ГК ТЕСТ
-<a href="/gk_manual/docs/intelligence/conditions#состояние_тест">состояние ТЕСТ</a>
+[состояние ТЕСТ]: /gk_manual/gk/gk_conditions#состояние_гк_пуск
+<a href="/gk_manual/gk/gk_conditions#состояние_гк_тест">состояние ТЕСТ</a>
 
 ### Состояние ГК ДЕЖУРНЫЙ
-<a href="/gk_manual/docs/intelligence/conditions#состояние_дежурный">состояние ДЕЖУРНЫЙ</a>
+[состояние ДЕЖУРНЫЙ]: /gk_manual/gk/gk_conditions#состояние_гк_пуск
+<a href="/gk_manual/gk/gk_conditions#состояние_гк_дежурный">состояние ДЕЖУРНЫЙ</a>
 
 ### Название устройства
 <a href="/gk_manual/docs/global_system/address_devices#название_устройства">Название</a>
