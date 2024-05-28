@@ -34,13 +34,13 @@ permalink: /docs/global_system/acms
       <td style="text-align: center">+</td>
     </tr>
     <tr>
-      <td style="text-align: left">Просмотр меню <a href="/gk_manual/docs/global_os/main_menu/main_screen#меню">ГД. ЭКРАН</a>, <a href="/gk_manual/docs/global_os/main_menu/devices">УСТРОЙСТВА</a>, <a href="/gk_manual/docs/global_os/main_menu/zones">ЗОНЫ</a>, <a href="/gk_manual/docs/global_os/main_menu/scenarios">СЦЕНАРИИ</a> и <a href="/gk_manual/docs/global_os/main_menu/journal">ЖУРНАЛ</a></td>
+      <td style="text-align: left">Просмотр меню <a href="/gk_manual/docs/global_os/main_menu/main_screen">ГЛ. ЭКРАН</a>, <a href="/gk_manual/docs/global_os/main_menu/devices">УСТРОЙСТВА</a>, <a href="/gk_manual/docs/global_os/main_menu/zones">ЗОНЫ</a>, <a href="/gk_manual/docs/global_os/main_menu/scenarios">СЦЕНАРИИ</a> и <a href="/gk_manual/docs/global_os/main_menu/journal">ЖУРНАЛ</a></td>
       <td style="text-align: center">-</td>
       <td style="text-align: center">+</td>
       <td style="text-align: center">+</td>
     </tr>
     <tr>
-      <td style="text-align: left">Просмотр меню НАСТРОЙКИ и ДОСТУП</td>
+      <td style="text-align: left">Просмотр меню <a href="/gk_manual/docs/global_os/main_menu/settings">НАСТРОЙКИ</a> и <a href="/gk_manual/docs/global_os/main_menu/access">ДОСТУП</a></td>
       <td style="text-align: center">-</td>
       <td style="text-align: center">-</td>
       <td style="text-align: center">+</td>
