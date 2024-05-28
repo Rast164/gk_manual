@@ -28,17 +28,17 @@ permalink: /docs/gk/gk_control_panel
     <tr>
       <td id="световой_индикатор_гк_пуск" style="text-align: center"><img src="../../assets/icons/light_indicators/li_pusk.png" width="50" height="50"></td>
       <td style="text-align: left">ПУСК</td>
-      <td style="text-align: left">Непрерывно светится красным при переходе ГК в <a href="/gk_manual/gk/gk_conditions#состояние_гк_пуск">состояние ПУСК</a></td>
+      <td style="text-align: left">Непрерывно светится красным при переходе ГК в <a href="/gk_manual/docs/gk/gk_conditions#состояние_гк_пуск">состояние ПУСК</a></td>
     </tr>
     <tr>
       <td id="световой_индикатор_гк_пожар" style="text-align: center"><img src="../../assets/icons/light_indicators/li_pozhar.png" width="50" height="50"></td>
       <td style="text-align: left">ПОЖАР</td>
-      <td style="text-align: left">Непрерывно светится красным при переходе ГК в <a href="/gk_manual/gk/gk_conditions#состояние_гк_пожар">состояние ПОЖАР</a></td>
+      <td style="text-align: left">Непрерывно светится красным при переходе ГК в <a href="/gk_manual/docs/gk/gk_conditions#состояние_гк_пожар">состояние ПОЖАР</a></td>
     </tr>
     <tr>
       <td id="световой_индикатор_гк_внимание" style="text-align: center"><img src="../../assets/icons/light_indicators/li_vnimanie.png" width="50" height="50"></td>
       <td style="text-align: left">ВНИМАНИЕ</td>
-      <td style="text-align: left">Непрерывно светится красным при переходе ГК в <a href="/gk_manual/gk/gk_conditions#состояние_гк_внимание">состояние ВНИМАНИЕ</a></td>
+      <td style="text-align: left">Непрерывно светится красным при переходе ГК в <a href="/gk_manual/docs/gk/gk_conditions#состояние_гк_внимание">состояние ВНИМАНИЕ</a></td>
     </tr>
     <tr>
       <td id="световой_индикатор_гк_останов_пуска" style="text-align: center"><img src="../../assets/icons/light_indicators/li_ostanov_puska.png" width="50" height="50"></td>
@@ -48,17 +48,17 @@ permalink: /docs/gk/gk_control_panel
     <tr>
       <td id="световой_индикатор_гк_неисправ" style="text-align: center"><img src="../../assets/icons/light_indicators/li_neispravnost.png" width="50" height="50"></td>
       <td style="text-align: left">НЕИСПРАВ</td>
-      <td style="text-align: left">Непрерывно светится желтым при переходе ГК в <a href="/gk_manual/gk/gk_conditions#состояние_гк_неисправность">состояние НЕИСПРАВНОСТЬ</a></td>
+      <td style="text-align: left">Непрерывно светится желтым при переходе ГК в <a href="/gk_manual/docs/gk/gk_conditions#состояние_гк_неисправность">состояние НЕИСПРАВНОСТЬ</a></td>
     </tr>
     <tr>
       <td id="световой_индикатор_гк_отключение" style="text-align: center"><img src="../../assets/icons/light_indicators/li_otkluchenie.png" width="50" height="50"></td>
       <td style="text-align: left">ОТКЛЮЧЕНИЕ</td>
-      <td style="text-align: left">Непрерывно светится желтым при переходе ГК в <a href="/gk_manual/gk/gk_conditions#состояние_гк_отключение">состояние ОТКЛЮЧЕНИЕ</a></td>
+      <td style="text-align: left">Непрерывно светится желтым при переходе ГК в <a href="/gk_manual/docs/gk/gk_conditions#состояние_гк_отключение">состояние ОТКЛЮЧЕНИЕ</a></td>
     </tr>
     <tr>
       <td id="световой_индикатор_гк_авт_отключена" style="text-align: center"><img src="../../assets/icons/light_indicators/li_avt_otkluchena.png" width="50" height="50"></td>
       <td style="text-align: left">АВТ ОТКЛЮЧЕНА</td>
-      <td style="text-align: left">Непрерывно светится желтым при переходе ГК в <a href="/gk_manual/gk/gk_conditions#состояние_гк_автоматика_отключена">состояние АВТОМАТИКА ОТКЛЮЧЕНА</a></td>
+      <td style="text-align: left">Непрерывно светится желтым при переходе ГК в <a href="/gk_manual/docs/gk/gk_conditions#состояние_гк_автоматика_отключена">состояние АВТОМАТИКА ОТКЛЮЧЕНА</a></td>
     </tr>
     <tr>
       <td id="световой_индикатор_гк_сист_ошибка" style="text-align: center"><img src="../../assets/icons/light_indicators/li_sist_oshibka.png" width="50" height="50"></td>
