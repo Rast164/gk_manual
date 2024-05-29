@@ -96,12 +96,12 @@ permalink: /docs/gk/gk_control_panel
   <tbody>
     <tr>
       <td id="клавиша_гк_отменить" style="text-align: center"><img src="../../assets/icons/keys/k_otmenit.png" width="50" height="50"></td>
-      <td style="text-align: left">ОТМЕНИТЬ<br>(задержка пуска)</td>
+      <td style="text-align: left">ОТМЕНИТЬ</td>
       <td style="text-align: left">Немедленно включает (запускает) выбранный <a href="/gk_manual/docs/scenarios#сценарии">сценарий</a> или <a href="/gk_manual/docs/address_devices#адресные-устройства">АУ</a></td>
     </tr>
     <tr>
       <td id="клавиша_гк_добавить" style="text-align: center"><img src="../../assets/icons/keys/k_dobavit.png" width="50" height="50"></td>
-      <td style="text-align: left">ДОБАВИТЬ<br>(задержка пуска)</td>
+      <td style="text-align: left">ДОБАВИТЬ</td>
       <td style="text-align: left">Увеличивает задержку включения выбранного <a href="/gk_manual/docs/scenarios#сценарии">сценария</a> или <a href="/gk_manual/docs/address_devices#адресные-устройства">АУ</a> на 10 секунд</td>
     </tr>
     <tr>
