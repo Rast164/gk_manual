@@ -8,7 +8,7 @@ permalink: /docs/kau/kau_indication_panel
 
 # Панель индикации КАУ
 <p align="center">
-<img src="../../assets/images/control_panel.png">
+<img src="../../assets/images/kau_indication_panel.png">
 </p>
 
 ## Световые индикаторы
