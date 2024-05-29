@@ -58,6 +58,14 @@
 [PFM]: /gk_manual/docs/global_system/communications_lines#цифровая-линия-связи
 <a href="/gk_manual/docs/global_system/communications_lines#цифровая-линия-связи">PFM</a>
 
+### Пожарные зоны
+[пожарные зоны]: /gk_manual/docs/zones#пожарные-зоны
+<a href="/gk_manual/docs/zones#пожарные-зоны">пожарные зоны</a>
+
+### Сценарии
+[сценарии]: /gk_manual/docs/scenarios#сценарии
+<a href="/gk_manual/docs/scenarios#сценарии">сценарии</a>
+
 ### Создание проекта, конфигурирование
 [создание проекта]: /gk_manual/docs/global_system#конфигурирование
 <a href="/gk_manual/docs/global_system#конфигурирование">конфигурирование</a>
@@ -203,3 +211,24 @@
 
 ### Меню ДОСТУП
 <a href="/gk_manual/docs/global_os/main_menu/access"><img src="../../assets/icons/menus/m_dostup.png" width="14" height="14"> ДОСТУП</a>
+
+### Клавиша ОТМЕНИТЬ
+<a href="/gk_manual/docs/gk/gk_control_panel#клавиша_гк_отменить"><img src="../../assets/icons/keys/k_otmenit.png" width="14" height="14"> ОТМЕНИТЬ</a>
+
+### Клавиша ДОБАВИТЬ
+<a href="/gk_manual/docs/gk/gk_control_panel#клавиша_гк_добавить"><img src="../../assets/icons/keys/k_dobavit.png" width="14" height="14"> ДОБАВИТЬ</a>
+
+### Клавиша ВЫКЛЮЧИТЬ
+<a href="/gk_manual/docs/gk/gk_control_panel#клавиша_гк_выключить"><img src="../../assets/icons/keys/k_vyykluchit.png" width="14" height="14"> ВЫКЛЮЧИТЬ</a>
+
+### Клавиша СБРОС ПОЖАРА
+<a href="/gk_manual/docs/gk/gk_control_panel#клавиша_гк_сброс_пожара"><img src="../../assets/icons/keys/k_sbros_pozhara.png" width="14" height="14"> СБРОС ПОЖАРА</a>
+
+### Клавиша ВКЛЮЧИТЬ
+<a href="/gk_manual/docs/gk/gk_control_panel#клавиша_гк_включить"><img src="../../assets/icons/keys/k_vkluchit.png" width="14" height="14"> ВКЛЮЧИТЬ</a>
+
+### Клавиша ВЫКЛЮЧИТЬ ЗВУК
+<a href="/gk_manual/docs/gk/gk_control_panel#клавиша_гк_выключить_звук"><img src="../../assets/icons/keys/k_vyykluchit_zvuk.png" width="14" height="14"> ВЫКЛЮЧИТЬ ЗВУК</a>
+
+### Клавиша ВКЛЮЧИТЬ ЗВУК
+<a href="/gk_manual/docs/gk/gk_control_panel#клавиша_гк_включить_звук"><img src="../../assets/icons/keys/k_vkluchit_zvuk.png" width="14" height="14"> ВКЛЮЧИТЬ ЗВУК</a>
