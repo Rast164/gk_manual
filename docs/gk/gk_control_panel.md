@@ -107,7 +107,7 @@ permalink: /docs/gk/gk_control_panel
     <tr>
       <td id="клавиша_гк_выключить" style="text-align: center"><img src="../../assets/icons/keys/k_vyykluchit.png" width="50" height="50"></td>
       <td style="text-align: left">ВЫКЛЮЧИТЬ</td>
-      <td style="text-align: left">Выключает (останавливает) или приостанавливает (ставит на паузу) отсчет задержки выбранного <a href="/gk_manual/docs/scenarios#сценарии">сценария</a> или <a href="/gk_manual/docs/address_devices#адресные-устройства">АУ</a></td>
+      <td style="text-align: left">Первое нажатие приостанавливает (ставит на паузу) отсчет задержки выбранного <a href="/gk_manual/docs/scenarios#сценарии">сценария</a> или <a href="/gk_manual/docs/address_devices#адресные-устройства">АУ</a>. Повторное нажатие выключает (останавливает) <a href="/gk_manual/docs/scenarios#сценарии">сценарий</a> или <a href="/gk_manual/docs/address_devices#адресные-устройства">АУ</a></td>
     </tr>
     <tr>
       <td id="клавиша_гк_сброс_пожара" style="text-align: center"><img src="../../assets/icons/keys/k_sbros_pozhara.png" width="50" height="50"></td>
