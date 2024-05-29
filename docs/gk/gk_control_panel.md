@@ -97,17 +97,17 @@ permalink: /docs/gk/gk_control_panel
     <tr>
       <td id="клавиша_гк_отменить" style="text-align: center"><img src="../../assets/icons/keys/k_otmenit.png" width="50" height="50"></td>
       <td style="text-align: left">ОТМЕНИТЬ<br>(задержка пуска)</td>
-      <td style="text-align: left"></td>
+      <td style="text-align: left">Немедленно включает (запускает) выбранный <a href="/gk_manual/docs/scenarios#сценарии">сценарий</a> или <a href="/gk_manual/docs/address_devices#адресные-устройства">АУ</a></td>
     </tr>
     <tr>
       <td id="клавиша_гк_добавить" style="text-align: center"><img src="../../assets/icons/keys/k_dobavit.png" width="50" height="50"></td>
       <td style="text-align: left">ДОБАВИТЬ<br>(задержка пуска)</td>
-      <td style="text-align: left"></td>
+      <td style="text-align: left">Увеличивает задержку включения выбранного <a href="/gk_manual/docs/scenarios#сценарии">сценария</a> или <a href="/gk_manual/docs/address_devices#адресные-устройства">АУ</a> на 10 секунд</td>
     </tr>
     <tr>
       <td id="клавиша_гк_выключить" style="text-align: center"><img src="../../assets/icons/keys/k_vyykluchit.png" width="50" height="50"></td>
       <td style="text-align: left">ВЫКЛЮЧИТЬ</td>
-      <td style="text-align: left"></td>
+      <td style="text-align: left">Выключает (останавливает) или приостанавливает (ставит на паузу) отсчет задержки выбранного <a href="/gk_manual/docs/scenarios#сценарии">сценария</a> или <a href="/gk_manual/docs/address_devices#адресные-устройства">АУ</a></td>
     </tr>
     <tr>
       <td id="клавиша_гк_сброс_пожара" style="text-align: center"><img src="../../assets/icons/keys/k_sbros_pozhara.png" width="50" height="50"></td>
@@ -117,7 +117,7 @@ permalink: /docs/gk/gk_control_panel
     <tr>
       <td id="клавиша_гк_включить" style="text-align: center"><img src="../../assets/icons/keys/k_vkluchit.png" width="50" height="50"></td>
       <td style="text-align: left">ВКЛЮЧИТЬ</td>
-      <td style="text-align: left"></td>
+      <td style="text-align: left">Возобновляет (снимает с паузы) включение выбранного <a href="/gk_manual/docs/scenarios#сценарии">сценария</a> или <a href="/gk_manual/docs/address_devices#адресные-устройства">АУ</a></td>
     </tr>
     <tr>
       <td id="клавиша_гк_выключить_звук" style="text-align: center"><img src="../../assets/icons/keys/k_vyykluchit_zvuk.png" width="50" height="50"></td>
