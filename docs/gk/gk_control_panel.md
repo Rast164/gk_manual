@@ -8,7 +8,7 @@ permalink: /docs/gk/gk_control_panel
 
 # Панель управления и индикации ГК
 <p align="center">
-<img src="../../assets/images/control_panel.png">
+<img src="../../assets/images/gk_control_panel.png">
 </p>
 
 ## Считыватель карт доступа
