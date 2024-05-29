@@ -112,7 +112,7 @@ permalink: /docs/gk/gk_control_panel
     <tr>
       <td id="клавиша_гк_сброс_пожара" style="text-align: center"><img src="../../assets/icons/keys/k_sbros_pozhara.png" width="50" height="50"></td>
       <td style="text-align: left">СБРОС ПОЖАРА</td>
-      <td style="text-align: left">Переводит ГК в состояние, которое было до прихода сигнала «Пожар» или «Внимание». Если сигнал продолжает поступать, то состояние «Пожар» или «Внимание» не сбрасывается</td>
+      <td style="text-align: left">Переводит <a href="/gk_manual/docs/gk#гк">ГК</a> в <a href="/gk_manual/gk/gk_conditions#состояния-гк">состояние</a>, которое было до прихода сигнала «Пожар» или «Внимание». Если сигнал пожарной тревоги продолжает поступать, то <a href="/gk_manual/gk/gk_conditions#состояние_гк_пожар">состояние ПОЖАР</a> или <a href="/gk_manual/gk/gk_conditions#состояние_гк_внимание">состояние ВНИМАНИЕ</a> не сбрасывается</td>
     </tr>
     <tr>
       <td id="клавиша_гк_включить" style="text-align: center"><img src="../../assets/icons/keys/k_vkluchit.png" width="50" height="50"></td>
