@@ -121,13 +121,13 @@ permalink: /docs/gk/gk_control_panel
     </tr>
     <tr>
       <td id="клавиша_гк_выключить_звук" style="text-align: center"><img src="../../assets/icons/keys/k_vyykluchit_zvuk.png" width="50" height="50"></td>
-      <td style="text-align: left">ВЫКЛЮЧИТЬ<br>(звук)</td>
-      <td style="text-align: left">Отключает звуковую сигнализацию до получения ГК нового сообщения о неисправности, пожаре или пуске</td>
+      <td style="text-align: left">ВЫКЛЮЧИТЬ ЗВУК</td>
+      <td style="text-align: left">Отключает звуковую сигнализацию <a href="/gk_manual/docs/gk#гк">ГК</a> до получения нового сообщения о неисправности, пожаре или пуске</td>
     </tr>
     <tr>
       <td id="клавиша_гк_включить_звук" style="text-align: center"><img src="../../assets/icons/keys/k_vkluchit_zvuk.png" width="50" height="50"></td>
-      <td style="text-align: left">ВКЛЮЧИТЬ<br>(звук)</td>
-      <td style="text-align: left">Включает отключенную звуковую сигнализацию</td>
+      <td style="text-align: left">ВКЛЮЧИТЬ ЗВУК</td>
+      <td style="text-align: left">Включает ранее отключенную звуковую сигнализацию</td>
     </tr>   
   </tbody>
 </table>
