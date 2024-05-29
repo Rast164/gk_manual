@@ -95,37 +95,37 @@ permalink: /docs/gk/gk_control_panel
   </thead> 
   <tbody>
     <tr>
-      <td style="text-align: center"><img src="../../assets/icons/keys/k_otmenit.png" width="50" height="50"></td>
+      <td id="клавиша_гк_отменить" style="text-align: center"><img src="../../assets/icons/keys/k_otmenit.png" width="50" height="50"></td>
       <td style="text-align: left">ОТМЕНИТЬ<br>(задержка пуска)</td>
       <td style="text-align: left"></td>
     </tr>
     <tr>
-      <td style="text-align: center"><img src="../../assets/icons/keys/k_dobavit.png" width="50" height="50"></td>
+      <td id="клавиша_гк_добавить" style="text-align: center"><img src="../../assets/icons/keys/k_dobavit.png" width="50" height="50"></td>
       <td style="text-align: left">ДОБАВИТЬ<br>(задержка пуска)</td>
       <td style="text-align: left"></td>
     </tr>
     <tr>
-      <td style="text-align: center"><img src="../../assets/icons/keys/k_vyykluchit.png" width="50" height="50"></td>
+      <td id="клавиша_гк_выключить" style="text-align: center"><img src="../../assets/icons/keys/k_vyykluchit.png" width="50" height="50"></td>
       <td style="text-align: left">ВЫКЛЮЧИТЬ</td>
       <td style="text-align: left"></td>
     </tr>
     <tr>
-      <td style="text-align: center"><img src="../../assets/icons/keys/k_sbros_pozhara.png" width="50" height="50"></td>
+      <td id="клавиша_гк_сброс_пожара" style="text-align: center"><img src="../../assets/icons/keys/k_sbros_pozhara.png" width="50" height="50"></td>
       <td style="text-align: left">СБРОС ПОЖАРА</td>
       <td style="text-align: left">Переводит ГК в состояние, которое было до прихода сигнала «Пожар» или «Внимание». Если сигнал продолжает поступать, то состояние «Пожар» или «Внимание» не сбрасывается</td>
     </tr>
     <tr>
-      <td style="text-align: center"><img src="../../assets/icons/keys/k_vkluchit.png" width="50" height="50"></td>
+      <td id="клавиша_гк_включить" style="text-align: center"><img src="../../assets/icons/keys/k_vkluchit.png" width="50" height="50"></td>
       <td style="text-align: left">ВКЛЮЧИТЬ</td>
       <td style="text-align: left"></td>
     </tr>
     <tr>
-      <td style="text-align: center"><img src="../../assets/icons/keys/k_vyykluchit_zvuk.png" width="50" height="50"></td>
+      <td id="клавиша_гк_выключить_звук" style="text-align: center"><img src="../../assets/icons/keys/k_vyykluchit_zvuk.png" width="50" height="50"></td>
       <td style="text-align: left">ВЫКЛЮЧИТЬ<br>(звук)</td>
       <td style="text-align: left">Отключает звуковую сигнализацию до получения ГК нового сообщения о неисправности, пожаре или пуске</td>
     </tr>
     <tr>
-      <td style="text-align: center"><img src="../../assets/icons/keys/k_vkluchit_zvuk.png" width="50" height="50"></td>
+      <td id="клавиша_гк_включить_звук" style="text-align: center"><img src="../../assets/icons/keys/k_vkluchit_zvuk.png" width="50" height="50"></td>
       <td style="text-align: left">ВКЛЮЧИТЬ<br>(звук)</td>
       <td style="text-align: left">Включает отключенную звуковую сигнализацию</td>
     </tr>   
@@ -133,7 +133,7 @@ permalink: /docs/gk/gk_control_panel
 </table>
 
 {: .note }
-> клавиши являются контекстными – становятся активными только в меню событий ПУСК. Это обеспечивает быстрый и удобный доступ к функциям управления активными событиями пуска пожаротушения
+> Клавиши <img src="../../assets/icons/keys/k_otmenit.png" width="14" height="14"> ОТМЕНИТЬ, <img src="../../assets/icons/keys/k_dobavit.png" width="14" height="14"> ДОБАВИТЬ, <img src="../../assets/icons/keys/k_vyykluchit.png" width="14" height="14"> ВЫКЛЮЧИТЬ и <img src="../../assets/icons/keys/k_vkluchit.png" width="14" height="14"> ВКЛЮЧИТЬ являются контекстными – становятся активными только в меню событий ПУСК. Это обеспечивает быстрый и удобный доступ к функциям управления активными событиями пуска пожаротушения
 
 [средством ограничения доступа посторонних лиц]: /gk_manual/docs/global_system/acms#ограничение-доступа
 [ограничен]: /gk_manual/docs/global_system/acms#ограничение-доступа
