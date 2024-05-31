@@ -66,7 +66,7 @@ permalink: /docs/global_system/acms
    </tbody>
 </table>
 
-Добавление новых пользователей и запись соответствующих карт доступа в [систему] осуществляется в меню <a href="/gk_manual/docs/global_os/main_menu/access"><img src="../../assets/icons/menus/m_dostup.png" width="14" height="14"> ДОСТУП</a>. Карты доступа, входящие в комплект поставки [ГК] и [ТПУ], записываюся заводом-изготовителем.
+Добавление новых пользователей и запись соответствующих карт доступа в [систему] осуществляется в меню <a href="/gk_manual/docs/global_os/main_menu/access"><img src="../../assets/icons/menus/m_dostup.png" width="14" height="14"> ДОСТУП</a>. Карты доступа, входящие в комплект поставки [ГК] и [ТПУ], записываются заводом-изготовителем.
 
 [системы]: /gk_manual/docs/global_system#спз-глобал
 [систему]: /gk_manual/docs/global_system#спз-глобал
