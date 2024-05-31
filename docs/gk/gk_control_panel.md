@@ -43,7 +43,7 @@ permalink: /docs/gk/gk_control_panel
     <tr>
       <td id="световой_индикатор_гк_останов_пуска" style="text-align: center"><img src="../../assets/icons/light_indicators/li_ostanov_puska.png" width="50" height="50"></td>
       <td style="text-align: left">ОСТАНОВ ПУСКА</td>
-      <td style="text-align: left">Непрерывно светится желтым при ручной приостановке пуска одного или более сценария или устройства системы противопожарной защиты</td>
+      <td style="text-align: left">Непрерывно светится желтым при ручной приостановке пуска одного или более сценария или <a href="/gk_manual/docs/address_devices#адресные-устройства">АУ</a> системы противопожарной защиты</td>
     </tr>
     <tr>
       <td id="световой_индикатор_гк_неисправ" style="text-align: center"><img src="../../assets/icons/light_indicators/li_neispravnost.png" width="50" height="50"></td>
