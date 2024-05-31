@@ -34,5 +34,5 @@ permalink: /docs/gk/gk_modes
 
 Переход в ТЕХНОЛОГИЧЕСКИЙ режим работы производится при [конфигурировании системы]. Переход в режим ОТЛАДКА производится в меню <a href="/gk_manual/docs/global_os/main_menu/settings"><img src="../../assets/icons/menus/m_nastroyki.png" width="14" height="14"> НАСТРОЙКИ</a>.
 
-[КАУ]: /gk_manual/docs/kau#кау
+[ГК]: /gk_manual/docs/gk#гк
 [конфигурировании системы]: /gk_manual/docs/global_system#конфигурирование
