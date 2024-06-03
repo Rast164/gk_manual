@@ -2,7 +2,7 @@
 layout: default
 title: Устройства вывода
 parent: Адресные устройства
-nav_order: 3
+nav_order: 4
 permalink: /docs/address_devices/output_devices
 ---
 
