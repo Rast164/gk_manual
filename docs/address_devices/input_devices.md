@@ -2,7 +2,7 @@
 layout: default
 title: Устройства ввода
 parent: Адресные устройства
-nav_order: 2
+nav_order: 3
 permalink: /docs/address_devices/input_devices
 ---
 
