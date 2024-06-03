@@ -2,7 +2,7 @@
 layout: default
 title: Оповещатели
 parent: Адресные устройства
-nav_order: 4
+nav_order: 2
 permalink: /docs/address_devices/annunciators
 ---
 
