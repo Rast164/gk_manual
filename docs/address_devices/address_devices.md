@@ -68,15 +68,15 @@ permalink: /docs/address_devices
   <tbody>
     <tr>
       <td id="состояние_ау_норма" style="text-align: center">Норма</td>
-      <td style="text-align: left">Нормальное состояние АУ, характеризуюемое отсутствием сигналов и неисправностей</td>
+      <td style="text-align: left">Нормальное состояние АУ, характеризуемое отсутствием сигналов и неисправностей</td>
     </tr> 
     <tr>
       <td id="состояние_ау_сработка" style="text-align: center">Сработка</td>
-      <td style="text-align: left">Нормальное состояние АУ, характеризуюемое наличием сигнала</td>
+      <td style="text-align: left">Нормальное состояние АУ, характеризуемое наличием сигнала</td>
     </tr>
     <tr>
       <td id="состояние_ау_включено" style="text-align: center">Включено</td>
-      <td style="text-align: left">Нормальное остояние АУ, при котором оно включено</td>
+      <td style="text-align: left">Нормальное состояние АУ, при котором оно включено</td>
     </tr>
     <tr>
       <td id="состояние_ау_включается" style="text-align: center">Включается</td>
