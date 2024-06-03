@@ -2,7 +2,7 @@
 layout: default
 title: Вспомогательные устройства
 parent: Адресные устройства
-nav_order: 7
+nav_order: 6
 permalink: /docs/address_devices/auxiliaries
 ---
 
