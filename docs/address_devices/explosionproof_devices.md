@@ -2,7 +2,7 @@
 layout: default
 title: Взрывозащищенные устройства
 parent: Адресные устройства
-nav_order: 8
+nav_order: 7
 permalink: /docs/address_devices/explosionproof_devices
 ---
 
