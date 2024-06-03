@@ -2,7 +2,7 @@
 layout: default
 title: Устройства с изолятором короткого замыкания
 parent: Адресные устройства
-nav_order: 9
+nav_order: 8
 permalink: /docs/address_devices/s_c_isolated_devices
 ---
 
