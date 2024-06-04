@@ -95,7 +95,7 @@ permalink: /docs/address_devices
       <td style="text-align: left">Аварийное состояние, характеризуемое наличием ошибок в работе АУ или физическом отсутствии АУ в АЛС</td>
     </tr>    
     <tr>
-      <td id="состояние_ау_отключено" style="text-align: left">Неисправно</td>
+      <td id="состояние_ау_отключено" style="text-align: left">Отключено</td>
       <td style="text-align: left">Нерабочее состояние, характеризуемое переводом АУ в режим работы ОТКЛЮЧЕНО</td>
     </tr> 
   </tbody>
