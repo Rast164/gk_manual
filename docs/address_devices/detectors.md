@@ -38,13 +38,17 @@ permalink: /docs/address_devices/detectors
       <td style="text-align: center">1</td>
     </tr>
     <tr>
+      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#устройство_противопожарной_защиты">УПЗ</a></td>
+      <td style="text-align: center">Нет</td>
+    </tr>
+    <tr>
       <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#режим-работы-ау">Режимы работы</a></td>
       <td style="text-align: center"><a href="/gk_manual/docs/global_system/address_devices#режим_работы_ау_дежурный">ДЕЖУРНЫЙ</a>, <a href="/gk_manual/docs/global_system/address_devices#режим_работы_ау_отключено">ОТКЛЮЧЕНО</a></td>
     </tr>
     <tr>
       <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#состояние-ау">Состояния</a></td>
       <td style="text-align: center"><a href="/gk_manual/docs/global_system/address_devices#состояние_ау_норма">норма</a>, <a href="/gk_manual/docs/global_system/address_devices#состояние_ау_сработка">сработка</a>, <a href="/gk_manual/docs/global_system/address_devices#состояние_ау_неисправно">неисправно</a>, <a href="/gk_manual/docs/global_system/address_devices#состояние_ау_отключено">отключено</a></td>
-    </tr>
+    </tr>    
   </tbody>
 </table>
 
@@ -56,9 +60,44 @@ permalink: /docs/address_devices/detectors
 <img src="../../assets/images/devices/ip_212_101_11_PR.png">
 </p>
 
-|Наименование|Полное обозначение|Краткое обозначение|
-|:---|:---:|:---:|
-|Извещатель пожарный комбинированный|ИП 212/101-11-PR|ИПК|
+<table> 
+  <thead> 
+    <tr> 
+      <th style="text-align: center">Параметр</th>
+      <th style="text-align: center">Значение</th>
+    </tr>
+  </thead> 
+  <tbody>
+    <tr>
+      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#краткое_название_устройства">Краткое название</a></td>
+      <td style="text-align: center">Извещатель пожарный комбинированный</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#обозначение_устройства">Обозначение</a></td>
+      <td style="text-align: center">ИП 212/101-11-PR</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#краткое_обозначение_устройства">Краткое обозначение</a></td>
+      <td style="text-align: center">ИПК</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#количество_адресов">Количество адресов</a></td>
+      <td style="text-align: center">1</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#устройство_противопожарной_защиты">УПЗ</a></td>
+      <td style="text-align: center">Нет</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#режим-работы-ау">Режимы работы</a></td>
+      <td style="text-align: center"><a href="/gk_manual/docs/global_system/address_devices#режим_работы_ау_дежурный">ДЕЖУРНЫЙ</a>, <a href="/gk_manual/docs/global_system/address_devices#режим_работы_ау_отключено">ОТКЛЮЧЕНО</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#состояние-ау">Состояния</a></td>
+      <td style="text-align: center"><a href="/gk_manual/docs/global_system/address_devices#состояние_ау_норма">норма</a>, <a href="/gk_manual/docs/global_system/address_devices#состояние_ау_сработка">сработка</a>, <a href="/gk_manual/docs/global_system/address_devices#состояние_ау_неисправно">неисправно</a>, <a href="/gk_manual/docs/global_system/address_devices#состояние_ау_отключено">отключено</a></td>
+    </tr>    
+  </tbody>
+</table>
 
 <a href="https://products.rubezh.ru/products/ip_212_101_11_pr_w1_04-3300/" target="_blank">На страницу продукта</a>
 
