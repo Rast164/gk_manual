@@ -221,8 +221,7 @@ permalink: /docs/address_devices/detectors
       <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#краткое_обозначение_устройства">Краткое обозначение</a></td>
       <td style="text-align: center">ИПР</td>
     </tr>
-    <tr>
-      <tr>
+    <tr>     
       <td style="text-align: left"><a href="/gk_manual/docs/address_devices#количество_адресов">Количество адресов</a></td>
       <td style="text-align: center">1</td>
     </tr>
