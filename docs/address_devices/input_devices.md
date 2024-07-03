@@ -13,9 +13,48 @@ permalink: /docs/address_devices/input_devices
 <img src="../../assets/images/devices/abshs.png">
 </p>
 
+<table> 
+  <thead> 
+    <tr> 
+      <th style="text-align: center">Параметр</th>
+      <th style="text-align: center">Значение</th>
+    </tr>
+  </thead> 
+  <tbody>
+    <tr>
+      <td style="text-align: left"><a href="/gk_manual/docs/docs/address_devices#краткое_название_устройства">Краткое название</a></td>
+      <td style="text-align: center">Барьер шлейфов сигнализации взрывозащищенный</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#обозначение_устройства">Обозначение</a></td>
+      <td style="text-align: center">АБШС</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#краткое_обозначение_устройства">Краткое обозначение</a></td>
+      <td style="text-align: center">АМП</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#количество_адресов">Количество адресов</a></td>
+      <td style="text-align: center">2</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#устройство_противопожарной_защиты">УПЗ</a></td>
+      <td style="text-align: center">Нет</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#режимы-работы-ау">Режимы работы</a></td>
+      <td style="text-align: center"><a href="/gk_manual/docs/address_devices#режим_работы_ау_дежурный">ДЕЖУРНЫЙ</a>, <a href="/gk_manual/docs/address_devices#режим_работы_ау_отключено">ОТКЛЮЧЕНО</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#состояния-ау">Состояния</a></td>
+      <td style="text-align: center"><a href="/gk_manual/docs/address_devices#состояние_ау_норма">норма</a>, <a href="/gk_manual/docs/address_devices#состояние_ау_сработка">сработка</a>, <a href="/gk_manual/docs/address_devices#состояние_ау_неисправно">неисправно</a>, <a href="/gk_manual/docs/address_devices#состояние_ау_отключено">отключено</a></td>
+    </tr>    
+  </tbody>
+</table>
+
 |Наименование|Полное обозначение|Краткое обозначение|
 |:---|:---:|:---:|
-|Барьер шлейфов сигнализации взрывозащищенный|АБШС|БШС|
+||АБШС|БШС|
 
 <a href="https://products.rubezh.ru/products/abshs_r2-3329/" target="_blank">На страницу продукта</a>
 
