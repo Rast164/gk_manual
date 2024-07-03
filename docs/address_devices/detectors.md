@@ -22,32 +22,32 @@ permalink: /docs/address_devices/detectors
   </thead> 
   <tbody>
     <tr>
-      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#краткое_название_устройства">Краткое название</a></td>
+      <td style="text-align: left"><a href="/gk_manual/docs/docs/address_devices#краткое_название_устройства">Краткое название</a></td>
       <td style="text-align: center">Извещатель пожарный дымовой</td>
     </tr>
     <tr>
-      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#обозначение_устройства">Обозначение</a></td>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#обозначение_устройства">Обозначение</a></td>
       <td style="text-align: center">ИП 212-149</td>
     </tr>
     <tr>
-      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#краткое_обозначение_устройства">Краткое обозначение</a></td>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#краткое_обозначение_устройства">Краткое обозначение</a></td>
       <td style="text-align: center">ИПД</td>
     </tr>
     <tr>
-      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#количество_адресов">Количество адресов</a></td>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#количество_адресов">Количество адресов</a></td>
       <td style="text-align: center">1</td>
     </tr>
     <tr>
-      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#устройство_противопожарной_защиты">УПЗ</a></td>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#устройство_противопожарной_защиты">УПЗ</a></td>
       <td style="text-align: center">Нет</td>
     </tr>
     <tr>
-      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#режим-работы-ау">Режимы работы</a></td>
-      <td style="text-align: center"><a href="/gk_manual/docs/global_system/address_devices#режим_работы_ау_дежурный">ДЕЖУРНЫЙ</a>, <a href="/gk_manual/docs/global_system/address_devices#режим_работы_ау_отключено">ОТКЛЮЧЕНО</a></td>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#режим-работы-ау">Режимы работы</a></td>
+      <td style="text-align: center"><a href="/gk_manual/docs/address_devices#режим_работы_ау_дежурный">ДЕЖУРНЫЙ</a>, <a href="/gk_manual/docs/address_devices#режим_работы_ау_отключено">ОТКЛЮЧЕНО</a></td>
     </tr>
     <tr>
-      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#состояние-ау">Состояния</a></td>
-      <td style="text-align: center"><a href="/gk_manual/docs/global_system/address_devices#состояние_ау_норма">норма</a>, <a href="/gk_manual/docs/global_system/address_devices#состояние_ау_сработка">сработка</a>, <a href="/gk_manual/docs/global_system/address_devices#состояние_ау_неисправно">неисправно</a>, <a href="/gk_manual/docs/global_system/address_devices#состояние_ау_отключено">отключено</a></td>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#состояние-ау">Состояния</a></td>
+      <td style="text-align: center"><a href="/gk_manual/docs/address_devices#состояние_ау_норма">норма</a>, <a href="/gk_manual/docs/address_devices#состояние_ау_сработка">сработка</a>, <a href="/gk_manual/docs/address_devices#состояние_ау_неисправно">неисправно</a>, <a href="/gk_manual/docs/address_devices#состояние_ау_отключено">отключено</a></td>
     </tr>    
   </tbody>
 </table>
@@ -81,20 +81,20 @@ permalink: /docs/address_devices/detectors
       <td style="text-align: center">ИПК</td>
     </tr>
     <tr>
-      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#количество_адресов">Количество адресов</a></td>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#количество_адресов">Количество адресов</a></td>
       <td style="text-align: center">1</td>
     </tr>
     <tr>
-      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#устройство_противопожарной_защиты">УПЗ</a></td>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#устройство_противопожарной_защиты">УПЗ</a></td>
       <td style="text-align: center">Нет</td>
     </tr>
     <tr>
-      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#режим-работы-ау">Режимы работы</a></td>
-      <td style="text-align: center"><a href="/gk_manual/docs/global_system/address_devices#режим_работы_ау_дежурный">ДЕЖУРНЫЙ</a>, <a href="/gk_manual/docs/global_system/address_devices#режим_работы_ау_отключено">ОТКЛЮЧЕНО</a></td>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#режим-работы-ау">Режимы работы</a></td>
+      <td style="text-align: center"><a href="/gk_manual/docs/address_devices#режим_работы_ау_дежурный">ДЕЖУРНЫЙ</a>, <a href="/gk_manual/docs/address_devices#режим_работы_ау_отключено">ОТКЛЮЧЕНО</a></td>
     </tr>
     <tr>
-      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#состояние-ау">Состояния</a></td>
-      <td style="text-align: center"><a href="/gk_manual/docs/global_system/address_devices#состояние_ау_норма">норма</a>, <a href="/gk_manual/docs/global_system/address_devices#состояние_ау_сработка">сработка</a>, <a href="/gk_manual/docs/global_system/address_devices#состояние_ау_неисправно">неисправно</a>, <a href="/gk_manual/docs/global_system/address_devices#состояние_ау_отключено">отключено</a></td>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#состояние-ау">Состояния</a></td>
+      <td style="text-align: center"><a href="/gk_manual/docs/address_devices#состояние_ау_норма">норма</a>, <a href="/gk_manual/docs/address_devices#состояние_ау_сработка">сработка</a>, <a href="/gk_manual/docs/address_devices#состояние_ау_неисправно">неисправно</a>, <a href="/gk_manual/docs/address_devices#состояние_ау_отключено">отключено</a></td>
     </tr>    
   </tbody>
 </table>
@@ -128,20 +128,20 @@ permalink: /docs/address_devices/detectors
       <td style="text-align: center">ИПП</td>
     </tr>
     <tr>
-      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#количество_адресов">Количество адресов</a></td>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#количество_адресов">Количество адресов</a></td>
       <td style="text-align: center">1</td>
     </tr>
     <tr>
-      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#устройство_противопожарной_защиты">УПЗ</a></td>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#устройство_противопожарной_защиты">УПЗ</a></td>
       <td style="text-align: center">Нет</td>
     </tr>
     <tr>
-      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#режим-работы-ау">Режимы работы</a></td>
-      <td style="text-align: center"><a href="/gk_manual/docs/global_system/address_devices#режим_работы_ау_дежурный">ДЕЖУРНЫЙ</a>, <a href="/gk_manual/docs/global_system/address_devices#режим_работы_ау_отключено">ОТКЛЮЧЕНО</a></td>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#режим-работы-ау">Режимы работы</a></td>
+      <td style="text-align: center"><a href="/gk_manual/docs/address_devices#режим_работы_ау_дежурный">ДЕЖУРНЫЙ</a>, <a href="/gk_manual/docs/address_devices#режим_работы_ау_отключено">ОТКЛЮЧЕНО</a></td>
     </tr>
     <tr>
-      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#состояние-ау">Состояния</a></td>
-      <td style="text-align: center"><a href="/gk_manual/docs/global_system/address_devices#состояние_ау_норма">норма</a>, <a href="/gk_manual/docs/global_system/address_devices#состояние_ау_сработка">сработка</a>, <a href="/gk_manual/docs/global_system/address_devices#состояние_ау_неисправно">неисправно</a>, <a href="/gk_manual/docs/global_system/address_devices#состояние_ау_отключено">отключено</a></td>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#состояние-ау">Состояния</a></td>
+      <td style="text-align: center"><a href="/gk_manual/docs/address_devices#состояние_ау_норма">норма</a>, <a href="/gk_manual/docs/address_devices#состояние_ау_сработка">сработка</a>, <a href="/gk_manual/docs/address_devices#состояние_ау_неисправно">неисправно</a>, <a href="/gk_manual/docs/address_devices#состояние_ау_отключено">отключено</a></td>
     </tr>    
   </tbody>
 </table>
@@ -175,20 +175,20 @@ permalink: /docs/address_devices/detectors
       <td style="text-align: center">ИПР</td>
     </tr>
     <tr>
-      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#количество_адресов">Количество адресов</a></td>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#количество_адресов">Количество адресов</a></td>
       <td style="text-align: center">1</td>
     </tr>
     <tr>
-      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#устройство_противопожарной_защиты">УПЗ</a></td>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#устройство_противопожарной_защиты">УПЗ</a></td>
       <td style="text-align: center">Нет</td>
     </tr>
     <tr>
-      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#режим-работы-ау">Режимы работы</a></td>
-      <td style="text-align: center"><a href="/gk_manual/docs/global_system/address_devices#режим_работы_ау_дежурный">ДЕЖУРНЫЙ</a>, <a href="/gk_manual/docs/global_system/address_devices#режим_работы_ау_отключено">ОТКЛЮЧЕНО</a></td>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#режим-работы-ау">Режимы работы</a></td>
+      <td style="text-align: center"><a href="/gk_manual/docs/address_devices#режим_работы_ау_дежурный">ДЕЖУРНЫЙ</a>, <a href="/gk_manual/docs/address_devices#режим_работы_ау_отключено">ОТКЛЮЧЕНО</a></td>
     </tr>
     <tr>
-      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#состояние-ау">Состояния</a></td>
-      <td style="text-align: center"><a href="/gk_manual/docs/global_system/address_devices#состояние_ау_норма">норма</a>, <a href="/gk_manual/docs/global_system/address_devices#состояние_ау_сработка">сработка</a>, <a href="/gk_manual/docs/global_system/address_devices#состояние_ау_неисправно">неисправно</a>, <a href="/gk_manual/docs/global_system/address_devices#состояние_ау_отключено">отключено</a></td>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#состояние-ау">Состояния</a></td>
+      <td style="text-align: center"><a href="/gk_manual/docs/address_devices#состояние_ау_норма">норма</a>, <a href="/gk_manual/docs/address_devices#состояние_ау_сработка">сработка</a>, <a href="/gk_manual/docs/address_devices#состояние_ау_неисправно">неисправно</a>, <a href="/gk_manual/docs/address_devices#состояние_ау_отключено">отключено</a></td>
     </tr>    
   </tbody>
 </table>
@@ -222,20 +222,21 @@ permalink: /docs/address_devices/detectors
       <td style="text-align: center">ИПР</td>
     </tr>
     <tr>
-      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#количество_адресов">Количество адресов</a></td>
+      <tr>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#количество_адресов">Количество адресов</a></td>
       <td style="text-align: center">1</td>
     </tr>
     <tr>
-      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#устройство_противопожарной_защиты">УПЗ</a></td>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#устройство_противопожарной_защиты">УПЗ</a></td>
       <td style="text-align: center">Нет</td>
     </tr>
     <tr>
-      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#режим-работы-ау">Режимы работы</a></td>
-      <td style="text-align: center"><a href="/gk_manual/docs/global_system/address_devices#режим_работы_ау_дежурный">ДЕЖУРНЫЙ</a>, <a href="/gk_manual/docs/global_system/address_devices#режим_работы_ау_отключено">ОТКЛЮЧЕНО</a></td>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#режим-работы-ау">Режимы работы</a></td>
+      <td style="text-align: center"><a href="/gk_manual/docs/address_devices#режим_работы_ау_дежурный">ДЕЖУРНЫЙ</a>, <a href="/gk_manual/docs/address_devices#режим_работы_ау_отключено">ОТКЛЮЧЕНО</a></td>
     </tr>
     <tr>
-      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#состояние-ау">Состояния</a></td>
-      <td style="text-align: center"><a href="/gk_manual/docs/global_system/address_devices#состояние_ау_норма">норма</a>, <a href="/gk_manual/docs/global_system/address_devices#состояние_ау_сработка">сработка</a>, <a href="/gk_manual/docs/global_system/address_devices#состояние_ау_неисправно">неисправно</a>, <a href="/gk_manual/docs/global_system/address_devices#состояние_ау_отключено">отключено</a></td>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#состояние-ау">Состояния</a></td>
+      <td style="text-align: center"><a href="/gk_manual/docs/address_devices#состояние_ау_норма">норма</a>, <a href="/gk_manual/docs/address_devices#состояние_ау_сработка">сработка</a>, <a href="/gk_manual/docs/address_devices#состояние_ау_неисправно">неисправно</a>, <a href="/gk_manual/docs/address_devices#состояние_ау_отключено">отключено</a></td>
     </tr>    
   </tbody>
 </table>
@@ -269,20 +270,20 @@ permalink: /docs/address_devices/detectors
       <td style="text-align: center">ИПР</td>
     </tr>
     <tr>
-      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#количество_адресов">Количество адресов</a></td>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#количество_адресов">Количество адресов</a></td>
       <td style="text-align: center">1</td>
     </tr>
     <tr>
-      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#устройство_противопожарной_защиты">УПЗ</a></td>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#устройство_противопожарной_защиты">УПЗ</a></td>
       <td style="text-align: center">Нет</td>
     </tr>
     <tr>
-      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#режим-работы-ау">Режимы работы</a></td>
-      <td style="text-align: center"><a href="/gk_manual/docs/global_system/address_devices#режим_работы_ау_дежурный">ДЕЖУРНЫЙ</a>, <a href="/gk_manual/docs/global_system/address_devices#режим_работы_ау_отключено">ОТКЛЮЧЕНО</a></td>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#режим-работы-ау">Режимы работы</a></td>
+      <td style="text-align: center"><a href="/gk_manual/docs/address_devices#режим_работы_ау_дежурный">ДЕЖУРНЫЙ</a>, <a href="/gk_manual/docs/address_devices#режим_работы_ау_отключено">ОТКЛЮЧЕНО</a></td>
     </tr>
     <tr>
-      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#состояние-ау">Состояния</a></td>
-      <td style="text-align: center"><a href="/gk_manual/docs/global_system/address_devices#состояние_ау_норма">норма</a>, <a href="/gk_manual/docs/global_system/address_devices#состояние_ау_сработка">сработка</a>, <a href="/gk_manual/docs/global_system/address_devices#состояние_ау_неисправно">неисправно</a>, <a href="/gk_manual/docs/global_system/address_devices#состояние_ау_отключено">отключено</a></td>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#состояние-ау">Состояния</a></td>
+      <td style="text-align: center"><a href="/gk_manual/docs/address_devices#состояние_ау_норма">норма</a>, <a href="/gk_manual/docs/address_devices#состояние_ау_сработка">сработка</a>, <a href="/gk_manual/docs/address_devices#состояние_ау_неисправно">неисправно</a>, <a href="/gk_manual/docs/address_devices#состояние_ау_отключено">отключено</a></td>
     </tr>    
   </tbody>
 </table>
@@ -312,20 +313,20 @@ permalink: /docs/address_devices/detectors
       <td style="text-align: center">ИПТ</td>
     </tr>
     <tr>
-      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#количество_адресов">Количество адресов</a></td>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#количество_адресов">Количество адресов</a></td>
       <td style="text-align: center">1</td>
     </tr>
     <tr>
-      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#устройство_противопожарной_защиты">УПЗ</a></td>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#устройство_противопожарной_защиты">УПЗ</a></td>
       <td style="text-align: center">Нет</td>
     </tr>
     <tr>
-      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#режим-работы-ау">Режимы работы</a></td>
-      <td style="text-align: center"><a href="/gk_manual/docs/global_system/address_devices#режим_работы_ау_дежурный">ДЕЖУРНЫЙ</a>, <a href="/gk_manual/docs/global_system/address_devices#режим_работы_ау_отключено">ОТКЛЮЧЕНО</a></td>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#режим-работы-ау">Режимы работы</a></td>
+      <td style="text-align: center"><a href="/gk_manual/docs/address_devices#режим_работы_ау_дежурный">ДЕЖУРНЫЙ</a>, <a href="/gk_manual/docs/address_devices#режим_работы_ау_отключено">ОТКЛЮЧЕНО</a></td>
     </tr>
     <tr>
-      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#состояние-ау">Состояния</a></td>
-      <td style="text-align: center"><a href="/gk_manual/docs/global_system/address_devices#состояние_ау_норма">норма</a>, <a href="/gk_manual/docs/global_system/address_devices#состояние_ау_сработка">сработка</a>, <a href="/gk_manual/docs/global_system/address_devices#состояние_ау_неисправно">неисправно</a>, <a href="/gk_manual/docs/global_system/address_devices#состояние_ау_отключено">отключено</a></td>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#состояние-ау">Состояния</a></td>
+      <td style="text-align: center"><a href="/gk_manual/docs/address_devices#состояние_ау_норма">норма</a>, <a href="/gk_manual/docs/address_devices#состояние_ау_сработка">сработка</a>, <a href="/gk_manual/docs/address_devices#состояние_ау_неисправно">неисправно</a>, <a href="/gk_manual/docs/address_devices#состояние_ау_отключено">отключено</a></td>
     </tr>    
   </tbody>
 </table>
@@ -359,20 +360,20 @@ permalink: /docs/address_devices/detectors
       <td style="text-align: center">ИПТ</td>
     </tr>
     <tr>
-      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#количество_адресов">Количество адресов</a></td>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#количество_адресов">Количество адресов</a></td>
       <td style="text-align: center">1</td>
     </tr>
     <tr>
-      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#устройство_противопожарной_защиты">УПЗ</a></td>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#устройство_противопожарной_защиты">УПЗ</a></td>
       <td style="text-align: center">Нет</td>
     </tr>
     <tr>
-      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#режим-работы-ау">Режимы работы</a></td>
-      <td style="text-align: center"><a href="/gk_manual/docs/global_system/address_devices#режим_работы_ау_дежурный">ДЕЖУРНЫЙ</a>, <a href="/gk_manual/docs/global_system/address_devices#режим_работы_ау_отключено">ОТКЛЮЧЕНО</a></td>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#режим-работы-ау">Режимы работы</a></td>
+      <td style="text-align: center"><a href="/gk_manual/docs/address_devices#режим_работы_ау_дежурный">ДЕЖУРНЫЙ</a>, <a href="/gk_manual/docs/address_devices#режим_работы_ау_отключено">ОТКЛЮЧЕНО</a></td>
     </tr>
     <tr>
-      <td style="text-align: left"><a href="/gk_manual/docs/global_system/address_devices#состояние-ау">Состояния</a></td>
-      <td style="text-align: center"><a href="/gk_manual/docs/global_system/address_devices#состояние_ау_норма">норма</a>, <a href="/gk_manual/docs/global_system/address_devices#состояние_ау_сработка">сработка</a>, <a href="/gk_manual/docs/global_system/address_devices#состояние_ау_неисправно">неисправно</a>, <a href="/gk_manual/docs/global_system/address_devices#состояние_ау_отключено">отключено</a></td>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#состояние-ау">Состояния</a></td>
+      <td style="text-align: center"><a href="/gk_manual/docs/address_devices#состояние_ау_норма">норма</a>, <a href="/gk_manual/docs/address_devices#состояние_ау_сработка">сработка</a>, <a href="/gk_manual/docs/address_devices#состояние_ау_неисправно">неисправно</a>, <a href="/gk_manual/docs/address_devices#состояние_ау_отключено">отключено</a></td>
     </tr>    
   </tbody>
 </table>
