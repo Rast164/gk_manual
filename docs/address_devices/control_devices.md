@@ -148,6 +148,57 @@ permalink: /docs/address_devices/control_devices
 
 <a href="https://products.rubezh.ru/products/mdu_r2_isp_220-3363/" target="_blank">На страницу продукта</a>
 
+### Шкаф управления задвижкой ШУЗ-R2
+
+<p align="center">
+<img src="../../assets/images/devices/shuz.png">
+</p>
+
+<table> 
+  <thead> 
+    <tr> 
+      <th style="text-align: center">Параметр</th>
+      <th style="text-align: center" colspan="3">Значение</th>
+    </tr>
+  </thead> 
+  <tbody>
+    <tr>
+      <td style="text-align: left"><a href="/gk_manual/docs/docs/address_devices#краткое_название_устройства">Краткое название</a></td>
+      <td style="text-align: center">Шкаф управления задвижкой с дисковым затвором</td>
+      <td style="text-align: center">Шкаф управления задвижкой с шаровым затвором</td>
+      <td style="text-align: center">Шкаф управления задвижкой с шаровым затвором и датчиками уровня</td>      
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#обозначение_устройства">Обозначение</a></td>
+      <td style="text-align: center">ШУЗ КВ-МВ</td>
+      <td style="text-align: center">ШУЗ КВ</td>
+      <td style="text-align: center">ШУЗ КВ-ДУ</td>      
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#краткое_обозначение_устройства">Краткое обозначение</a></td>
+      <td style="text-align: center" colspan="3">ШУ</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#количество_адресов">Количество адресов</a></td>
+      <td style="text-align: center" colspan="3">1</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#устройство_противопожарной_защиты">УПЗ</a></td>
+      <td style="text-align: center" colspan="3">Да</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#режимы-работы-ау">Режимы работы</a></td>
+      <td style="text-align: center" colspan="3"><a href="/gk_manual/docs/address_devices#режим_работы_ау_дежурный">ДЕЖУРНЫЙ</a>, <a href="/gk_manual/docs/address_devices#режим_работы_ау_автоматика_отключена">АВТОМАТИКА ОТКЛЮЧЕНА</a>, <a href="/gk_manual/docs/address_devices#режим_работы_ау_блокировка_пуска">БЛОКИРОВКА ПУСКА</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#состояния-ау">Состояния</a></td>
+      <td style="text-align: center" colspan="3"><a href="/gk_manual/docs/address_devices#состояние_ау_включено">включено</a>, <a href="/gk_manual/docs/address_devices#состояние_ау_включается">включается</a>, <a href="/gk_manual/docs/address_devices#состояние_ау_выключено">выключено</a>, <a href="/gk_manual/docs/address_devices#состояние_ау_неисправно">неисправно</a></td>
+    </tr>    
+  </tbody>
+</table>
+
+<a href="https://products.rubezh.ru/products/shuz_r2-3357/" target="_blank">На страницу продукта</a>
+
 ### Шкаф управления насосом или вентилятором ШУН/В-R2
 
 <p align="center">
@@ -200,54 +251,3 @@ permalink: /docs/address_devices/control_devices
 </table>
 
 <a href="https://products.rubezh.ru/products/shun_v_r2-3355/" target="_blank">На страницу продукта</a>
-
-### Шкаф управления задвижкой ШУЗ-R2
-
-<p align="center">
-<img src="../../assets/images/devices/shuz.png">
-</p>
-
-<table> 
-  <thead> 
-    <tr> 
-      <th style="text-align: center">Параметр</th>
-      <th style="text-align: center" colspan="3">Значение</th>
-    </tr>
-  </thead> 
-  <tbody>
-    <tr>
-      <td style="text-align: left"><a href="/gk_manual/docs/docs/address_devices#краткое_название_устройства">Краткое название</a></td>
-      <td style="text-align: center">Шкаф управления задвижкой с дисковым затвором</td>
-      <td style="text-align: center">Шкаф управления задвижкой с шаровым затвором</td>
-      <td style="text-align: center">Шкаф управления задвижкой с шаровым затвором и датчиками уровня</td>      
-    </tr>
-    <tr>
-      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#обозначение_устройства">Обозначение</a></td>
-      <td style="text-align: center">ШУЗ КВ-МВ</td>
-      <td style="text-align: center">ШУЗ КВ</td>
-      <td style="text-align: center">ШУЗ КВ-ДУ</td>      
-    </tr>
-    <tr>
-      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#краткое_обозначение_устройства">Краткое обозначение</a></td>
-      <td style="text-align: center" colspan="3">ШУ</td>
-    </tr>
-    <tr>
-      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#количество_адресов">Количество адресов</a></td>
-      <td style="text-align: center" colspan="3">1</td>
-    </tr>
-    <tr>
-      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#устройство_противопожарной_защиты">УПЗ</a></td>
-      <td style="text-align: center" colspan="3">Да</td>
-    </tr>
-    <tr>
-      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#режимы-работы-ау">Режимы работы</a></td>
-      <td style="text-align: center" colspan="3"><a href="/gk_manual/docs/address_devices#режим_работы_ау_дежурный">ДЕЖУРНЫЙ</a>, <a href="/gk_manual/docs/address_devices#режим_работы_ау_автоматика_отключена">АВТОМАТИКА ОТКЛЮЧЕНА</a>, <a href="/gk_manual/docs/address_devices#режим_работы_ау_блокировка_пуска">БЛОКИРОВКА ПУСКА</a></td>
-    </tr>
-    <tr>
-      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#состояния-ау">Состояния</a></td>
-      <td style="text-align: center" colspan="3"><a href="/gk_manual/docs/address_devices#состояние_ау_включено">включено</a>, <a href="/gk_manual/docs/address_devices#состояние_ау_включается">включается</a>, <a href="/gk_manual/docs/address_devices#состояние_ау_выключено">выключено</a>, <a href="/gk_manual/docs/address_devices#состояние_ау_выключается">выключается</a>, <a href="/gk_manual/docs/address_devices#состояние_ау_неисправно">неисправно</a></td>
-    </tr>    
-  </tbody>
-</table>
-
-<a href="https://products.rubezh.ru/products/shuz_r2-3357/" target="_blank">На страницу продукта</a>
