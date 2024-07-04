@@ -60,9 +60,44 @@ permalink: /docs/address_devices/control_devices
 <img src="../../assets/images/devices/mdu_isp.24.png">
 </p>
 
-|Наименование|Полное обозначение|Краткое обозначение|
-|:---|:---:|:---:|
-|Модуль автоматики дымоудаления|МДУ исп. 24|МДУ|
+<table> 
+  <thead> 
+    <tr> 
+      <th style="text-align: center">Параметр</th>
+      <th style="text-align: center">Значение</th>
+    </tr>
+  </thead> 
+  <tbody>
+    <tr>
+      <td style="text-align: left"><a href="/gk_manual/docs/docs/address_devices#краткое_название_устройства">Краткое название</a></td>
+      <td style="text-align: center">Модуль автоматики дымоудаления</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#обозначение_устройства">Обозначение</a></td>
+      <td style="text-align: center">МДУ исп. 24</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#краткое_обозначение_устройства">Краткое обозначение</a></td>
+      <td style="text-align: center">МДУ</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#количество_адресов">Количество адресов</a></td>
+      <td style="text-align: center">1</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#устройство_противопожарной_защиты">УПЗ</a></td>
+      <td style="text-align: center">Да</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#режимы-работы-ау">Режимы работы</a></td>
+      <td style="text-align: center"><a href="/gk_manual/docs/address_devices#режим_работы_ау_дежурный">ДЕЖУРНЫЙ</a>, <a href="/gk_manual/docs/address_devices#режим_работы_ау_автоматика_отключена">АВТОМАТИКА ОТКЛЮЧЕНА</a>, <a href="/gk_manual/docs/address_devices#режим_работы_ау_блокировка_пуска">БЛОКИРОВКА ПУСКА</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#состояния-ау">Состояния</a></td>
+      <td style="text-align: center"><a href="/gk_manual/docs/address_devices#состояние_ау_включено">включено</a>, <a href="/gk_manual/docs/address_devices#состояние_ау_включается">включается</a>, <a href="/gk_manual/docs/address_devices#состояние_ау_выключено">выключено</a>, <a href="/gk_manual/docs/address_devices#состояние_ау_выключается">выключается</a>, <a href="/gk_manual/docs/address_devices#состояние_ау_неисправно">неисправно</a>, <a href="/gk_manual/docs/address_devices#состояние_ау_отключено">отключено</a></td>
+    </tr>    
+  </tbody>
+</table>
 
 <a href="https://products.rubezh.ru/products/mdu_r2_isp_24-3362/" target="_blank">На страницу продукта</a>
 
@@ -72,9 +107,44 @@ permalink: /docs/address_devices/control_devices
 <img src="../../assets/images/devices/mdu_isp.220.png">
 </p>
 
-|Наименование|Полное обозначение|Краткое обозначение|
-|:---|:---:|:---:|
-|Модуль автоматики дымоудаления|МДУ исп. 220|МДУ|
+<table> 
+  <thead> 
+    <tr> 
+      <th style="text-align: center">Параметр</th>
+      <th style="text-align: center">Значение</th>
+    </tr>
+  </thead> 
+  <tbody>
+    <tr>
+      <td style="text-align: left"><a href="/gk_manual/docs/docs/address_devices#краткое_название_устройства">Краткое название</a></td>
+      <td style="text-align: center">Модуль автоматики дымоудаления</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#обозначение_устройства">Обозначение</a></td>
+      <td style="text-align: center">МДУ исп. 220</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#краткое_обозначение_устройства">Краткое обозначение</a></td>
+      <td style="text-align: center">МДУ</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#количество_адресов">Количество адресов</a></td>
+      <td style="text-align: center">1</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#устройство_противопожарной_защиты">УПЗ</a></td>
+      <td style="text-align: center">Да</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#режимы-работы-ау">Режимы работы</a></td>
+      <td style="text-align: center"><a href="/gk_manual/docs/address_devices#режим_работы_ау_дежурный">ДЕЖУРНЫЙ</a>, <a href="/gk_manual/docs/address_devices#режим_работы_ау_автоматика_отключена">АВТОМАТИКА ОТКЛЮЧЕНА</a>, <a href="/gk_manual/docs/address_devices#режим_работы_ау_блокировка_пуска">БЛОКИРОВКА ПУСКА</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#состояния-ау">Состояния</a></td>
+      <td style="text-align: center"><a href="/gk_manual/docs/address_devices#состояние_ау_включено">включено</a>, <a href="/gk_manual/docs/address_devices#состояние_ау_включается">включается</a>, <a href="/gk_manual/docs/address_devices#состояние_ау_выключено">выключено</a>, <a href="/gk_manual/docs/address_devices#состояние_ау_выключается">выключается</a>, <a href="/gk_manual/docs/address_devices#состояние_ау_неисправно">неисправно</a>, <a href="/gk_manual/docs/address_devices#состояние_ау_отключено">отключено</a></td>
+    </tr>    
+  </tbody>
+</table>
 
 <a href="https://products.rubezh.ru/products/mdu_r2_isp_220-3363/" target="_blank">На страницу продукта</a>
 
