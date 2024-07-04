@@ -211,7 +211,7 @@ permalink: /docs/address_devices/output_devices
   <tbody>
     <tr>
       <td style="text-align: left"><a href="/gk_manual/docs/docs/address_devices#краткое_название_устройства">Краткое название</a></td>
-      <td style="text-align: center">Модуль релейный/td>
+      <td style="text-align: center">Модуль релейный</td>
     </tr>
     <tr>
       <td style="text-align: left"><a href="/gk_manual/docs/address_devices#обозначение_устройства">Обозначение</a></td>
@@ -258,7 +258,7 @@ permalink: /docs/address_devices/output_devices
   <tbody>
     <tr>
       <td style="text-align: left"><a href="/gk_manual/docs/docs/address_devices#краткое_название_устройства">Краткое название</a></td>
-      <td style="text-align: center">Модуль релейный/td>
+      <td style="text-align: center">Модуль релейный</td>
     </tr>
     <tr>
       <td style="text-align: left"><a href="/gk_manual/docs/address_devices#обозначение_устройства">Обозначение</a></td>
@@ -305,7 +305,7 @@ permalink: /docs/address_devices/output_devices
   <tbody>
     <tr>
       <td style="text-align: left"><a href="/gk_manual/docs/docs/address_devices#краткое_название_устройства">Краткое название</a></td>
-      <td style="text-align: center">Модуль релейный/td>
+      <td style="text-align: center">Модуль релейный</td>
     </tr>
     <tr>
       <td style="text-align: left"><a href="/gk_manual/docs/address_devices#обозначение_устройства">Обозначение</a></td>
