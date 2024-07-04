@@ -13,9 +13,44 @@ permalink: /docs/address_devices/control_devices
 <img src="../../assets/images/devices/bmp.png">
 </p>
 
-|Наименование|Полное обозначение|Краткое обозначение|
-|:---|:---:|:---:|
-|Блок модульного пожаротушения|БМП|БМП|
+<table> 
+  <thead> 
+    <tr> 
+      <th style="text-align: center">Параметр</th>
+      <th style="text-align: center">Значение</th>
+    </tr>
+  </thead> 
+  <tbody>
+    <tr>
+      <td style="text-align: left"><a href="/gk_manual/docs/docs/address_devices#краткое_название_устройства">Краткое название</a></td>
+      <td style="text-align: center">Блок модульного пожаротушения</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#обозначение_устройства">Обозначение</a></td>
+      <td style="text-align: center">БМП</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#краткое_обозначение_устройства">Краткое обозначение</a></td>
+      <td style="text-align: center">БМП</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#количество_адресов">Количество адресов</a></td>
+      <td style="text-align: center">5</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#устройство_противопожарной_защиты">УПЗ</a></td>
+      <td style="text-align: center">Да</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#режимы-работы-ау">Режимы работы</a></td>
+      <td style="text-align: center"><a href="/gk_manual/docs/address_devices#режим_работы_ау_дежурный">ДЕЖУРНЫЙ</a>, <a href="/gk_manual/docs/address_devices#режим_работы_ау_автоматика_отключена">АВТОМАТИКА ОТКЛЮЧЕНА</a>, <a href="/gk_manual/docs/address_devices#режим_работы_ау_блокировка_пуска">БЛОКИРОВКА ПУСКА</a>)</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="/gk_manual/docs/address_devices#состояния-ау">Состояния</a></td>
+      <td style="text-align: center"><a href="/gk_manual/docs/address_devices#состояние_ау_включено">включено</a>, <a href="/gk_manual/docs/address_devices#состояние_ау_включается">включается</a>, <a href="/gk_manual/docs/address_devices#состояние_ау_выключено">выключено</a>, <a href="/gk_manual/docs/address_devices#состояние_ау_неисправно">неисправно</a>, <a href="/gk_manual/docs/address_devices#состояние_ау_отключено">отключено</a></td>
+    </tr>    
+  </tbody>
+</table>
 
 <a href="https://products.rubezh.ru/products/bmp_r2-3326/" target="_blank">На страницу продукта</a>
 
