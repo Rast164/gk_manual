@@ -217,15 +217,15 @@ permalink: /docs/address_devices/control_devices
   <tbody>
     <tr>
       <td style="text-align: left"><a href="/gk_manual/docs/docs/address_devices#краткое_название_устройства">Краткое название</a></td>
-      <td style="text-align: center">Шкаф управления вентилятором</td>
-      <td style="text-align: center">Шкаф управления дренажным насосом</td>
-      <td style="text-align: center">Шкаф управления жокей насосом</td>      
+      <td style="text-align: center">Шкаф управления задвижкой с дисковым затвором</td>
+      <td style="text-align: center">Шкаф управления задвижкой с шаровым затвором</td>
+      <td style="text-align: center">Шкаф управления задвижкой с шаровым затвором и датчиками уровня</td>      
     </tr>
     <tr>
       <td style="text-align: left"><a href="/gk_manual/docs/address_devices#обозначение_устройства">Обозначение</a></td>
-      <td style="text-align: center">ШУВ</td>
-      <td style="text-align: center">ШУН ДН</td>
-      <td style="text-align: center">ШУН ЖН</td>      
+      <td style="text-align: center">ШУЗ КВ-МВ</td>
+      <td style="text-align: center">ШУЗ КВ</td>
+      <td style="text-align: center">ШУЗ КВ-ДУ</td>      
     </tr>
     <tr>
       <td style="text-align: left"><a href="/gk_manual/docs/address_devices#краткое_обозначение_устройства">Краткое обозначение</a></td>
@@ -249,11 +249,5 @@ permalink: /docs/address_devices/control_devices
     </tr>    
   </tbody>
 </table>
-
-|Наименование|Полное обозначение|Краткое обозначение|
-|:---|:---:|:---:|
-|Шкаф управления задвижкой с дисковым затвором|ШУЗ КВ-МВ|ШУЗ|
-|Шкаф управления задвижкой с шаровым затвором|ШУЗ КВ|ШУЗ|
-|Шкаф управления задвижкой с шаровым затвором и датчиками уровня|ШУЗ КВ-ДУ|ШУЗ|
 
 <a href="https://products.rubezh.ru/products/shuz_r2-3357/" target="_blank">На страницу продукта</a>
