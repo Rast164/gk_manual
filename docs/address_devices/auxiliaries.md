@@ -278,11 +278,11 @@ permalink: /docs/address_devices/auxiliaries
     </tr>
     <tr>
       <td style="text-align: left"><a href="/gk_manual/docs/address_devices#режимы-работы-ау">Режимы работы</a></td>
-      <td style="text-align: center">???</td>
+      <td style="text-align: center"><a href="/gk_manual/docs/address_devices#режим_работы_ау_дежурный">ДЕЖУРНЫЙ</a>, <a href="/gk_manual/docs/address_devices#режим_работы_ау_отключено">ОТКЛЮЧЕНО</a></td>
     </tr>
     <tr>
       <td style="text-align: left"><a href="/gk_manual/docs/address_devices#состояния-ау">Состояния</a></td>
-      <td style="text-align: center">???</td>
+      <td style="text-align: center"><a href="/gk_manual/docs/address_devices#состояние_ау_норма">норма</a>, <a href="/gk_manual/docs/address_devices#состояние_ау_неисправно">неисправно</a>, <a href="/gk_manual/docs/address_devices#состояние_ау_отключено">отключено</a></td>
     </tr>    
   </tbody>
 </table>
@@ -325,11 +325,11 @@ permalink: /docs/address_devices/auxiliaries
     </tr>
     <tr>
       <td style="text-align: left"><a href="/gk_manual/docs/address_devices#режимы-работы-ау">Режимы работы</a></td>
-      <td style="text-align: center">???</td>
+      <td style="text-align: center"><a href="/gk_manual/docs/address_devices#режим_работы_ау_дежурный">ДЕЖУРНЫЙ</a>, <a href="/gk_manual/docs/address_devices#режим_работы_ау_отключено">ОТКЛЮЧЕНО</a></td>
     </tr>
     <tr>
       <td style="text-align: left"><a href="/gk_manual/docs/address_devices#состояния-ау">Состояния</a></td>
-      <td style="text-align: center">???</td>
+      <td style="text-align: center"><a href="/gk_manual/docs/address_devices#состояние_ау_норма">норма</a>, <a href="/gk_manual/docs/address_devices#состояние_ау_неисправно">неисправно</a>, <a href="/gk_manual/docs/address_devices#состояние_ау_отключено">отключено</a></td>
     </tr>    
   </tbody>
 </table>
